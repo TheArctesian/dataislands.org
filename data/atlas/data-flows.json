@@ -1,0 +1,162 @@
+[
+ {
+  "id": "F01",
+  "supplier": {
+   "name": "Experian",
+   "brokerId": null
+  },
+  "recipient": {
+   "name": "IQVIA",
+   "brokerId": "iqvia-digital"
+  },
+  "dataTypes": [
+   "financial",
+   "demographic"
+  ],
+  "arrangement": "sale",
+  "status": "reported",
+  "endedOn": null,
+  "confidenceScore": {
+   "value": 0.55,
+   "factors": [
+    {
+     "factor": "evidence_medium",
+     "delta": 0.55
+    }
+   ]
+  },
+  "sources": [
+   "web-7afe1e01e84f"
+  ],
+  "evidence": {
+   "source": "web-7afe1e01e84f",
+   "url": "https://www.statnews.com/2022/07/28/top-iqvia-lawyer-declines-to-discuss-experian-relationship-but-pledges-privacy/",
+   "quote": "",
+   "date": "2022-07-28",
+   "confidence": "medium"
+  }
+ },
+ {
+  "id": "F02",
+  "supplier": {
+   "name": "NCTUE",
+   "brokerId": null
+  },
+  "recipient": {
+   "name": "Equifax",
+   "brokerId": null
+  },
+  "dataTypes": [
+   "credit header",
+   "utility account"
+  ],
+  "arrangement": "resale",
+  "status": "reported",
+  "endedOn": "2021-10",
+  "confidenceScore": {
+   "value": 0.45,
+   "factors": [
+    {
+     "factor": "evidence_medium",
+     "delta": 0.55
+    },
+    {
+     "factor": "primary_source",
+     "delta": 0.05
+    },
+    {
+     "factor": "stale",
+     "delta": -0.15
+    }
+   ]
+  },
+  "sources": [
+   "web-c06aaf03f398"
+  ],
+  "evidence": {
+   "source": "web-c06aaf03f398",
+   "url": "https://www.cdiaonline.org/wp-content/uploads/2021/12/Senator-Wyden-Letter-to-Chopra-on-Credit-Header.pdf",
+   "quote": "",
+   "date": "2021-12-08",
+   "confidence": "medium"
+  }
+ },
+ {
+  "id": "F03",
+  "supplier": {
+   "name": "Airlines Reporting Corporation",
+   "brokerId": "airlines-reporting"
+  },
+  "recipient": {
+   "name": "US Customs and Border Protection",
+   "brokerId": null
+  },
+  "dataTypes": [
+   "passenger names",
+   "itineraries",
+   "financial details"
+  ],
+  "arrangement": "sale",
+  "status": "reported",
+  "endedOn": null,
+  "confidenceScore": {
+   "value": 0.55,
+   "factors": [
+    {
+     "factor": "evidence_medium",
+     "delta": 0.55
+    }
+   ]
+  },
+  "sources": [
+   "web-fcc3cc9552d2"
+  ],
+  "evidence": {
+   "source": "web-fcc3cc9552d2",
+   "url": "https://www.404media.co/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/",
+   "quote": "",
+   "date": "2025-06-10",
+   "confidence": "medium"
+  }
+ },
+ {
+  "id": "F04",
+  "supplier": {
+   "name": "Eskimi",
+   "brokerId": null
+  },
+  "recipient": {
+   "name": "Datastream",
+   "brokerId": null
+  },
+  "dataTypes": [
+   "data on military personnel"
+  ],
+  "arrangement": "sale",
+  "status": "disputed",
+  "endedOn": null,
+  "confidenceScore": {
+   "value": 0.3,
+   "factors": [
+    {
+     "factor": "evidence_medium",
+     "delta": 0.55
+    },
+    {
+     "factor": "disputed_cap",
+     "delta": -0.25000000000000006
+    }
+   ]
+  },
+  "sources": [
+   "web-b3281be49863"
+  ],
+  "evidence": {
+   "source": "web-b3281be49863",
+   "url": "https://www.404media.co/eskimi-2/",
+   "quote": "",
+   "date": "2025-02-11",
+   "confidence": "medium"
+  }
+ }
+]

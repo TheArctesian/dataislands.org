@@ -1,0 +1,1090 @@
+[
+ {
+  "broker_id": "privco-holding",
+  "name": "PrivCo Holding Inc",
+  "other_names": [
+   "PrivCo Holding Inc",
+   "PrivCo Media, LLC",
+   "Privco Media LLC"
+  ],
+  "domains": [
+   "privco.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.privco.com/",
+    "text": "Private Company Database | PrivCo Financial Intelligence AI Integration Use Cases API Industries Pricing Methodology Find and value U.S. private companies others overlook Over 95% of U.S. private companies have never raised institutional capital. If a database is built on funding announcements, those companies are invisible. They're the core of what PrivCo covers. Build a watchlist See a sample company profile Contact sales Acme Industrial Supply $14M\u2013$22M Revenue up 18% Heartland Fabricators $8M\u2013$12M New funding event Summit Distribution Co. $31M\u2013$45M Ownership change Blue Ridge Services $6M\u2013$9M Added to watchlist Your watchlist \u00b7 4 of 47 companies Included with List Builder and Power Ask PrivCo from Claude, ChatGPT or Copilot Connect your PrivCo account to the AI tool you already use and ask in plain English. Answers draw on PrivCo revenue estimates, funding, deals and executives for 2M+ U.S. private companies. See how it works Find PrivCo in the Claude directory Microsoft Copilot through Copilot Studio agents. Setup guides Example prompt You: Find founder-owned manufacturing companies in Ohio with $20M to $100M in revenue that are not PE- or VC-backed. Show revenue, growth and f"
+   },
+   {
+    "url": "https://www.privco.com/privacy-policy",
+    "text": "PrivCo Privacy Policy AI Integration Use Cases API Industries Pricing Methodology PrivCo Privacy Policy Last Updated: July 2, 2024 Introduction This privacy and cookie policy (\"Policy\") describes how PrivCo Holding, Inc. (\"Company,\" \"we,\" and \"our\") collects, uses and shares personal data when using this website privco.com (the \"Site\"), Google Chrome Extension (\"Extension\") and our services provided in connection with the Site and Extension (the \"Services\"). Please read the following information carefully to understand our views and practices regarding your personal data and how we will treat it. Particularly Important Information Who we are: For the purpose of applicable data protection legislation, the data controller of your personal data is PrivCo Holding, Inc. of 149 East 23rd Street, #1904, New York, NY 10010. Must Read Sections: We draw your attention in particular to the sections entitled \"International Data Transfer\" and \"Your Rights.\" Changes to this Policy: We will post any modifications or changes to the Policy on our Site/Services. We reserve the right to modify the Policy at any time, so we encourage you to review it frequently. The \"Last Updated\" legend above indicat"
+   }
+  ]
+ },
+ {
+  "broker_id": "prodpro",
+  "name": "Prodpro Inc",
+  "other_names": [
+   "Prodpro Inc"
+  ],
+  "domains": [
+   "prodpro.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://prodpro.com/about/",
+    "text": "ProdPro Q3 2026 TV & Film Industry Insights Report now available here . Solutions Filmmakers Studios & Producers Crew Casting Directors Industry Organizations Unions & Guilds Film Commissions Vendors & Suppliers Rental Houses Post Services Software & Professional Services Agencies Investors & Market Analysts Platform Pipeline Intel on upcoming productions Analytics Answers to your strategic questions Network Connections for career advancement Studio Visibility for slate planning News & Analysis About Login Contact us Solutions Platform News & Analysis About Login Contact us Filmmakers Studios & Producers Crew Casting Directors Industry Organizations Unions & Guilds Film Commissions Vendors & Suppliers Rental Houses Post Services Software & Professional Services Agencies Investors & Market Analysts Pipeline Analytics Network Studio About ProdPro ProdPro is the only production intelligence platform that focuses on connecting the physical production ecosystem of the crew, vendors, and studios. Our expert in-house research is brought to life through the ProdPro platform, a dynamic suite of tools designed to help you never miss an opportunity. Our mission Connecting networks that make g"
+   },
+   {
+    "url": "https://app.prodpro.com/privacy-policy",
+    "text": "ProdPro Privacy Policy 0\">"
+   }
+  ]
+ },
+ {
+  "broker_id": "project-affinity",
+  "name": "Project Affinity, Inc.",
+  "other_names": [
+   "Project Affinity, Inc."
+  ],
+  "domains": [
+   "affinity.co"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [
+    "genai_developer"
+   ],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.affinity.co/company/about",
+    "text": "About us | Affinity CRM \u2014 GTM injects async, which reintroduces the exact layout shift this prevents. The GTM tag also re-runs the queue-object snippet below. That's harmless (the w[q]=w[q]||... guard means it won't clobber this one) so the tag does not need editing. Side benefit: the tag's waitForQualified UTM-identify poll now resolves on the first tick instead of waiting on GTM, and the traits buffer in the queue until qualified.js loads. DO NOT add async or defer to docking.js. It must parse synchronously. DO NOT move this below block 5 \u2014 it has to run before GTM fires qualified.js. defaultDocked is TRUE via Q_DOCK (2026-09-29). This depends on TWO things: 1. Qualified theme = \"Opened Pinned\" (Ava). 2. GTM \"Qualified Chatbot\" tag fires on \"Initialization - All Pages\" (GTM version 224). docking.js reserves the gutter immediately and gives qualified.js only 10 seconds (its internal init_qualified timeout) to claim it. On the old \"Window Loaded\" trigger that was too late: the gutter tore down and Ava fell back to the bubble. \u26a0\ufe0f If either of those changes (theme back to floating, or the GTM tag moved back to Window Loaded / DOM Ready), set Q_DOCK = false first. TESTING: ?q_dock=1 f"
+   },
+   {
+    "url": "https://www.affinity.co/",
+    "text": "Affinity CRM: The AI-First CRM for Private Capital \u2014 GTM injects async, which reintroduces the exact layout shift this prevents. The GTM tag also re-runs the queue-object snippet below. That's harmless (the w[q]=w[q]||... guard means it won't clobber this one) so the tag does not need editing. Side benefit: the tag's waitForQualified UTM-identify poll now resolves on the first tick instead of waiting on GTM, and the traits buffer in the queue until qualified.js loads. DO NOT add async or defer to docking.js. It must parse synchronously. DO NOT move this below block 5 \u2014 it has to run before GTM fires qualified.js. defaultDocked is TRUE via Q_DOCK (2026-09-29). This depends on TWO things: 1. Qualified theme = \"Opened Pinned\" (Ava). 2. GTM \"Qualified Chatbot\" tag fires on \"Initialization - All Pages\" (GTM version 224). docking.js reserves the gutter immediately and gives qualified.js only 10 seconds (its internal init_qualified timeout) to claim it. On the old \"Window Loaded\" trigger that was too late: the gutter tore down and Ava fell back to the bubble. \u26a0\ufe0f If either of those changes (theme back to floating, or the GTM tag moved back to Window Loaded / DOM Ready), set Q_DOCK = false "
+   },
+   {
+    "url": "https://www.affinity.co/legal/privacy-policy",
+    "text": "Privacy Policy | Affinity CRM \u2014 GTM injects async, which reintroduces the exact layout shift this prevents. The GTM tag also re-runs the queue-object snippet below. That's harmless (the w[q]=w[q]||... guard means it won't clobber this one) so the tag does not need editing. Side benefit: the tag's waitForQualified UTM-identify poll now resolves on the first tick instead of waiting on GTM, and the traits buffer in the queue until qualified.js loads. DO NOT add async or defer to docking.js. It must parse synchronously. DO NOT move this below block 5 \u2014 it has to run before GTM fires qualified.js. defaultDocked is TRUE via Q_DOCK (2026-09-29). This depends on TWO things: 1. Qualified theme = \"Opened Pinned\" (Ava). 2. GTM \"Qualified Chatbot\" tag fires on \"Initialization - All Pages\" (GTM version 224). docking.js reserves the gutter immediately and gives qualified.js only 10 seconds (its internal init_qualified timeout) to claim it. On the old \"Window Loaded\" trigger that was too late: the gutter tore down and Ava fell back to the bubble. \u26a0\ufe0f If either of those changes (theme back to floating, or the GTM tag moved back to Window Loaded / DOM Ready), set Q_DOCK = false first. TESTING: ?q_do"
+   }
+  ]
+ },
+ {
+  "broker_id": "project-applecart",
+  "name": "Project Applecart LLC",
+  "other_names": [
+   "Project Applecart LLC"
+  ],
+  "domains": [
+   "applecart.co"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.applecart.co/about",
+    "text": "About - Applecart and tags on every page of your site. --> About Solutions How it Works Careers News Resources Blog Podcast Get Started Capture Decision Maker Attention at Scale \u2122 The Most Important Decisions Are Made by the Hardest People to Reach and Influence \u2122 Applecart was founded in recognition of a challenge: the most influential individuals\u2014executives, investors, policymakers\u2014are the most difficult to access. Historically, organizations have often spent hundreds of millions of dollars to reach a handful of these key people. Applecart\u2019s technology is designed to level the playing field. Originally developed to reach the most elite stakeholders in government, Applecart now empowers clients to reach their most important and hard-to-reach decision makers effectively, at scale, and across categories with our Decision Maker Targeting TM product . Built around how decisions are made to drive outcomes that matter. Traditional digital targeting technology can deliver a mass audience for brand marketers, but not the audience of decision makers that can truly move the needle. Organizations need a sophisticated approach that reflects how high-stakes decisions are made. Decision makers "
+   },
+   {
+    "url": "https://www.applecart.co/",
+    "text": "Applecart and tags on every page of your site. --> The Decision Maker Marketing\u2122 Platform About Solutions How it Works Careers News Resources Blog Podcast Get Started The Most Important Decisions Are Made by the Hardest People to Reach and Influence \u2122 Applecart Puts Your Best Content in Front of Key Decision Makers and Those They Trust \u2122 Learn More Family Former Colleague Colleague Friend Applecart TM powers over 100 of the Fortune 500 and many other industry-leading organizations. If you need to reach C-suite executives, investors, analysts, board members, thought leaders, elected officials or policymakers to drive an important outcome, you need a different approach. You Need Applecart\u2019s Decision Maker Marketing TM Get Started How it Works Explore how our Decision Maker Targeting TM product helps you reach a Decision Maker Network. Explore How Solutions by Organization Challenge Organization Challenge Solutions by Organization Applecart's Decision Maker Targeting \u2122 helps C-suite executives at leading companies, agencies, trade associations and advocacy organizations reach their most critical stakeholders from policymakers to customers and employees. Fortune 2,000 Companies Trade A"
+   }
+  ]
+ },
+ {
+  "broker_id": "propbot",
+  "name": "Propbot LLC",
+  "other_names": [
+   "Propbot LLC"
+  ],
+  "domains": [
+   "propbotusa.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://propbotusa.com/about",
+    "text": "Same Day Pre-Foreclosure Leads & Automated Foreclosure Notices | PropBot USA"
+   }
+  ]
+ },
+ {
+  "broker_id": "property-reach-l-p",
+  "name": "Property Reach, L.P.",
+  "other_names": [
+   "PROPERTY REACH L.P.",
+   "Property Reach LP",
+   "Property Reach, L.P.",
+   "Property Reach, LP"
+  ],
+  "domains": [
+   "leadsherpa.com",
+   "propertyreach.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://leadsherpa.com/",
+    "text": "Compliant SMS & Skip Tracing for Real Estate Investors | Lead Sherpa Skip to content \ud83d\udcf1 NEW DATA SET: Skip Trace LLCs and Trusts with Verified Contact Info. Start for free today. Platform Product Tour Skip Tracing PropStack Customers Our Data Reviews Pricing Resources Community knowledge Base Onboarding Videos SkipTracing API DNC Compliance Sign In Start For Free Menu Platform Product Tour Skip Tracing PropStack Customers Our Data Reviews Pricing Resources Community knowledge Base Onboarding Videos SkipTracing API DNC Compliance Sign In Compliant SMS & Accurate Skip Tracing The Complete Skip Tracing Platform for Real Estate Investors. Upload your leads, skip trace for up-to-date contact info, and start conversations that turn into deals. Start For Free POWERFUL FEATURES Grow Your REI Business with Skip Tracing. The most accurate data on the market. 14+ Data Points \u2013 Instant Results. Commercial & Residential. Find Thousands of Sellers in Seconds. Scale Your Business. Stack prospect lists, get highly accurate owner data, and target high-potential leads with TCPA-compliant text messaging. Start For Free New Skip Tracing Data: Unlock the Owners Behind Trusts & LLCs No more dead ends. No"
+   },
+   {
+    "url": "https://www.propertyreach.com/about/",
+    "text": "About PropertyReach: Your Ultimate Investment Tool Skip to content Menu Search Features Property Data Property Search Property Owner Lookup Real Estate Lead Lists Skip Tracing SMS Texting Direct Mail Deal Calculator Property API Who We Help Real Estate Investors Residential Real Estate Agents Commercial Agents & Brokers Mortgage Professionals Home Service Professionals Resources Blog Help Documentation API Documentation Pricing LOGIN START YOUR TRIAL Menu Search Features Property Data Property Search Property Owner Real Estate Lead Lists Skip Tracing SMS Texting Direct Mail Deal Calculator Property API pricing Who We Help Real Estate Investors Residential Real Estate Agents Commercial Agents & Brokers Mortgage Professionals Home Service Professionals blog Login About PropertyReach The best real estate deals aren\u2019t listed. They\u2019re found. PropertyReach is the off-market property search and real estate data platform built for professionals who want to find deals before anyone else \u2014 and have everything they need to close them. Why PropertyReach Exists Off-market properties are the best opportunity in real estate, and the hardest to find The right property might be owned by someone who"
+   },
+   {
+    "url": "https://www.propertyreach.com/",
+    "text": "Lead Search & Property Data: Unlock Real Estate Insights Skip to content Menu Search Features Property Data Property Search Property Owner Lookup Real Estate Lead Lists Skip Tracing SMS Texting Direct Mail Deal Calculator Property API Who We Help Real Estate Investors Residential Real Estate Agents Commercial Agents & Brokers Mortgage Professionals Home Service Professionals Resources Blog Help Documentation API Documentation Pricing LOGIN START YOUR TRIAL Menu Search Features Property Data Property Search Property Owner Real Estate Lead Lists Skip Tracing SMS Texting Direct Mail Deal Calculator Property API pricing Who We Help Real Estate Investors Residential Real Estate Agents Commercial Agents & Brokers Mortgage Professionals Home Service Professionals blog Login 5 Day Trial for $5 | Full access | Cancel anytime | Setup in 2 minutes Property Data & Lead Search for Real Estate Lead search and Property data for 160M+ properties. Skip tracing. Direct mail. SMS. One platform. Start your 5-day trial Who PropertyReach is built For Whatever your role, PropertyReach helps you find better leads and accurate insights, faster. Real Estate Investors Find the deal before it\u2019s listed \u2014 pre-f"
+   }
+  ]
+ },
+ {
+  "broker_id": "propertyradar",
+  "name": "PropertyRadar, Inc.",
+  "other_names": [
+   "PropertyRadar Inc.",
+   "PropertyRadar, Inc.",
+   "Propertyradar Inc",
+   "Propertyradar Inc.",
+   "Propertyradar, Inc."
+  ],
+  "domains": [
+   "propertyradar.com"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [
+    "federal_government",
+    "law_enforcement",
+    "state_government"
+   ],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.propertyradar.com/about",
+    "text": "Empowering Small Businesses With Property Data | PropertyRadar Skip to main content Show submenu for Who We Serve Who We Serve Real Estate Investors Residential Agents Commercial Agents Mortgage Pros Home & Property Services Others Show submenu for Lead Gen Plays Lead Gen Plays Show submenu for Real Estate Investors Real Estate Investors Preforeclosure Probate Absentee Owners Vacant Tax Delinquent View All Plays Show submenu for Residential Agents Residential Agents Likely to Sell Expired Listings Divorce Strategic Geofarm Bankruptcy View All Plays Show submenu for Commercial Agents Commercial Agents Submarket Farming Distressed Commercial Owner-User Exits Buyer Needs Portfolio Owners View All Plays Show submenu for Mortgage Pros Mortgage Pros Better Rate Refis Cash Out Refis FHA Streamline VA Streamline Hard Money View All Plays Show submenu for Home & Property Services Home & Property Services New Owners Aging Systems Equity Upgrades Remote Landlords Home Sellers View All Plays Show submenu for Features Features Feature Overview Property & Owner Data Targeted Marketing Foreclosures Real Estate Tools Address Scanner Integrations API Our Data Login Open main navigation Close main n"
+   },
+   {
+    "url": "https://www.propertyradar.com/",
+    "text": "Find Motivated Property Owners | Grow Your Business | PropertyRadar Skip to main content Show submenu for Who We Serve Who We Serve Real Estate Investors Residential Agents Commercial Agents Mortgage Pros Home & Property Services Others Show submenu for Lead Gen Plays Lead Gen Plays Show submenu for Real Estate Investors Real Estate Investors Preforeclosure Probate Absentee Owners Vacant Tax Delinquent View All Plays Show submenu for Residential Agents Residential Agents Likely to Sell Expired Listings Divorce Strategic Geofarm Bankruptcy View All Plays Show submenu for Commercial Agents Commercial Agents Submarket Farming Distressed Commercial Owner-User Exits Buyer Needs Portfolio Owners View All Plays Show submenu for Mortgage Pros Mortgage Pros Better Rate Refis Cash Out Refis FHA Streamline VA Streamline Hard Money View All Plays Show submenu for Home & Property Services Home & Property Services New Owners Aging Systems Equity Upgrades Remote Landlords Home Sellers View All Plays Show submenu for Features Features Feature Overview Property & Owner Data Targeted Marketing Foreclosures Real Estate Tools Address Scanner Integrations API Our Data Login Open main navigation Close m"
+   },
+   {
+    "url": "https://www.propertyradar.com/privacy-policy",
+    "text": "Privacy Policy Overview | Personal Information Collection and Use | PropertyRadar Skip to main content Show submenu for Who We Serve Who We Serve Real Estate Investors Residential Agents Commercial Agents Mortgage Pros Home & Property Services Others Show submenu for Lead Gen Plays Lead Gen Plays Show submenu for Real Estate Investors Real Estate Investors Preforeclosure Probate Absentee Owners Vacant Tax Delinquent View All Plays Show submenu for Residential Agents Residential Agents Likely to Sell Expired Listings Divorce Strategic Geofarm Bankruptcy View All Plays Show submenu for Commercial Agents Commercial Agents Submarket Farming Distressed Commercial Owner-User Exits Buyer Needs Portfolio Owners View All Plays Show submenu for Mortgage Pros Mortgage Pros Better Rate Refis Cash Out Refis FHA Streamline VA Streamline Hard Money View All Plays Show submenu for Home & Property Services Home & Property Services New Owners Aging Systems Equity Upgrades Remote Landlords Home Sellers View All Plays Show submenu for Features Features Feature Overview Property & Owner Data Targeted Marketing Foreclosures Real Estate Tools Address Scanner Integrations API Our Data Login Open main navi"
+   }
+  ]
+ },
+ {
+  "broker_id": "prospectbase-uk",
+  "name": "ProspectBase UK Limited",
+  "other_names": [
+   "ProspectBase UK Limited"
+  ],
+  "domains": [
+   "prospectbase.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.prospectbase.com/about",
+    "text": "About - ProspectBase Solutions \uf15b Content Syndication Your content in front of key decision makers \uf78a Social Advertising Precision LinkedIn engagement. \uf649 Display Advertising Programmatic display built to reach and influence buying groups. \uf03d Content Creation Build authority-driving content across formats and funnels. \uf8f1 Audio Advertising Deliver brand messages in high-attention, screen-free environments. \uf2b6 Email Marketing Email outreach built for modern B2B buying teams \uf26c ConnectedTV Premium video for senior decision-makers. ABM Acceleration A comprehensive multi-channel ABM strategy that ensures your messaging is seen and engaged with by all of your ABM accounts. Latest Resource 2025: The state of AI within B2B marketing Download the report CommitSignal\u2122 AI ProspectHub Resources Resources Blog categories B2B Data ABM Insights Latest News View all news AI Readiness Pulse | Is your team AI Ready? What to do next. The AI Readiness Pulse is a free 3-minute self-assessment for B2B marketing teams. Find your AI stage, see five capability areas, and get a stage guide. Read more 3 ways to adapt your marketing outreach 3 ways to adapt your marketing outreach Read more Maximizing business growt"
+   },
+   {
+    "url": "https://www.prospectbase.com/",
+    "text": "Multi-Channel ABM Solutions - ProspectBase Solutions \uf15b Content Syndication Your content in front of key decision makers \uf78a Social Advertising Precision LinkedIn engagement. \uf649 Display Advertising Programmatic display built to reach and influence buying groups. \uf03d Content Creation Build authority-driving content across formats and funnels. \uf8f1 Audio Advertising Deliver brand messages in high-attention, screen-free environments. \uf2b6 Email Marketing Email outreach built for modern B2B buying teams \uf26c ConnectedTV Premium video for senior decision-makers. ABM Acceleration A comprehensive multi-channel ABM strategy that ensures your messaging is seen and engaged with by all of your ABM accounts. Latest Resource 2025: The state of AI within B2B marketing Download the report CommitSignal\u2122 AI ProspectHub Resources Resources Blog categories B2B Data ABM Insights Latest News View all news AI Readiness Pulse | Is your team AI Ready? What to do next. The AI Readiness Pulse is a free 3-minute self-assessment for B2B marketing teams. Find your AI stage, see five capability areas, and get a stage guide. Read more 3 ways to adapt your marketing outreach 3 ways to adapt your marketing outreach Read more Max"
+   }
+  ]
+ },
+ {
+  "broker_id": "proxima-platform",
+  "name": "Proxima Platform",
+  "other_names": [
+   "Proxima Platform"
+  ],
+  "domains": [
+   "proximaplatform.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.proximaplatform.com/about-us",
+    "text": "ABOUT US HOME SOLUTIONS REGISTRATION PORTALS HCP REGISTRATION PORTAL LUXURY REGISTRATION SOCIAL LIFESTYLE REGISTRATION CANNABIS REGISTRATION PORTAL PATIENT REGISTRATION PORTAL SMART TV REGISTRATION PORTAL GLOBAL LOYALTY REGISTRATION PORTAL PRIVACY POLICIES CONSUMER PRIVACY POLICY GDPR PRIVACY POLICY SMART TV PRIVACY POLICY CCPA JAPAN MORE CANNABIS SOLUTION OPT OUT PAGE ABOUT US MEDIA SERVICES CONTACT US ABOUT US OUR TEAM Leadership Proxima Platform is led by its founder, Alex de Aybar who has over 20+ years experience in developing Omni Channel Solutions for clients in the Pharmaceutical, Health-Wellness, Premium \u2013 Luxury & Cannabis markets. Area of Focus Alex de Aybar focus at Proxima Platform is in helping brands that are Consumer facing on the Digital Highway to expedite their Digital Transformation & Customer Centric Transformation both on the Data & Behavioral Insights & Omni Channel side. He leads our Behavioral \u2013 Predictive Practice at Proxima Platform \u00a9 2026 Proxima Platfos - All Rights Reserved Share by:"
+   },
+   {
+    "url": "https://www.proximaplatform.com/",
+    "text": "HOME HOME SOLUTIONS REGISTRATION PORTALS HCP REGISTRATION PORTAL LUXURY REGISTRATION SOCIAL LIFESTYLE REGISTRATION CANNABIS REGISTRATION PORTAL PATIENT REGISTRATION PORTAL SMART TV REGISTRATION PORTAL GLOBAL LOYALTY REGISTRATION PORTAL PRIVACY POLICIES CONSUMER PRIVACY POLICY GDPR PRIVACY POLICY SMART TV PRIVACY POLICY CCPA JAPAN MORE CANNABIS SOLUTION OPT OUT PAGE ABOUT US MEDIA SERVICES CONTACT US Aligning Voice to Community HELPING BRANDS TO STAY RELEVANT \ufeff UNDERSTANDING YOUR AUDIENCE ABOUT US Passionate Marketing Experts Proxima Platform is a Data \u2013 Analytics-Intelligence agency with over 20 years of digital & omni-channel experience with a core focus on the Pharmaceutical / Health-Wellness, Luxury Consumer & Cannabis markets from a global perspective. Proxima Platform sits on the intersection of the Digital Transformation Highway & Big Data for Brands We help brands to identify the different communities that make up their Audience for their brand. Aligning Voice to Community. Each community is unique with respects to personality and how they perceive and respond to your brand by messaging and media. Our solution is fueled by over 2,000 deterministic data points that covers Tra"
+   },
+   {
+    "url": "https://www.proximaplatform.com/consumer-privacy-policy",
+    "text": "CONSUMER PRIVACY POLICY HOME SOLUTIONS REGISTRATION PORTALS HCP REGISTRATION PORTAL LUXURY REGISTRATION SOCIAL LIFESTYLE REGISTRATION CANNABIS REGISTRATION PORTAL PATIENT REGISTRATION PORTAL SMART TV REGISTRATION PORTAL GLOBAL LOYALTY REGISTRATION PORTAL PRIVACY POLICIES CONSUMER PRIVACY POLICY GDPR PRIVACY POLICY SMART TV PRIVACY POLICY CCPA JAPAN MORE CANNABIS SOLUTION OPT OUT PAGE ABOUT US MEDIA SERVICES CONTACT US CONSUMER PRIVACY POLICY CONSUMER PRIVACY POLICY QM Ventures(\u201cQM\u201d) is committed to protecting your privacy and the privacy of others. Please read this Privacy Policy in reference to the QM website and services. By using this website or any of QM's services, you consent to the use by QM, its affiliates and third-party vendors of any information or content you submit through the website or pursuant to the provision of services by QM in the manner described in this Privacy Policy. Questions Regarding Privacy Policy If you have any questions or concerns regarding our current Privacy Policy please email us at info@quantummedica.co.uk 3rd Party Dating Sharing Please note that QM Ventures has the right to share your PII ( Personal Identifiable Information) that you have provi"
+   }
+  ]
+ },
+ {
+  "broker_id": "publicrecordcom",
+  "name": "PublicRecordCom, LLC",
+  "other_names": [
+   "PublicRecordCom, LLC"
+  ],
+  "domains": [
+   "publicrecord.com"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://publicrecord.com/",
+    "text": "PublicRecord.com People Search | Free People Finder & White Pages - Locate Anyone publicrecord.com Search for Public Records All States Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Search Cancel People Search Phone Lookup Address Lookup Blog Contact us Discover Public Records Name Search Phone Search Address Search All States Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Te"
+   }
+  ]
+ },
+ {
+  "broker_id": "publicrecordsnow",
+  "name": "PublicRecordsNow",
+  "other_names": [
+   "PublicRecordsNow"
+  ],
+  "domains": [
+   "publicrecordsnow.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://publicrecordsnow.com/about",
+    "text": "PublicRecordsNow - People Search, Background Checks & Public Records PublicRecordsNow Search Public Records Features Blog About FAQ Fast, Accurate People Search Search for people with our hassle-free people search engine and public records database. Name Search Name Background Report Background Reverse Phone Phone Search 120+ Billion Records Lightning Fast Search Results 100% Secure & Private Browse by Category Explore our specialized search services to find exactly what you need People Search Find contact information, addresses, and more Reverse Phone Lookup Identify unknown callers and phone numbers Background Check Access comprehensive background reports Find Old Friends Reconnect with people from your past Criminal Records Search criminal history and court records People Search & Public Records Access over 120 billion public records from thousands of data sources to find the information you need. Name Search Search by first and last name to find detailed contact information and public records. Reverse Phone Lookup Find out who's calling with instant reverse phone number results that are up-to-date. Background Reports Access comprehensive background checks including criminal rec"
+   }
+  ]
+ },
+ {
+  "broker_id": "pulsepoint",
+  "name": "PulsePoint, Inc.",
+  "other_names": [
+   "PulsePoint, Inc.",
+   "Pulsepoint, Inc."
+  ],
+  "domains": [
+   "pulsepoint.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.pulsepoint.com/",
+    "text": "PulsePoint Healthcare Marketing Technology Skip to Main Content Platform Capabilities Solutions: Targeting Activation Optimization Media Effectiveness Partnerships Resources Resource Center Events Product Guides White Papers Insights Blogs On Demand Client Success Stories Trader Hall of Fame Certifications Company About Awards Careers Newsroom Contact Us Log In Contact Us Log In Skip to Main Content Platform Capabilities Solutions: Targeting Activation Optimization Media Effectiveness Partnerships Resources Resource Center Events Product Guides White Papers Insights Blogs On Demand Client Success Stories Trader Hall of Fame Certifications Company About Awards Careers Newsroom Contact Us Log In Contact Us Log In Skip to Main Content Platform Capabilities Solutions: Targeting Activation Optimization Media Effectiveness Partnerships Resources Resource Center Events Product Guides White Papers Insights Blogs On Demand Client Success Stories Trader Hall of Fame Certifications Company About Awards Careers Newsroom Contact Us Log In Contact Us Log In The Healthcare Marketing Platform Activate exclusive health data, innovative technologies, and omnichannel marketing campaigns for unmatched"
+   },
+   {
+    "url": "https://www.pulsepoint.com/legal/platform-privacy-policy",
+    "text": "Platform Privacy Policy | PulsePoint Skip to Main Content Platform Capabilities Solutions: Targeting Activation Optimization Media Effectiveness Partnerships Resources Resource Center Events Product Guides White Papers Insights Blogs On Demand Client Success Stories Trader Hall of Fame Certifications Company About Awards Careers Newsroom Contact Us Log In Contact Us Log In Back to All Policies & Terms Table of Contents Text Link Platform Privacy Policy Updated: June 30, 2026 This policy applies to PulsePoint\u2019s platforms and services, including PulsePoint\u2019s ad exchange, demand-side platform, and data analytics product(s) (collectively, the \u201cPlatforms\u201d), and it explains our practices regarding the collection, use, and disclosure of information on our platforms as well as your rights with regard to that information. This policy does not govern the collection and use of information through our website at www.pulsepoint.com \u2013 that is governed by our website privacy policy . This policy also does not govern the collection or use of information collected by our clients or the third parties they may otherwise contract with. If you would like to go straight to our cookie opt-out tool, click"
+   },
+   {
+    "url": "https://www.pulsepoint.com/legal",
+    "text": "Policies & Terms | Privacy, Data & Legal | PulsePoint Skip to Main Content Platform Capabilities Solutions: Targeting Activation Optimization Media Effectiveness Partnerships Resources Resource Center Events Product Guides White Papers Insights Blogs On Demand Client Success Stories Trader Hall of Fame Certifications Company About Awards Careers Newsroom Contact Us Log In Contact Us Log In Policies & Terms Privacy Consumer Opt Out Tool Read More EEA Supplement Read More Website Privacy Policy Read More Platform Privacy Policy This policy applies to PulsePoint\u2019s platforms and services, including PulsePoint\u2019s ad exchange, demand-side platform, and data analytics product(s) (collectively, the \u201cPlatforms\u201d), and it explains our practices regarding the collection, use, and disclosure of information on our platforms as well as your rights with regard to that information... Read More Policies Creative Quality Policy PulsePoint ensures all threads served via Pulsepoint platform meets high quality standards and good userexperience. The ads that appear are as per the inventory providers /publishers\u2019 recommendations and guidelines... Read More Supply Policy Our Impression Quality Index\u2122 (IQInd"
+   }
+  ]
+ },
+ {
+  "broker_id": "purecars-technologies",
+  "name": "Purecars Technologies, LLC",
+  "other_names": [
+   "Purecars Technologies, LLC"
+  ],
+  "domains": [
+   "purecars.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.purecars.com/about",
+    "text": "About Us | PureCars Platform platform PureCars Platform One intelligence layer for every customer moment. PureCars CDP Unify your dealership's data. PureCars Ads Reach in-market shoppers across every channel. PureCars Marketing Full-service campaigns, built and run for you. PureCars Data Mining (by AutoAlert) Find and act on your best sales opportunities. PureCars AI 24/7 AI conversations that book appointments. PureCars Insights Bring your performance and market in one view. featured PureCars Data Mining PureCars Data Mining, powered by AutoAlert, identifies the customers most likely to buy, trade, service, or renew, prioritizes which ones deserve attention first, and gives your team a clear next step to act on them. Who We Serve OEM Programs PureCars connects you with certified OEM programs. Dealers Tailored digital marketing strategies. Agencies Automotive-grade advertising, data, and technology. OEMs One partner from national strategy to dealer execution. Results Resources Resources News What's new at PureCars Videos Demos, webinars and customer stories. Product Videos See the PureCars platform in action. FAQ Answers to the most common questions about PureCars. featured news Ou"
+   },
+   {
+    "url": "https://www.purecars.com/",
+    "text": "PureCars | Connect Every Customer. Activate Every Opportunity. Platform platform PureCars Platform One intelligence layer for every customer moment. PureCars CDP Unify your dealership's data. PureCars Ads Reach in-market shoppers across every channel. PureCars Marketing Full-service campaigns, built and run for you. PureCars Data Mining (by AutoAlert) Find and act on your best sales opportunities. PureCars AI 24/7 AI conversations that book appointments. PureCars Insights Bring your performance and market in one view. featured PureCars Data Mining PureCars Data Mining, powered by AutoAlert, identifies the customers most likely to buy, trade, service, or renew, prioritizes which ones deserve attention first, and gives your team a clear next step to act on them. Who We Serve OEM Programs PureCars connects you with certified OEM programs. Dealers Tailored digital marketing strategies. Agencies Automotive-grade advertising, data, and technology. OEMs One partner from national strategy to dealer execution. Results Resources Resources News What's new at PureCars Videos Demos, webinars and customer stories. Product Videos See the PureCars platform in action. FAQ Answers to the most common"
+   },
+   {
+    "url": "https://www.purecars.com/privacy-policy",
+    "text": "Privacy Policy | PureCars Platform platform PureCars Platform One intelligence layer for every customer moment. PureCars CDP Unify your dealership's data. PureCars Ads Reach in-market shoppers across every channel. PureCars Marketing Full-service campaigns, built and run for you. PureCars Data Mining (by AutoAlert) Find and act on your best sales opportunities. PureCars AI 24/7 AI conversations that book appointments. PureCars Insights Bring your performance and market in one view. featured PureCars Data Mining PureCars Data Mining, powered by AutoAlert, identifies the customers most likely to buy, trade, service, or renew, prioritizes which ones deserve attention first, and gives your team a clear next step to act on them. Who We Serve OEM Programs PureCars connects you with certified OEM programs. Dealers Tailored digital marketing strategies. Agencies Automotive-grade advertising, data, and technology. OEMs One partner from national strategy to dealer execution. Results Resources Resources News What's new at PureCars Videos Demos, webinars and customer stories. Product Videos See the PureCars platform in action. FAQ Answers to the most common questions about PureCars. featured n"
+   }
+  ]
+ },
+ {
+  "broker_id": "quad-graphics",
+  "name": "Quad Graphics, Inc.",
+  "other_names": [
+   "Quad Graphics, Inc.",
+   "Quad/Graphics Inc",
+   "Quad/Graphics Inc.",
+   "Quad/Graphics, Inc",
+   "Quad/Graphics, Inc."
+  ],
+  "domains": [
+   "quad.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": [
+    "HIPAA"
+   ]
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.quad.com/about",
+    "text": "About our company | Quad marketing solutions Skip to content Toggle Navigation Careers Investors Employees Espa\u00f1ol English Search for: Solutions Solutions Production Commercial Printing Packaging In-Store Signage & Displays Branded Merchandise Managed Services Postal Optimization Creative Content Creation 3D Scanning Technology Media Direct Marketing In-Store Retail Media Intelligence Research & Testing Technology Direct Mail Automation Platform Local Marketing Platform Retail Media Network Our Agencies Omnichannel Media Creative Services Brand Design Direct Marketing Industries Industries Consumer Packaged Goods Retail Direct-to-Consumer Publishing Financial Services Health Our Agencies Omnichannel Media Brand Design Creative Services Direct Marketing Our Work Research & Insights About Us About Us Who We Are What We Do Leadership Where We Are Newsroom Investors Careers Corporate Responsibility Our Agencies Omnichannel Media Brand Design Creative Services Direct Marketing Search for: Contact us Search for: Toggle Navigation Solutions Production Commercial Printing Packaging In-Store Signage & Displays Branded Merchandise Managed Services Postal Optimization Creative Content Creatio"
+   },
+   {
+    "url": "https://www.quad.com/",
+    "text": "Quad MX Solutions: Smarter Marketing, Better Results Skip to content Toggle Navigation Careers Investors Employees Espa\u00f1ol English Search for: Solutions Solutions Production Commercial Printing Packaging In-Store Signage & Displays Branded Merchandise Managed Services Postal Optimization Creative Content Creation 3D Scanning Technology Media Direct Marketing In-Store Retail Media Intelligence Research & Testing Technology Direct Mail Automation Platform Local Marketing Platform Retail Media Network Our Agencies Omnichannel Media Creative Services Brand Design Direct Marketing Industries Industries Consumer Packaged Goods Retail Direct-to-Consumer Publishing Financial Services Health Our Agencies Omnichannel Media Brand Design Creative Services Direct Marketing Our Work Research & Insights About Us About Us Who We Are What We Do Leadership Where We Are Newsroom Investors Careers Corporate Responsibility Our Agencies Omnichannel Media Brand Design Creative Services Direct Marketing Search for: Contact us Search for: Toggle Navigation Solutions Production Commercial Printing Packaging In-Store Signage & Displays Branded Merchandise Managed Services Postal Optimization Creative Content"
+   }
+  ]
+ },
+ {
+  "broker_id": "quadrant-global-pte",
+  "name": "Quadrant Global Pte. Ltd.",
+  "other_names": [
+   "Quadrant Global Pte. Ltd."
+  ],
+  "domains": [
+   "quadrant.io"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.quadrant.io/about-us",
+    "text": "About Quadrant Skip to content Products Show submenu for Products Location Data Point-of-Interest Data Tools Show submenu for Tools Technical Docs Algorithms & Queries Collateral Materials Knowledge Base Resources Show submenu for Resources Case Studies eBooks Webinars Collateral Materials Use Cases Show submenu for Use Cases Location Data Show submenu for Location Data Transportation Urban Planning Retail OOH Advertising Foot Traffic Analysis Research & Academia POI Data Show submenu for POI Data eCommerce Last Mile Delivery Travel & Tourism Food Delivery Navigation & Mapping About Us Show submenu for About Us Blog Newsletter FAQs Company Open main navigation Close main navigation Products Show submenu for Products Location Data Point-of-Interest Data Tools Show submenu for Tools Technical Docs Algorithms & Queries Collateral Materials Knowledge Base Resources Show submenu for Resources Case Studies eBooks Webinars Collateral Materials Use Cases Show submenu for Use Cases Location Data Show submenu for Location Data Transportation Urban Planning Retail OOH Advertising Foot Traffic Analysis Research & Academia POI Data Show submenu for POI Data eCommerce Last Mile Delivery Travel &"
+   },
+   {
+    "url": "https://www.quadrant.io/",
+    "text": "Quadrant | Location Data and POI Data Solutions Skip to content Products Show submenu for Products Location Data Point-of-Interest Data Tools Show submenu for Tools Technical Docs Algorithms & Queries Collateral Materials Knowledge Base Resources Show submenu for Resources Case Studies eBooks Webinars Collateral Materials Use Cases Show submenu for Use Cases Location Data Show submenu for Location Data Transportation Urban Planning Retail OOH Advertising Foot Traffic Analysis Research & Academia POI Data Show submenu for POI Data eCommerce Last Mile Delivery Travel & Tourism Food Delivery Navigation & Mapping About Us Show submenu for About Us Blog Newsletter FAQs Company Open main navigation Close main navigation Products Show submenu for Products Location Data Point-of-Interest Data Tools Show submenu for Tools Technical Docs Algorithms & Queries Collateral Materials Knowledge Base Resources Show submenu for Resources Case Studies eBooks Webinars Collateral Materials Use Cases Show submenu for Use Cases Location Data Show submenu for Location Data Transportation Urban Planning Retail OOH Advertising Foot Traffic Analysis Research & Academia POI Data Show submenu for POI Data eCom"
+   }
+  ]
+ },
+ {
+  "broker_id": "qualfon",
+  "name": "Qualfon",
+  "other_names": [
+   "Qualfon"
+  ],
+  "domains": [
+   "qualfon.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.qualfon.com/about-us/",
+    "text": "About Qualfon | AI-Governed Growth and CX Operations Skip to content Solutions Close Solutions Open Solutions Acquire. Convert. Retain. Grow. One AI-governed operating model. Revenue Growth Sales Performance inside sales solutions, outsourced sales teams Customer Retention & Loyalty predictive churn modeling, cx retention & loyalty solutions Revenue Operations revops-as-a-service, revops strategy Customer Intelligence predictive audience modeling, customer data unification Customer Experience Call Center Support call center outsourcing, inbound customer care CX Innovation call center quality monitoring, AI-powered innovations Back Office Support back office services, data entry, claims processing Marketing Services Lead Generation traditional and digital lead generation, lead quality Direct Mail & Print Services personalized direct mail, variable data printing Fulfillment real-time inventory tracking, product prep, kitting, and ecommerce Not sure which solution is right for you? Speak with our experts to find the perfect fit for your business Schedule Consultation Contact Us Industries Close Industries Open Industries Financial Services Insurance Healthcare Retail & Ecommerce Telec"
+   },
+   {
+    "url": "https://www.qualfon.com/",
+    "text": "Customer Experience Solutions & BPO Company | Qualfon Skip to content Solutions Close Solutions Open Solutions Acquire. Convert. Retain. Grow. One AI-governed operating model. Revenue Growth Sales Performance inside sales solutions, outsourced sales teams Customer Retention & Loyalty predictive churn modeling, cx retention & loyalty solutions Revenue Operations revops-as-a-service, revops strategy Customer Intelligence predictive audience modeling, customer data unification Customer Experience Call Center Support call center outsourcing, inbound customer care CX Innovation call center quality monitoring, AI-powered innovations Back Office Support back office services, data entry, claims processing Marketing Services Lead Generation traditional and digital lead generation, lead quality Direct Mail & Print Services personalized direct mail, variable data printing Fulfillment real-time inventory tracking, product prep, kitting, and ecommerce Not sure which solution is right for you? Speak with our experts to find the perfect fit for your business Schedule Consultation Contact Us Industries Close Industries Open Industries Financial Services Insurance Healthcare Retail & Ecommerce Tele"
+   }
+  ]
+ },
+ {
+  "broker_id": "quorum-data",
+  "name": "Quorum Data, Inc",
+  "other_names": [
+   "Quorum Data, Inc",
+   "Quorum Data, Inc."
+  ],
+  "domains": [
+   "quorum.inc",
+   "quorum.live"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://quorum.inc/",
+    "text": "Quorum \u2014 Analytics for the LLM era, with real-world outcomes \u2726 New: tag your media, then ask your data anything \u2014 in Claude, ChatGPT or Gemini. Create an account \u2192 QUORUM How it works Audiences Movement Index Try it live Docs Log in Add to Claude Create an account \u2192 Analytics for the LLM era \u00b7 real-world outcomes included Tag your media. Ask your data anything. Website CTV & streaming Programmatic Out-of-home Quorum turns your web, CTV, programmatic and OOH logs into one structured dataset an LLM can actually use \u2014 resolved to ~74.6M real U.S. households, and carrying the dimension analytics never had: whether they walked in. Drop a pixel, get your data back as an asset you own, and ask it questions in plain English. Create an account \u2192 See how it works \u2193 74.6M Households 736,984 Venues tracked 100% Deterministic Opt-in \u00b7 k-anonymous Honoree 2024 \u00b7 2025 \u00b7 2026 How it works Three things that have never been joined. One graph that joins them. Media exposure, website traffic and real-world visits \u2014 resolved to the same household. Every pathway between them is a question you can finally answer. And the whole graph sits inside your environment: queried by your own LLM over MCP, and matc"
+   },
+   {
+    "url": "https://app.quorum.live/privacy",
+    "text": "Privacy Policy - Quorum Docs Privacy Terms Contact Privacy Policy Effective: March 27, 2026 \u00b7 Quorum Data, Inc. Quorum Data, Inc. (\"Quorum,\" \"we,\" \"us,\" or \"our\") operates quorum.inc , quorum.works , and related services, APIs, and platforms (collectively, the \"Services\"). This Privacy Policy describes how we collect, use, disclose, retain, and protect information when you use our Services, advertising platform, and audience intelligence tools. By using the Services, you agree to the collection and use of information as described in this policy. If you do not agree, please discontinue use of the Services. 1. Information We Collect 1.1 Account & Contact Information When you register, request a demo, or contact us, we may collect your name, email address, phone number, company name, job title, billing address, and payment information to manage your account and provide Services. 1.2 Usage Data We automatically collect information about how you access and use the Services, including IP address, browser type and version, operating system, device identifiers, pages visited, time and date of access, referring URLs, clickstream data, and session duration. 1.3 Cookies & Tracking Technologie"
+   }
+  ]
+ },
+ {
+  "broker_id": "qurium-solutions",
+  "name": "Qurium Solutions, Inc.",
+  "other_names": [
+   "Qurium Solutions, Inc."
+  ],
+  "domains": [
+   "supplier.io"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://supplier.io/about",
+    "text": "About Supplier.io, the leader in Supplier Intelligence For procurement For suppliers Menu Products Back Products Atlas Supplier.io provides a Supplier Intelligence Platform for tracking, finding, and measuring the impact of sourcing with small, diverse and sustainable suppliers. Supplier Data Foundation Entity Resolution & Matching Corporate Hierarchies Data Cleansing & Enrichment Supplier Intelligence Analytics & Reporting Carbon Analytics Supplier Explorer Emissions Supplier Sourcing Supplier Explorer Supplier Registration Benchmarking Impact Measurement Economic Impact Analysis Tier 2 Spend Reporting Solutions Back Solutions Get a demo Find solutions to fit your business need. By Initiative Vendor Master Data Management ERP & S2P Migration AI & Analytics Readiness M&A Vendor Master Integration Supplier Diversity Software Supplier Compliance Software Supplier Visibility and Data Supplier Discovery and Vetting Measure Program Impact Manage Responsible Sourcing By Industry Business Services Energy & Utilities Financial Services Life Sciences Manufacturing Retail & Hospitality Public Sector and Higher Education By Role Procurement Legal & Compliance IT Finance Supplier Diversity Com"
+   },
+   {
+    "url": "https://supplier.io/",
+    "text": "Supplier Data and Intelligence for Business Growth | Supplier.io For procurement For suppliers Menu Products Back Products Atlas Supplier.io provides a Supplier Intelligence Platform for tracking, finding, and measuring the impact of sourcing with small, diverse and sustainable suppliers. Supplier Data Foundation Entity Resolution & Matching Corporate Hierarchies Data Cleansing & Enrichment Supplier Intelligence Analytics & Reporting Carbon Analytics Supplier Explorer Emissions Supplier Sourcing Supplier Explorer Supplier Registration Benchmarking Impact Measurement Economic Impact Analysis Tier 2 Spend Reporting Solutions Back Solutions Get a demo Find solutions to fit your business need. By Initiative Vendor Master Data Management ERP & S2P Migration AI & Analytics Readiness M&A Vendor Master Integration Supplier Diversity Software Supplier Compliance Software Supplier Visibility and Data Supplier Discovery and Vetting Measure Program Impact Manage Responsible Sourcing By Industry Business Services Energy & Utilities Financial Services Life Sciences Manufacturing Retail & Hospitality Public Sector and Higher Education By Role Procurement Legal & Compliance IT Finance Supplier Div"
+   },
+   {
+    "url": "https://supplier.io/privacy-policy",
+    "text": "Privacy Policy - Supplier.io For procurement For suppliers Menu Products Back Products Atlas Supplier.io provides a Supplier Intelligence Platform for tracking, finding, and measuring the impact of sourcing with small, diverse and sustainable suppliers. Supplier Data Foundation Entity Resolution & Matching Corporate Hierarchies Data Cleansing & Enrichment Supplier Intelligence Analytics & Reporting Carbon Analytics Supplier Explorer Emissions Supplier Sourcing Supplier Explorer Supplier Registration Benchmarking Impact Measurement Economic Impact Analysis Tier 2 Spend Reporting Solutions Back Solutions Get a demo Find solutions to fit your business need. By Initiative Vendor Master Data Management ERP & S2P Migration AI & Analytics Readiness M&A Vendor Master Integration Supplier Diversity Software Supplier Compliance Software Supplier Visibility and Data Supplier Discovery and Vetting Measure Program Impact Manage Responsible Sourcing By Industry Business Services Energy & Utilities Financial Services Life Sciences Manufacturing Retail & Hospitality Public Sector and Higher Education By Role Procurement Legal & Compliance IT Finance Supplier Diversity Company Back Company Supplier"
+   }
+  ]
+ },
+ {
+  "broker_id": "qwoted",
+  "name": "Qwoted, Inc.",
+  "other_names": [
+   "Qwoted, Inc."
+  ],
+  "domains": [
+   "qwoted.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.qwoted.com/",
+    "text": "Qwoted \u2013 Connecting the Media with Expert Sources Skip to content Solutions For Media Professionals For PR & Marketing For Experts For Product Marketers Find Expert Sources Fast | Qwoted for Newsrooms Resources Blog Events and Webinars Free Media Database Media Advisory Board Pricing Qwoted 100 Qwoted Agency Awards Qwoted Managed Services Expert Database Solutions For Media Professionals For PR & Marketing For Experts For Product Marketers Find Expert Sources Fast | Qwoted for Newsrooms Resources Blog Events and Webinars Free Media Database Media Advisory Board Pricing Qwoted 100 Qwoted Agency Awards Qwoted Managed Services Expert Database Log In Join for FREE How people use Qwoted Resources Financial Planners Medical Professionals CEOs of AI Companies Restaurant Chefs Mortgage Experts Log In Join Now Stories need humans. Join the largest network of journalists and experts. I write stories I want to be featured Our Mission The media deserves better tools. Journalism has never faced greater pressure. Newsrooms are stretched thinner, deadlines are tighter, and the demand for well-sourced, trustworthy reporting has never been higher. At the same time, the tools journalists use to find"
+   },
+   {
+    "url": "https://app.qwoted.com/privacy_policy",
+    "text": "Privacy Policy | Qwoted Copyright 2015-2026 Qwoted. All rights reserved.\"> A little support for the people keeping us informed. Know a journalist who could use a coffee? Nominate them. Learn more about Qwoted Learn more about Qwoted Privacy Policy Last Updated: September 17th, 2024 For members of the media, Qwoted's mission is to facilitate connections with experts instantly, sparing your inbox from PR spam and diversifying your sources all in one place. Qwoted also helps PR professionals and Sources build relationships with the media, including by reviewing questions from media members, and by pitching themselves, their products, companies, or clients as experts. Our Commitment to User Transparency All active profiles on Qwoted are public and transparent. To deliver value to our community and protect it against spam, it is essential for Qwoted platform users to know with certainty the identity of other users with whom they interact. Users who elect to change their profile to a private setting will no longer be visible to the Qwoted community and thus the majority of the features that Qwoted provides will no longer be available to those users. Who Are Our Users We collect personal "
+   },
+   {
+    "url": "https://www.qwoted.com/privacy-policy/",
+    "text": "Privacy Policy and Site Terms of Services | Qwoted Skip to content Solutions For Media Professionals For PR & Marketing For Experts For Product Marketers Find Expert Sources Fast | Qwoted for Newsrooms Resources Blog Events and Webinars Free Media Database Media Advisory Board Pricing Qwoted 100 Qwoted Agency Awards Qwoted Managed Services Expert Database Solutions For Media Professionals For PR & Marketing For Experts For Product Marketers Find Expert Sources Fast | Qwoted for Newsrooms Resources Blog Events and Webinars Free Media Database Media Advisory Board Pricing Qwoted 100 Qwoted Agency Awards Qwoted Managed Services Expert Database Log In Join for FREE How people use Qwoted Resources Financial Planners Medical Professionals CEOs of AI Companies Restaurant Chefs Mortgage Experts Log In Join Now Privacy Policy Last Updated: October 18th, 2021 For members of the media, Qwoted\u2019s mission is to facilitate connections with experts instantly, sparing your inbox from PR spam and diversifying your sources all in one place. Qwoted also helps PRS and Sources build relationships with the media, including by reviewing questions from media members, and by pitching themselves or their cli"
+   }
+  ]
+ },
+ {
+  "broker_id": "r-l-polk-and",
+  "name": "R.L. Polk & Co.",
+  "other_names": [
+   "R.L Polk & Company",
+   "R.L. Polk & Co.",
+   "S&P GLOBAL Inc",
+   "S&P Global Inc",
+   "S&P Global Inc."
+  ],
+  "domains": [
+   "mobiityglobal.com",
+   "mobilityglobal.com",
+   "polk.com",
+   "spglobal.com"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.mobilityglobal.com/en-us/about-us",
+    "text": "About Us | Mobility Global https://delivery-p189657-e1977718.adobeaemcloud.com/adobe/assets/urn:aaid:aem:08c3ea16-a9e1-4a0e-9f17-3757377be333/play image Eyebrow Driving confidence 100 years of insight. Built for what\u2019s next. outline true A foundation of excellence In 2026, we transitioned from a division of S&P Global to a standalone company with one focus: unified intelligence across the entire vehicle value chain. Independence gave us focus. Focus gives the industry an edge. OUR HISTORY Over 100 years of innovation 1870 Polk automotive intelligence logo Founded in 1870, it \u200bestablished a relationship with us\u200b in 1922. \u200bThe most up-to-date vehicle registration and vehicles-in-operation data.\u200b 1960 https://delivery-p189657-e1977718.adobeaemcloud.com/adobe/assets/urn:aaid:aem:a7bbfa9f-2728-498a-8264-f28241240d52/as/IHS%20Markit%20logo.avif Founded in 1960 as IHS, it becomes IHS Markit in 2019. An automotive intelligence hub with forecasting and analysis capabilities. 1984 carfax logo CARFAX was founded in 1984, providing vehicle history insights and a broader view of the marketplace to help consumers and businesses identify opportunities and minimize risk. CARFAX was later acquired "
+   },
+   {
+    "url": "https://www.mobilityglobal.com/",
+    "text": "Home | Mobility Global S&P Global Mobility is now Mobility Global New name, same world's standard for mobility intelligence. ABOUT US /content/mobility-global/en-us/about-us primary INVESTOR RELATIONS https://ir.mobilityglobal.com/ inverted https://delivery-p189657-e1977718.adobeaemcloud.com/adobe/assets/urn:aaid:aem:5dfe22c6-6dc0-45cc-a250-b6ec66401f50/play false What We Do For You We help billions of people build, buy, sell and maintain cars with data and intelligence they can't get anywhere else. outline Must-have insights for vital decisions For over a century, we\u2019ve set the standard for decision-making in the mobility industry, helping automakers, suppliers, and dealers develop, market, and sell winning products, while empowering consumers to buy and own with confidence. See our numbers https://delivery-p189657-e1977718.adobeaemcloud.com/adobe/assets/urn:aaid:aem:901314d9-d51c-4280-b234-f6e420919e8c/as/90-home.avif full-height Our Core Brands The brands that built us S&P Global Mobility logo https://delivery-p189657-e1977718.adobeaemcloud.com/adobe/assets/urn:aaid:aem:a7bbfa9f-2728-498a-8264-f28241240d52/as/IHS%20Markit%20logo.avif polk logo auto mastermind logo Market Scan lo"
+   }
+  ]
+ },
+ {
+  "broker_id": "r-r-donnelley-and-sons",
+  "name": "R. R. Donnelley & Sons Company",
+  "other_names": [
+   "R. R. Donnelley & Sons Company",
+   "VALASSIS COMMUNICATIONS Inc",
+   "Valassis Communications, Inc.",
+   "Valassis Communications, Inc., an RRD Company",
+   "Valassis Direct Mail, Inc",
+   "Valassis Direct Mail, Inc."
+  ],
+  "domains": [
+   "rrd.com",
+   "valassis.com"
+  ],
+  "california": {
+   "sensitive": [
+    "precise_geolocation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.rrd.com/about",
+    "text": "About Our Values, Mission, People, and Commitments | RRD Skip to Content LinkedIn LinkedIn logo icon Twitter X logo icon Youtube Youtube logo icon Location Map icon Location Finder Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Search Search Magnifying glass icon rrd logo for header Location Map icon Locations Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Services Services Overview Marketing & Media Marketing Overview Creative Services Data & Analytics Media Activation Direct Marketing Business Services Business Services Overview Presentations Administrative Support Office Services Integrated Packaging Integrated Packaging Overview Packaging Labels Supply Chain Print Print Overview Marketing Collateral Cooperative Media Spend Consulting Business Communications Signage & Displays Iridio RRD logo Unified Marketing Solutions Williams Lea RRD logo Tech-enabled Business Support --> Iridio Williams Lea --> Industries Industries We Serve Expert solutions tha"
+   },
+   {
+    "url": "https://www.rrd.com/",
+    "text": "RRD | Powering brand success, every day. Skip to Content LinkedIn LinkedIn logo icon Twitter X logo icon Youtube Youtube logo icon Location Map icon Location Finder Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Search Search Magnifying glass icon rrd logo for header Location Map icon Locations Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Services Services Overview Marketing & Media Marketing Overview Creative Services Data & Analytics Media Activation Direct Marketing Business Services Business Services Overview Presentations Administrative Support Office Services Integrated Packaging Integrated Packaging Overview Packaging Labels Supply Chain Print Print Overview Marketing Collateral Cooperative Media Spend Consulting Business Communications Signage & Displays Iridio RRD logo Unified Marketing Solutions Williams Lea RRD logo Tech-enabled Business Support --> Iridio Williams Lea --> Industries Industries We Serve Expert solutions that address specia"
+   },
+   {
+    "url": "https://www.rrd.com/privacy-policy",
+    "text": "Privacy Policy Overview | RRD Skip to Content LinkedIn LinkedIn logo icon Twitter X logo icon Youtube Youtube logo icon Location Map icon Location Finder Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Search Search Magnifying glass icon rrd logo for header Location Map icon Locations Global Presence Globe icon Global --> Our Footprint Globe icon Our Footprint Client Advocacy Star icon Client Advocacy Careers Careers Search Magnifying glass icon Services Services Overview Marketing & Media Marketing Overview Creative Services Data & Analytics Media Activation Direct Marketing Business Services Business Services Overview Presentations Administrative Support Office Services Integrated Packaging Integrated Packaging Overview Packaging Labels Supply Chain Print Print Overview Marketing Collateral Cooperative Media Spend Consulting Business Communications Signage & Displays Iridio RRD logo Unified Marketing Solutions Williams Lea RRD logo Tech-enabled Business Support --> Iridio Williams Lea --> Industries Industries We Serve Expert solutions that address specialized marke"
+   }
+  ]
+ },
+ {
+  "broker_id": "radaris",
+  "name": "Radaris",
+  "other_names": [
+   "Radaris"
+  ],
+  "domains": [
+   "radaris.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://radaris.com/about",
+    "text": "This Domain Has Been Transferred by Court Order \u2014 Radaris.com This Domain Has Been Transferred by Court Order Atlas Data Privacy Corporation, et al. v. Radaris.com, et al. Superior Court of New Jersey, Law Division, Middlesex County Docket No. MID-L-000847-24 Pursuant to a final judgment of the New Jersey Superior Court, the domain name radaris.com has been transferred to Atlas Data Privacy Corporation (\u201cAtlas\u201d) and is no longer under the control of its former operators. On February 8, 2024 , Atlas and five individual plaintiffs filed a lawsuit in New Jersey Superior Court: Atlas Data Privacy Corporation, et al. v. Radaris.com, et al. On May 27, 2025 , an Amended Complaint was filed. In the Amended Complaint, Atlas asserted claims assigned to it by approximately 21,760 law enforcement officers, prosecutors, and other \u201ccovered persons\u201d under New Jersey\u2019s Daniel\u2019s Law, which protects home addresses and unpublished home telephone numbers from disclosure. On August 27, 2026 , the New Jersey Superior Court entered a final judgment by default against Defendants Radaris.com, Rehold.com, and Trustoria.com. The Court found that Plaintiffs \u201cestablished that Defendants violated N.J.S.A. \u00a7 56:"
+   }
+  ]
+ },
+ {
+  "broker_id": "rampedup",
+  "name": "RampedUp",
+  "other_names": [
+   "RAMPEDUP",
+   "RampedUp",
+   "RampedUp, LLC.",
+   "Rampedup, LLC",
+   "Rampedup, LLC."
+  ],
+  "domains": [
+   "rampedup.io"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://rampedup.io/about-us",
+    "text": "About RampedUp \u2014 global contact data sourced from the public web (888) 278-3433 contact@rampedup.io Data dictionary \u2014 October 2026 Opt out Log in Our Data Data overview Data dictionary Contact Data Company Data Technology lookup Global Ad Tech Count Explorer API documentation Counts All counts Contact counts By country By state / province By industry By 2022 NAICS By SIC code By company size By revenue By job function By title level Services Data Appending Email Intelligence Job Change Notifications Identity Resolution RampedUp iNspector Company Alerts Corporate Family Tree Technology Data Web Identity List Building Company About us Compare Pricing Partner services Developers Contact us Blog Support Support FAQ Salesforce integration HubSpot integration Data security Knowledge Base Do not sell / opt out Sign Up for Free Company About RampedUp RampedUp provides business insights of the employee and employer nature, with consumer attributes as an added layer. The data is sourced from the public web, global by design , and kept accurate by the frequency of its updates. RampedUp, LLC is based in Atlanta, Georgia. The team Ten people. The ones who built the file, and the ones who will a"
+   },
+   {
+    "url": "https://rampedup.io/",
+    "text": "RampedUp \u2014 858 million B2B contact records, with the counts published (888) 278-3433 contact@rampedup.io Data dictionary \u2014 October 2026 Opt out Log in Our Data Data overview Data dictionary Contact Data Company Data Technology lookup Global Ad Tech Count Explorer API documentation Counts All counts Contact counts By country By state / province By industry By 2022 NAICS By SIC code By company size By revenue By job function By title level Services Data Appending Email Intelligence Job Change Notifications Identity Resolution RampedUp iNspector Company Alerts Corporate Family Tree Technology Data Web Identity List Building Company About us Compare Pricing Partner services Developers Contact us Blog Support Support FAQ Salesforce integration HubSpot integration Data security Knowledge Base Do not sell / opt out Sign Up for Free Web-sourced \u00b7 re-verified daily \u00b7 248 countries Global Contact Data & Business Intelligence RampedUp powers the largest GTM, Ad Tech, and Marketing Agencies on the Planet. We monitor corporate and social websites to update millions of global contact records everyday. With rich contact details like name, title, employer, email address and mobile phone number, yo"
+   },
+   {
+    "url": "https://basic.rampedup.io/app/donotsell",
+    "text": "RampedUp.io"
+   }
+  ]
+ },
+ {
+  "broker_id": "randall-reilly",
+  "name": "Randall-Reilly, LLC",
+  "other_names": [
+   "Randall-Reilly, LLC",
+   "Stuart Mcnair"
+  ],
+  "domains": [
+   "fusable.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [
+    "genai_developer"
+   ],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://fusable.com/about-us/",
+    "text": "About Us - Fusable Skip to content Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About Us Careers News Media Coverage Privacy Policy Contact Us Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About Us Careers News Media Co"
+   },
+   {
+    "url": "https://fusable.com/",
+    "text": "Home - Fusable Skip to content Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About Us Careers News Media Coverage Privacy Policy Contact Us Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About Us Careers News Media Covera"
+   },
+   {
+    "url": "https://fusable.com/legal/website-terms-and-privacy-notice/",
+    "text": "Website Terms and Privacy Notice - Fusable Skip to content Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About Us Careers News Media Coverage Privacy Policy Contact Us Use Cases Use Cases Prospecting & Market Intelligence Risk Assessment & Valuation Sales Optimization Performance Management Services Digital Services APIs & Integrations Salesforce App Fusable API Platforms Fusable Platform Media Brands Data Products CAB EDA EquipmentWatch IronSolutions Price Digests RigDig Solutions Industries Construction Trucking Agriculture Finance Insurance Machine Tools Other Roles Sales Marketing & Advertising Insurers Finance Resources Articles Product Updates Resource Hub Webinars Media Resources Company About "
+   }
+  ]
+ },
+ {
+  "broker_id": "ray-cdp",
+  "name": "Ray CDP, Inc.",
+  "other_names": [
+   "Ray CDP Inc",
+   "Ray CDP, Inc.",
+   "Ray Cdp, Inc."
+  ],
+  "domains": [
+   "raycdp.com",
+   "rayinsights.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.rayinsights.com/",
+    "text": "Unlocking the Power of Your First Party Data - Ray Insights 386.259.0031 Home | Discover | Contact Us | Login Toggle navigation Acquisition Loyalty Data & Analytics Ecommerce Managed & Professional Services Unlocking the Power of Your First Party Data Connecting with audiences through campaigns to grow your business Acquisition Solutions Your livelihood depends on your customer acquisition strategies and execution. Ray Insights will work closely with you to uncover information in your existing data to optimize and create acquisition solutions\u2026 LEARN MORE Loyalty Solutions Acquiring loyal, repeat customers is the goal of nearly every organization. Ray Insights Customer Data Analysis guides you through the process of customer segmentation and audience definitions\u2026 LEARN MORE Data & Analytics Executing data driven marketing programs will transform your organization, but there are two requirements: the programs must be measurable, and the data must be reliable\u2026 LEARN MORE Managed Services Reduce the burden of managing vendors and processes by outsourcing to Ray Insights. Free up your team to focus on the highest priority business needs\u2026 LEARN MORE Delivering growth by accelerating the "
+   },
+   {
+    "url": "https://www.rayinsights.com/privacy-policy/",
+    "text": "Privacy Policy - Ray Insights 386.259.0031 Home | Discover | Contact Us | Login Toggle navigation Acquisition Loyalty Data & Analytics Ecommerce Managed & Professional Services Privacy Policy (\u201cRay Insights,\u201d \u201cwe,\u201d \u201cus,\u201d \u201cour\u201d) respects your privacy and is committed to protecting your personally identifiable information. We have adopted this Privacy Policy to explain what information may be collected on this web site (\u201cSite\u201d) and how such information may be used and/or shared with others. Please return to this Site and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on this Site. 1. YOUR INFORMATION AND HOW WE USE IT This Site collects two kinds of information: (1) information that personally identifies you (such as your name and e-mail address); and (2) information that does not personally identify you (such as the number of users who log on to the Site on a daily basis). As a general policy, no personally identifiable information is automatically collected from your visit to this Site. However, in certain circumstances, you may be aske"
+   },
+   {
+    "url": "https://www.rayinsights.com/privacy-notice/",
+    "text": "RayCDP Privacy Notice - Ray Insights 386.259.0031 Home | Discover | Contact Us | Login Toggle navigation Acquisition Loyalty Data & Analytics Ecommerce Managed & Professional Services RayCDP Privacy Notice RayCDP Privacy Notice Last Modified : July 2, 2025 A. Introduction Welcome Welcome to the RayCDP Privacy Notice ( \u201cPrivacy Notice\u201d ). RayCDP, Inc (\u201cwe\u201d, \u201cour,\u201d \u201cus\u201d, \u201cRayCDP\u201d), provides a variety of marketing data, consumer analytics, and marketing technologies Software as a Service ( \u201cServices\u201d ). More information about our services can be found on our website. We respect consumer privacy and believe that data protection is essential. A personalized experience, online and offline, can provide significant benefits to consumers if done properly. In accordance with these beliefs, RayCDP strives to create results for advertisers in innovative ways, without compromising consumers\u2019 privacy. This Privacy Notice is created and maintained as part of our commitment to provide consumers with transparency and choice on how we process their personal data. We have taken steps to describe our data processing activities as clearly as possible and encourage you to read the entire Privacy Notice."
+   }
+  ]
+ },
+ {
+  "broker_id": "reach-marketing",
+  "name": "Reach Marketing LLC",
+  "other_names": [
+   "Reach Marketing LLC"
+  ],
+  "domains": [
+   "reachmarketing.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://reachmarketing.com/about/",
+    "text": "About - Reach Marketing Skip to content No results Contact Us About B2B Lead Generation Email Marketing List Building MARKETING AI Content Syndication Services Lead Generation Tool MARKETING AI+ MARKETING AI+ Event Accelerator Reach Surround Sound Featuring Marketing AI+ Sales Qualified Leads Marketing Technology Application Development API Custom Applications Data Integration Marketing Automation Business Intelligence Campaign Management Email Deliverability Hubspot Consulting Marketing Cloud Consulting Marketo Consulting Pardot Consulting Database Services Data Hygiene Data Warehouse Duplicate Identification B2B Lead Generation Email Marketing Boost Engagement - Drive customer interaction and loyalty through targeted communication Marketing Qualified Leads Nurture Warm Leads \u2013Increase your sales pipeline & conversion rates with intent-based MQLs List Building Grow Your Audience - Facilitate more precise and efficient marketing strategies with a robust database Sales Qualified Leads Convert Hot Leads \u2013 Get the highest conversion rates with SQLs which demonstrate a strong intent to purchase Marketing Technology Marketing Automation Marketing Automation Consulting Streamline repetit"
+   },
+   {
+    "url": "https://reachmarketing.com/",
+    "text": "Top B2B Lead Generation Agency | Reach Marketing Skip to content No results Contact Us About B2B Lead Generation Email Marketing List Building MARKETING AI Content Syndication Services Lead Generation Tool MARKETING AI+ MARKETING AI+ Event Accelerator Reach Surround Sound Featuring Marketing AI+ Sales Qualified Leads Marketing Technology Application Development API Custom Applications Data Integration Marketing Automation Business Intelligence Campaign Management Email Deliverability Hubspot Consulting Marketing Cloud Consulting Marketo Consulting Pardot Consulting Database Services Data Hygiene Data Warehouse Duplicate Identification B2B Lead Generation Email Marketing Boost Engagement - Drive customer interaction and loyalty through targeted communication Marketing Qualified Leads Nurture Warm Leads \u2013Increase your sales pipeline & conversion rates with intent-based MQLs List Building Grow Your Audience - Facilitate more precise and efficient marketing strategies with a robust database Sales Qualified Leads Convert Hot Leads \u2013 Get the highest conversion rates with SQLs which demonstrate a strong intent to purchase Marketing Technology Marketing Automation Marketing Automation Cons"
+   },
+   {
+    "url": "https://reachmarketing.com/privacy-policy/",
+    "text": "Privacy Policy - Reach Marketing Skip to content No results Contact Us About B2B Lead Generation Email Marketing List Building MARKETING AI Content Syndication Services Lead Generation Tool MARKETING AI+ MARKETING AI+ Event Accelerator Reach Surround Sound Featuring Marketing AI+ Sales Qualified Leads Marketing Technology Application Development API Custom Applications Data Integration Marketing Automation Business Intelligence Campaign Management Email Deliverability Hubspot Consulting Marketing Cloud Consulting Marketo Consulting Pardot Consulting Database Services Data Hygiene Data Warehouse Duplicate Identification B2B Lead Generation Email Marketing Boost Engagement - Drive customer interaction and loyalty through targeted communication Marketing Qualified Leads Nurture Warm Leads \u2013Increase your sales pipeline & conversion rates with intent-based MQLs List Building Grow Your Audience - Facilitate more precise and efficient marketing strategies with a robust database Sales Qualified Leads Convert Hot Leads \u2013 Get the highest conversion rates with SQLs which demonstrate a strong intent to purchase Marketing Technology Marketing Automation Marketing Automation Consulting Streamlin"
+   }
+  ]
+ },
+ {
+  "broker_id": "real-intent",
+  "name": "REAL INTENT INC",
+  "other_names": [
+   "REAL INTENT INC",
+   "REAL INTENT Inc.",
+   "Real Intent Inc."
+  ],
+  "domains": [
+   "realintent.co"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.realintent.co/",
+    "text": "Real Intent \u2014 Lead Gen & Growth Marketing on Autopilot Real Intent Logo Home Blog Our Zipcodes Automatic Listings Pricing How It Works Watch Webinar Contact us Become a member PRESS RELEASE: Real Intent Launches Superagent at NAR\u2019s 2025 National Conference. Live Webinar Today at 4pm EST Lead gen and growth marketing on autopilot Built with love for real estate agents. \u2764\ufe0f You're good at selling homes - let us do the rest. Bespoke client portals + personal email nurturing, handing off to you Branded social videos, YouTube Shorts, Meta Reels, TikTok on autopilot Always-on Meta and Google ads to stay in front of sellers Local newsletters, market updates, and auto phone call follow-ups Try Superagent Check Zip Code Availability Register for Webinar Masterclass 4.9/5 from 1k+ agents and counting Used by companies like: We help the best be better Tech that moves your business forward What Our Customers Say See how Real Intent is transforming businesses SJ Sarah J. Keller Williams \" Real Intent delivered 2 qualified listing appointments in my first 3 weeks. The ROI is incredible - already paid for itself! \" 470 Valuation Requests Received MR Mike R. RE/MAX \" The auto-nurture and branded so"
+   },
+   {
+    "url": "https://www.realintent.co/privacy-policy",
+    "text": "Privacy Policy | Real Intent Real Intent Logo Home Blog Our Zipcodes Automatic Listings Pricing How It Works Watch Webinar Contact us Become a member Privacy Policy Last updated: Sep 09, 2026 7:20 AM Real Intent is dedicated to protecting your privacy and ensuring a secure user experience. This Privacy Policy outlines how we collect, store, and use personal and non-personal information you provide on our website. By accessing and using our website, you consent to the collection, use, and transfer of this information as described in this Privacy Policy. Please read this Policy carefully, as it has legal implications for you. If you do not agree with our collection and processing of personal and non-personal information, please do not use our website. Our Use and Disclosure of Information We use the information we collect on our website to fulfill your requests for products and services, respond to your inquiries, improve the functionality of our website, and deliver personalized content and advertising based on your interests and experience. We also use this information to improve our website and deliver the products and services advertised on it. No mobile information, personal inf"
+   }
+  ]
+ },
+ {
+  "broker_id": "realeflow",
+  "name": "Realeflow LLC",
+  "other_names": [
+   "REALEFLOW LLC",
+   "Realeflow LLC"
+  ],
+  "domains": [
+   "leadflow.com",
+   "realeflow.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://leadflow.com/about",
+    "text": "About Leadflow \u2014 Enterprise Property Intelligence by Realeflow Skip to content Products ProspectScope Household and property intelligence SellScope AI Property pressure and sellability signals InvestorScope Investor universe intelligence LenderScope Private lender intelligence Intelligence Suite Q3 2026 In development for decision intelligence How It Works Industries About Login Talk to Our Team Talk to Our Team Products ProspectScope SellScope AI InvestorScope LenderScope Intelligence Suite Q3 2026 How It Works Industries About Login Talk to Our Team About Leadflow Built from nearly two decades of property intelligence work. Meet the Team Realeflow Relationship Leadflow is built by a team that has spent nearly two decades turning raw property data into revenue for 200,000+ users. We know this data because we have built products on it, refined it, and pressure-tested it at scale. Today, we are applying that depth to enterprise intelligence, helping financial institutions, lenders, and technology platforms make faster, better-informed decisions. Operating experience 2007 - today Featured In Founded 2007 Built through market cycles, product evolution, and continuous data refinement. "
+   },
+   {
+    "url": "https://leadflow.com/",
+    "text": "Leadflow \u2014 The AI Predictive Intelligence Platform Skip to content Products ProspectScope Household and property intelligence SellScope AI Property pressure and sellability signals InvestorScope Investor universe intelligence LenderScope Private lender intelligence Intelligence Suite Q3 2026 In development for decision intelligence How It Works Industries About Login Talk to Our Team Talk to Our Team Products ProspectScope SellScope AI InvestorScope LenderScope Intelligence Suite Q3 2026 How It Works Industries About Login Talk to Our Team See the move before it happens See the move before it happens Leadflow's AI predictive intelligence flags the properties, owners, and lenders about to transact \u2014 ranked 0\u20131,000 and ready for your CRM. Talk to Our Team Explore the Platform FEATURED IN The Platform Real-world signals transformed into predictive intelligence Leadflow converts billions of behavioral, transactional, and lifecycle signals into ranked intelligence that flows into your CRM, data warehouse, and analytics stack \u2014 helping organizations identify opportunity, predict movement, and act before the market shifts. See How It Works The national graph Every property, owner, investo"
+   },
+   {
+    "url": "https://www.realeflow.com/",
+    "text": "Realeflow \u2014 The data and AI infrastructure for real estate, under your brand. Why Realeflow Why Realeflow Who We Help Partnership Platform AI Tools Features Contact Login Apply Now Built for real estate. Branded for you. Brokerages, educators, influencers, and tech companies launch their own AI software platform through Realeflow \u2014 branded as theirs, powered by 150M+ proprietary property records. Apply Now Watch Overview BRIDGE & CO APEX REALTY METRO CAPITAL $377k $423k $192k AS SEEN IN Inc. Forbes FOX Business BIGGER POCKETS ENTREPRENEUR CNBC Inman PROOF OF SCALE Built over decades. Trusted at infrastructure scale. 0 Years of Development 2005 \u2192 present 0 White-Label Deployments brokerages \u00b7 educators \u00b7 influencers \u00b7 tech 0 End Users Served across the partner ecosystem WATCH Realeflow explained in 60 seconds. Partner identities are protected by contract. The numbers, however, are defensible and verifiable . WHO WE BUILD FOR Real solutions for real businesses. Whether you teach, coach, or support real-estate professionals \u2014 we've got your back. Learn More /01 Brokerages Give your agents branded AI tools to win listings, close deals, and boost productivity \u2014 helping your brokerage st"
+   }
+  ]
+ },
+ {
+  "broker_id": "reality-media",
+  "name": "Reality Media, Inc.",
+  "other_names": [
+   "Reality Media, Inc."
+  ],
+  "domains": [
+   "realitydebtsolutions.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.realitydebtsolutions.com/about/",
+    "text": "About \u2013 Reality Debt Solutions Skip to content Main Menu Home FAQ About Contact Free Consultation About Us Reality Debt Solutions has been helping people better manage their finances since 2012 We will help you to better manage your money by providing the budget, consolidation, and credit repair advice you need. We are committed to helping you find the best solution for your personal finance situation. Our free no-obligation consultation will help us to best determine what type of help you will need, and match you to our accredited service providers for financial help you can trust. Privacy Policy Copyright \u00a9 2026 Reality Debt Solutions California Residents: California Privacy Policy Do Not Sell My Personal Information"
+   },
+   {
+    "url": "https://www.realitydebtsolutions.com/",
+    "text": "Reality Debt Solutions \u2013 Discover the best ways to manage your debt Skip to content Main Menu Home FAQ About Contact Free Consultation Get Out Of Debt Today Our Mission: To help you become debt free with America\u2019s foremost debt relief companies Find real solutions to get you out of debt quickly and on the road to financial freedom How it works: Tell us your situation This helps us to know what services to recommend. Match up We connect you to the best accredited provider with the best program for you. Reap the rewards You decide what is best for you and work to secure your financial future. Our solutions: Credit Card Debt Student Loan Debt Tax Debt Credit Repair Privacy Policy Copyright \u00a9 2026 Reality Debt Solutions California Residents: California Privacy Policy Do Not Sell My Personal Information"
+   },
+   {
+    "url": "https://www.realitydebtsolutions.com/privacy-policy/",
+    "text": "Privacy Policy \u2013 Reality Debt Solutions Skip to content Main Menu Home FAQ About Contact Free Consultation Privacy Policy Last updated: January 11, 2023 Reality Debt Solutions (the \u201cCompany,\u201d \u201cus,\u201d or \u201cwe\u201d), a lead generation and online marketing company, owns and operates this website (the \u201cSite\u201d). We respect your privacy. This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. Definitions For the purposes of this Privacy Policy: You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as "
+   }
+  ]
+ },
+ {
+  "broker_id": "reallygreatrate",
+  "name": "ReallyGreatRate, Inc",
+  "other_names": [
+   "ReallyGreatRate, Inc",
+   "Reallygreatrate, Inc."
+  ],
+  "domains": [
+   "rgrmarketing.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": [
+    "GLBA"
+   ]
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.rgrmarketing.com/about-us/",
+    "text": "About RGR Marketing | Lead Generation Experts Since 2004 About RGR Marketing | Lead Generation Experts Since 2004 RGRMarketing.com Navigate Buy Leads Buy Solar Leads Buy Mortgage Leads Buy Home Improvement Leads Buy Home Seller Leads RGR Process Lead Validation Partners Lead Management Systems Affiliates Blog About Us Our Company Meet the Founders Press Releases Contact About Us Home | About Us About Us RGR Marketing isn\u2019t your typical lead-generation company. Founded in 2004 by industry veterans Matt Schaub and Silas Ellman, we don\u2019t just source great leads, we also serve as a strategic partner to help our clients make the most of every lead. We\u2019re proud to operate with the highest levels of honesty, integrity, and transparency. Our values and priorities show in the long-standing partnerships we\u2019ve formed and the powerful bottom-line results we drive for our customers, every day. We have a proven track record of successfully anticipating and adapting to market changes, and maintaining significant growth over more than a decade in the business. We\u2019re more than just another lead gen company. Our goal is to change the lead generation industry through innovation and integrity. We\u2019re a"
+   },
+   {
+    "url": "https://www.rgrmarketing.com/",
+    "text": "RGR Marketing | Buy Quality Solar, Mortgage & Home Improvement Leads RGR Marketing | Buy Quality Solar, Mortgage & Home Improvement Leads RGRMarketing.com Navigate Buy Leads Buy Solar Leads Buy Mortgage Leads Buy Home Improvement Leads Buy Home Seller Leads RGR Process Lead Validation Partners Lead Management Systems Affiliates Blog About Us Our Company Meet the Founders Press Releases Contact A better process delivers better leads Powerful systems and proven QA processes enable us to deliver consistently high quality leads. Learn more A partner with integrity Great leads are just the beginning. We also help you improve your sales processes. Because when you succeed, we succeed. Learn more \u201cRGR consistently goes above and beyond my expectations for lead generation. They meet our funding metrics, deliver quality leads and help me hit my numbers. They are great partners and run their business with an integrity that I rarely see in this industry.\u201d Paul G., Retail Lender Learn more Call our consultants 310-540-8900 Our Services Mortgage The world of mortgage lending is constantly changing. At RGR, we bring deep marketing expertise and more than a decade of experience with mortgage lend"
+   },
+   {
+    "url": "https://www.rgrmarketing.com/privacy-policy/",
+    "text": "Privacy Policy | Data Protection | RGR Marketing Privacy Policy | Data Protection | RGR Marketing RGRMarketing.com Navigate Buy Leads Buy Solar Leads Buy Mortgage Leads Buy Home Improvement Leads Buy Home Seller Leads RGR Process Lead Validation Partners Lead Management Systems Affiliates Blog About Us Our Company Meet the Founders Press Releases Contact Privacy Policy Home | Privacy Policy Effective: January 15, 2026 ReallyGreatRate, Inc., d/b/a RGR Marketing (\u201cCompany,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d) offers advanced lead generation and marketing solutions. In providing these solutions, we collect and use certain information about our business associates, partners, and website visitors. This Privacy Policy explains our practices regarding: The types of information we collect and our methods of collection. Our use and sharing of that information. Individual rights and choices regarding data control. Security protocols and contact information for privacy inquiries. Information We Collect We collect information to provide our platform to business associates and to verify lead integrity. Information you give us. We will collect your personal information when you register to use our platform or"
+   }
+  ]
+ },
+ {
+  "broker_id": "realsource",
+  "name": "RealSource, Inc",
+  "other_names": [
+   "RealSource, Inc",
+   "Realsource Inc.",
+   "Realsource, Inc"
+  ],
+  "domains": [
+   "realsourcedata.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://www.realsourcedata.com/about-us",
+    "text": "About Us \u2014 RealSource Data 0 Skip to Content Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Folder: Targeted Marketing Lists Back Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Folder: Data Enhancement Services Back Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us ABOUT US HOME / ABOUT US Who We Are Precision Data Solutions \u2013 Superior Results RealSource, Inc. uses more than 80 years of combin"
+   },
+   {
+    "url": "https://www.realsourcedata.com/",
+    "text": "RealSource Data 0 Skip to Content Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Folder: Targeted Marketing Lists Back Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Folder: Data Enhancement Services Back Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us The best-conceived marketing campaign is only effective if it lands in the hands of the intended target. Using more than 80 years of combined"
+   },
+   {
+    "url": "https://www.realsourcedata.com/privacy-policy",
+    "text": "Privacy Policy \u2014 RealSource Data 0 Skip to Content Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Targeted Marketing Lists Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Data Enhancement Services Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us Open Menu Close Menu Home Folder: Targeted Marketing Lists Back Auto Dealer Leads Auto Warranty Leads Consumer Demo Leads Home Warranty Leads Insurance Leads New Homeowner Leads Timeshare Owner Leads Travel Leads Folder: Data Enhancement Services Back Data Appends & Enhancement Data Modeling & Analytics Digital Marketing Services Real Identify About Us Contact Us PRIVACY POLICY HOME / PRIVACY POLICY Information Management Our targeted data products and services are created to help comp"
+   }
+  ]
+ },
+ {
+  "broker_id": "recruitbot",
+  "name": "RecruitBot",
+  "other_names": [
+   "RecruitBot",
+   "RecruitBot, Inc.",
+   "Recruitbot, Inc."
+  ],
+  "domains": [
+   "recruitbot.com",
+   "therecruitbot.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://recruitbot.com/about-us/",
+    "text": "About RecruitBot Skip to content How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Menu How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Contact Us Welcome to RecruitBot! About RecruitBot At RecruitBot, we use AI to revolutionize recruitment, streamlining the hiring process and helping businesses find top talent faster and more efficiently. Contact us Our Mission Our mission is simple: to connect"
+   },
+   {
+    "url": "https://recruitbot.com/",
+    "text": "RecruitBot | AI Recruiting Platform | All-in-One AI Sourcing Tool Skip to content How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Menu How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Contact Us Welcome to RecruitBot AI-Powered Sourcing for Faster, Smarter Hiring Leverage RecruitBot\u2019s Proprietary Database of 655+ Million Candidate Profiles to Source, Engage, and Hire Qualified Talent Faster Con"
+   },
+   {
+    "url": "https://recruitbot.com/ccpa/",
+    "text": "CCPA - RecruitBot Skip to content How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Menu How it Works How it Works All ATS Integrations RecruitBot and LinkedIn Solutions For Executive Search Firms For Recruiting Agencies For In-House Recruiters For Hiring Managers For Founders Resources ROI Calculator Blog Case Studies White Papers White paper: Why You Should Use AI In Recruiting White Paper: 5 Trends Revolutionizing Recruiting White Paper: The Power of AI and ChatGPT Recruiting Flywheel FAQ\u2019S Help Center Company About Us Contact Us Contact Us Notice to Consumers \u2013 California Consumer Privacy Act Important Information for California Residents This section applies only to California residents. It describes how we collect, use and share Personal Information of California residents in operati"
+   }
+  ]
+ },
+ {
+  "broker_id": "recsolu",
+  "name": "Recsolu Inc.",
+  "other_names": [
+   "Recsolu Inc."
+  ],
+  "domains": [
+   "yello.co"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://yello.co/about/",
+    "text": "About: Company History & Mission - Yello Watch how Yello\u2019s AI agent is flipping the traditional campus recruiting model Skip to content Why Yello? Solutions Campus Recruiting AI Agent Sourcing Events Recruitment Operations Campus Planning Government Reneges and Conversion Our Customers Learn Resource Center Blog Request a Demo Request a Demo About Yello Helping clients find and engage the best candidates all over the world Yello\u2019s talent acquisition platform enables the world\u2019s leading brands to deliver personalized candidate experiences to every job seeker, resulting in quality hires and faster fills. The centralized platform is easy to use, enabling recruiters to collaborate with one another to attract and engage top talent. Key recruiting metrics provide meaningful insights that lead to more informed, data-driven decisions, while staying on budget. Approximately 100 of the Fortune 500 rely on Yello to power their recruitment programs. The platform is used in 70+ countries and in 15+ different languages. Company History Jason Weingarten and Dan Bartfield founded Yello, originally named Recsolu, in 2008 to support large enterprises with campus recruiting . In 2015, Recsolu rebrand"
+   },
+   {
+    "url": "https://yello.co/",
+    "text": "Talent Acquisition Software | Yello Watch how Yello\u2019s AI agent is flipping the traditional campus recruiting model Skip to content Why Yello? Solutions Campus Recruiting AI Agent Sourcing Events Recruitment Operations Campus Planning Government Reneges and Conversion Our Customers Learn Resource Center Blog Request a Demo Request a Demo The purpose-built campus recruiting platform. Now with AI. Yello brings together best-in-class campus planning, sourcing, and events \u2014 with an AI agent that automates admin work so your team can focus on relationships and hires that drive real ROI. See it in action Trusted by hundreds of the world\u2019s leading brands One platform to empower your entire campus recruiting program Yello Campus Recruiting Agent The AI agent handles the admin work of building events, sourcing candidates, and scheduling interviews. Your team handles the conversations, the relationships, and the hires. This is the ROI campus recruiting has been waiting for. Learn about Yello Campus Recruiting Agent Planning Improve visibility into recruiting effectiveness and unlock data to target schools that help you meet goals with versatile planning capabilities. Learn about campus planni"
+   },
+   {
+    "url": "https://yello.co/privacy-policy/",
+    "text": "Privacy Policy | Yello Watch how Yello\u2019s AI agent is flipping the traditional campus recruiting model Skip to content Why Yello? Solutions Campus Recruiting AI Agent Sourcing Events Recruitment Operations Campus Planning Government Reneges and Conversion Our Customers Learn Resource Center Blog Request a Demo Request a Demo Yello Privacy Notice Last Updated: January 1, 2026 RECSOLU, Inc., dba Yello and WayUp, Inc., d/b/a Yello Sourcing (\u201c Yello ,\u201d \u201c we ,\u201d \u201c us ,\u201d or \u201c our \u201d) respect your privacy. This Privacy Notice (\u201c Notice \u201d) describes the processing of Personal Information (defined below) that is provided, collected, or disclosed while providing our products or services to you (\u201c Services \u201d) and on the websites, applications, and online platforms that link to this Notice (collectively, \u201c Site \u201d), including when you apply for a job with us or through us. It also describes rights you may have under applicable laws. Please read this Notice carefully to understand our policies and practices regarding your Personal Information and how we will treat it. Personal Information We Collect We collect several categories of Personal Information from and about users of our Site and Services."
+   }
+  ]
+ },
+ {
+  "broker_id": "redbird-direct",
+  "name": "Redbird Direct LLC",
+  "other_names": [
+   "Redbird Direct LLC"
+  ],
+  "domains": [
+   "redbirddirect.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://redbirddirect.com/",
+    "text": "Redbird Direct Home Welcome to RedBird Direct . Your source for strategic planning and list acquisition for direct mail and email marketing. With insight, instinct and more than 10 years of experience, RedBird Direct is uniquely capable of helping you feather a few nests of your own."
+   }
+  ]
+ },
+ {
+  "broker_id": "redmob",
+  "name": "Redmob LLC",
+  "other_names": [
+   "REDMOB LLC",
+   "Redmob LLC",
+   "Redmob Limited Liability Company"
+  ],
+  "domains": [
+   "redmob.io"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://redmob.io/",
+    "text": "Redmob \u2014 In-app ad monetization redmob . How it works Publishers Advertisers Say hi \u2192 \u2726 In-app ad monetization Every impression, worth the bid. We connect in-app publishers directly with advertisers. Publishers earn more per request. Buyers pay only for real people in real apps. Talk to us \u2192 \u2726 in-app only \u2726 oRTB 2.5 / 2.6 \u2726 sellers.json \u2726 IAB TCF certified \u2726 pre-bid filtering \u2726 direct supply \u2726 in-app only \u2726 oRTB 2.5 / 2.6 \u2726 sellers.json \u2726 IAB TCF certified \u2726 pre-bid filtering \u2726 direct supply \u2726 in-app only \u2726 oRTB 2.5 / 2.6 \u2726 sellers.json \u2726 IAB TCF certified \u2726 pre-bid filtering \u2726 direct supply \u2726 in-app only \u2726 oRTB 2.5 / 2.6 \u2726 sellers.json \u2726 IAB TCF certified \u2726 pre-bid filtering \u2726 direct supply Wasted requests. Fake traffic. Black-box reporting. We remove all three before the bid. Wasted requests. Filtered right where your supply meets demand. We sit between the app and the buyer. Every request is scored before it goes out; the ones no buyer would pay for never leave. Every auction . scored on the buyer's past wins, not a static rule One decision . one filter between the app and every bidder Always learning . every win and loss retrains the model Self-tuning . no thresholds for you to"
+   },
+   {
+    "url": "https://www.redmob.io/privacy-policy",
+    "text": "Privacy policy \u2014 Redmob redmob . \u2190 Back to homepage Privacy policy This Policy was last modified on 17 July, 2026. This Privacy Policy (\u2018 Policy \u2019) explains the privacy rules applicable to personal information collected by Redmob (\u2018 we \u2019, \u2018 our \u2019, \u2018 us \u2019) and your rights under the data protection laws. If you have any questions or comments about this Policy or any other privacy matters please contact our data protection officers at: privacy@redmob.io . We reserve the right to update this policy at any time. Any changes will take effect immediately upon publication. Check the latest version regularly at www.redmob.io . 1. Purposes and Personal Information Collected Purpose: Providing our Programmatic and Data Management Services. Redmob delivers a range of services designed to support the digital advertising needs of our clients while enabling responsible and transparent data practices. Programmatic Advertising Services: Redmob operates a programmatic advertising platform that facilitates real-time transactions between advertisers and publishers. This platform supports the automated buying and selling of digital ad inventory and enables advertisers to reach relevant audiences more e"
+   }
+  ]
+ },
+ {
+  "broker_id": "refinitiv-us",
+  "name": "Refinitiv US LLC",
+  "other_names": [
+   "Refinitiv US LLC"
+  ],
+  "domains": [
+   "refinitiv.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://www.lseg.com/en/policies/privacy-statement",
+    "text": "Privacy Statement | LSEG Skip navigation LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence Our businesses LSEG LSEG Data & Analytics FTSE Russell London Stock Exchange FX Post Trade Risk Intelligence Home Policies Privacy Statement Privacy Statement Who this statement applies to and what it covers Who we are Sources of personal information What types of personal information we collect How we use personal information Legitimate interests for use Marketing How we share personal information International transfers How we secure personal information How long we keep personal information Your rights Where to find further privacy information on LSEG\u2019s Services \u2013 Risk Intelligence Products How to contact us Updates to this statement LAST UPDATED: April 07, 2026 Your privacy and trust are important to us. This Statement explains how London Stock Exchange Group plc, LCH Limited and other companies within the London Stock Exchange Group (\u201cLSEG\", \u201cwe\u201d, \u201cus\u201d or \u201cour\u201d) processes (e.g. collects, handles, stores, uses, shares or transfers, and protects) personal information about you as further described below. It also provides information about your rights "
+   }
+  ]
+ },
+ {
+  "broker_id": "reklaim",
+  "name": "Reklaim Ltd.",
+  "other_names": [
+   "REKLAIM LTD",
+   "Reklaim Ltd."
+  ],
+  "domains": [
+   "reklaimyours.com"
+  ],
+  "california": {
+   "sensitive": [
+    "government_id",
+    "sexual_orientation"
+   ],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://reklaimyou.com/how-it-works",
+    "text": "How Reklaim Works - Share, Earn, Control Your Data How It Works Simple & Transparent Protect Your Data Learn News & Insights Login Your Data. Your Rules. Your Rewards. Your Control. Your Rules. Join thousands earning entries toward our monthly $10,000 jackpot by sharing opinions, making predictions, and taking control of your data. Get Started Free See How It Works No credit card required 90 second signup Monthly winners How Reklaim works Connect. Choose. Earn. 1 . Connect Link your email and see your data footprint 2 . Choose Share opinions, earn entries, or protect data 3 . Earn Cash rewards and jackpot entries for what you share Monthly jackpot Free to enter Three Simple Steps See how to start earning jackpot entries 1 Connect Link your email to see your data footprint 2 Choose Share opinions, earn entries, or protect data 3 Win Get jackpot entries for every action $10,000 Monthly Jackpot 1 \u00d7 $5,000 Mega Prize + 5 \u00d7 $1,000 Prizes Monthly Mega $ 10,000 1 prize of $5,000 and 5 prizes of $1,000 November 1, 2026 \u2022 1:05 AM ET 23 Hrs : 32 Min : 33 Sec No purchase necessary. Open to US and Canada, excluding Qu\u00e9bec. See Official Rules . Everything You Can Do Three ways to turn your data"
+   },
+   {
+    "url": "https://reklaimyou.com/",
+    "text": "Reklaim - Control Your Data, Get Rewarded How It Works Simple & Transparent Protect Your Data Learn News & Insights Login Loading... How It Works Learn Protect Investors Partners Help CONSUMERS How Reklaim Works Data Removal & Privacy Protection Consumer Blog PARTNERS Partner Overview Partner Blog Contact Sales INVESTORS Investor Overview News & Updates Financials \u00a9 2026 Reklaim Ltd. | TSXV: MYID | OTC: MYIDF Cookie Settings | Privacy | Terms | Protect Terms | Financial Incentive Notice | Data Broker Notice | Do Not Sell | Delete Account Reklaim What\u2019s Yours. What\u2019s Yours. Reklaim helps show where your personal data is exposed, explains what it means, and lets you earn entries toward the monthly jackpot or request data-broker removal on your terms. Sign up with Google Facebook or sign up with email No purchase necessary. Open to US and Canada, excluding Qu\u00e9bec. See Official Rules . Monthly jackpot $10,000 1 \u00d7 $5,000 + 5 \u00d7 $1,000 Start earning entries Earn points. Enter to win. Eligible activities earn points toward jackpot entries Share Community Data Rights Discover the value of your personal data. Join Community \ud83d\udee1\ufe0f What streaming services do you use? Entertainment + 50 pts Answer"
+   },
+   {
+    "url": "https://reklaimyou.com/privacy",
+    "text": "Privacy Policy | Reklaim How It Works Simple & Transparent Protect Your Data Learn News & Insights Login Privacy Policy Last updated: June 3, 2026 Table of Contents Introduction 1. Sources of Personal Information 2. Categories of Personal Information We Collect 3. Business Purposes for Collecting Personal Information 4. How We Disclose Your Personal Information 5. Your Privacy Choices 6. Use of Cookies and Tracking Technologies 7. Health Information 8. Security 9. Retention 10. U.S. State-Specific Disclosure 11. Children's Privacy 12. Third-Party Links on Our Website 13. Changes to This Privacy Policy 14. Contact Us 15. California Consumer Rights Request Metrics Introduction At Reklaim Ltd. (\"we,\" \"our,\" \"us,\" or \"Reklaim\"), your privacy is of the utmost importance. Thank you for taking the time to read our privacy policy (the \"Privacy Policy\"). This Privacy Policy sets out how we collect, use, process, store, and disclose your personal information on https://www.reklaimyou.com and affiliated websites, including but not limited to protect.reklaimyours.com (the \"Website\") and our mobile and web applications (the \"Platform\"). Reklaim helps you monetize your personal and derived non-p"
+   }
+  ]
+ },
+ {
+  "broker_id": "relationship-science",
+  "name": "Relationship Science",
+  "other_names": [
+   "Relationship Science",
+   "THE DEAL LLC"
+  ],
+  "domains": [
+   "relsci.com"
+  ],
+  "california": null,
+  "page_excerpts": [
+   {
+    "url": "https://relsci.com/about-us",
+    "text": "About Us - RelSci Skip to content X Looking for your Altrata login? Sign in here to access your account Altrata Log In About Altrata About Us Products RelSci API RelSci Platform Radar Industries Insights Articles Reports Case Studies News Log in Schedule a demo About us We bring science to the art of business relationships. We bring science to the art of business relationships. 01 This is our story Who we are RelSci is an Altrata company, a part of Delinian Limited. Altrata is comprised of five distinct offerings: BoardEx, Boardroom Insiders, RelSci, WealthEngine, and Wealth-X. Together, we provide data and intelligence on the most impactful people to our clients\u2019 success. RelSci gives you the information you need to be successful. Close a deal. Win a client. Raise capital. Get the inside track. Meet new partners. Enter a new market. Achieve a new level of influence. Pinpoint the right board member or executive. Connect to a donor. Our Team What We Do We empower organizations to make smarter business decisions by leveraging an underutilized asset: their web of connections to influential decision makers. \u200b We call this asset Relationship Capital . RelSci\u2019s unique dataset is populate"
+   },
+   {
+    "url": "https://relsci.com/",
+    "text": "Home - RelSci Skip to content X Looking for your Altrata login? Sign in here to access your account Altrata Log In About Altrata About Us Products RelSci API RelSci Platform Radar Industries Insights Articles Reports Case Studies News Log in Schedule a demo The relationship capital platform Reach the people who will have the greatest impact on your organization's success. Let RelSci Help RelSci gives you the information you need to be successful. Close a deal. Win a client. Raise capital. Get the inside track. Meet new partners. Enter a new market. Achieve a new level of influence. Pinpoint the right board member or executive. Connect to a donor. Create higher impact. Learn more Who we work with Corporations Law firms, accounting firms, consulting firms, marketing services and Fortune 1000 companies. Financial Institutions Investment banks, private equity firms, wealth managers and hedge funds. Nonprofits Cause-based organizations and higher education institutions. Our products Intelligence on millions of influential decision makers and organizations across the public, private, financial and nonprofit sectors. RelSci Platform Relationships are everything. Our platform helps you unc"
+   },
+   {
+    "url": "https://altrata.com/privacy-policy",
+    "text": "Privacy Notice - Altrata Skip to content X Looking for your Altrata login? Sign in here to access your account Altrata Log In Solutions Solutions Explore solutions made for specific use cases and industries Let's connect By Use Case Client Acquisition & Marketing Dealmaking & Private Equity Fundraising & Advocacy Research & Data Modeling Executive Search & Talent Acquisition Risk Mitigation & Know Your Customer By Industry Investment Banking Nonprofits Education Healthcare Retail Banking and Wealth Management Luxury Platform Overview Partnerships Resources Articles Case Studies Guides News Reports Webinars Altrata Fundraising Academy Company About Us Careers Get started Privacy Notice Updated: June 22, 2026 Effective Date: August 2025 Altrata (\u201cwe,\u201d \u201cour,\u201d \u201cAltrata\u201d) is committed to protecting the privacy and security of the information we collect in connection with the use of our websites and the services we sell to our Clients. We have separated our Privacy Notices into two. Our Online Privacy Notice sets forth our policies and practices for handling the information we collect from you when you use the websites and other online services (\u201cOnline Platforms\u201d). The Online Privacy No"
+   }
+  ]
+ },
+ {
+  "broker_id": "relpro",
+  "name": "RelPro, Inc.",
+  "other_names": [
+   "RELPRO Inc",
+   "RelPro, Inc.",
+   "Relpro, Inc."
+  ],
+  "domains": [
+   "relpro.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://relpro.com/about",
+    "text": "Relationship Intelligence for Financial and Professional Services | RelPro Relationship Intelligence for Financial and Professional Services | RelPro Why RelPro? Our Focus Our Data Our Team Community Involvements Our Partners Solutions Web Platform Company & People Search Identify New Leads Daily Briefing Upload a List Filings / Loans Search Commercial Real Estate Buyer Intent Data Wealth Data Government Contract Data Form 5500 Data Industry Research Chrome Extension Technology Search CRM Integration Commercial Real Estate Data Services & Custom Engagements Alerts APIs and Webhooks Technology Platform RelPro AI RelPro MCP Customers Financial Services Commercial & Business Banking Corporate & Investment Banking Credit Unions Commercial Insurance Private Equity Wealth Management Professional Services Accounting Legal Services Life Sciences Nonprofit Development & Fundraising Pricing Resources News Content Hub Case Studies Careers Contact Us Login Schedule a Demo Quality Leads. Actionable Intelligence. Your Way. Customizable, adaptable, and integrated with your workflow, RelPro's business development solutions save you precious time, accelerate growth initiatives and deliver results. "
+   },
+   {
+    "url": "https://relpro.com/privacy-policy",
+    "text": "Privacy Policy | RelPro Privacy Policy | RelPro Why RelPro? Our Focus Our Data Our Team Community Involvements Our Partners Solutions Web Platform Company & People Search Identify New Leads Daily Briefing Upload a List Filings / Loans Search Commercial Real Estate Buyer Intent Data Wealth Data Government Contract Data Form 5500 Data Industry Research Chrome Extension Technology Search CRM Integration Commercial Real Estate Data Services & Custom Engagements Alerts APIs and Webhooks Technology Platform RelPro AI RelPro MCP Customers Financial Services Commercial & Business Banking Corporate & Investment Banking Credit Unions Commercial Insurance Private Equity Wealth Management Professional Services Accounting Legal Services Life Sciences Nonprofit Development & Fundraising Pricing Resources News Content Hub Case Studies Careers Contact Us Login Schedule a Demo Privacy Policy Effective Date: August 19, 2025 Relationship Capital Partners, Inc. (\u201cRelcapp\u201d) and it\u2019s 100%-owned affiliate, RelPro, Inc. (\u201cRelPro\u201d) are dedicated to providing our customers with outstanding customer service and uncompromising privacy protection. For this reason, we believe you should understand the privacy p"
+   }
+  ]
+ },
+ {
+  "broker_id": "remodeling-com",
+  "name": "Remodeling.com, LLC",
+  "other_names": [
+   "Azar LLC",
+   "REMODELING.COM LLC",
+   "Remodeling.Com, LLC",
+   "Remodeling.com, LLC"
+  ],
+  "domains": [
+   "remodeling.com"
+  ],
+  "california": {
+   "sensitive": [],
+   "sold_to": [],
+   "regimes": []
+  },
+  "page_excerpts": [
+   {
+    "url": "https://remodeling.com/about-us/",
+    "text": "About Remodeling.com | Find Remodeling Services Near You Skip to content We may earn a fee for some placements. Learn more about our process. Open main menu Find Home Professionals Projects Cost Guides Bathroom Costs Cabinet Costs Flooring Costs Garage Door Costs HVAC Costs Kitchen Costs Landscaping Costs Plumbing Costs Roofing Costs Siding Costs Solar Costs Window Costs Trending Content Trending Windows Best Bathroom Materials Blog Articles Pros Popular Indoor Bathrooms Cabinets Door Installation Flooring HVAC Install/Replacement Kitchens Plumbing Water Damage Water Filtration Windows Popular Outdoor Garage Doors Gutter Guards Gutter Installation Gutter Replacement Home Security Systems Roofing Siding Solar Additional Categories Basement Waterproofing Decks Electrician Services Gutter Cleaning HVAC Repair Landscaping/Lawn Care Pest Control Stairlifts Walk-In Tubs Home Improvement Guides 2023 Bathroom Remodeling Checklist View Window Replacement Cost Estimate View About Us About Remodeling.com Find Experienced Contractors Affordable Renovations Get Free Quotes Find REMODELING PROS in my area Remodeling Pros Transform Your Home Today With Remodeling.com . From kitchen and bath upgra"
+   },
+   {
+    "url": "https://remodeling.com/",
+    "text": "Remodeling.com: Find Trusted Local Home Remodeling Professionals Skip to content We may earn a fee for some placements. Learn more about our process. Open main menu Find Home Professionals Projects Cost Guides Bathroom Costs Cabinet Costs Flooring Costs Garage Door Costs HVAC Costs Kitchen Costs Landscaping Costs Plumbing Costs Roofing Costs Siding Costs Solar Costs Window Costs Trending Content Trending Windows Best Bathroom Materials Blog Articles Pros Popular Indoor Bathrooms Cabinets Door Installation Flooring HVAC Install/Replacement Kitchens Plumbing Water Damage Water Filtration Windows Popular Outdoor Garage Doors Gutter Guards Gutter Installation Gutter Replacement Home Security Systems Roofing Siding Solar Additional Categories Basement Waterproofing Decks Electrician Services Gutter Cleaning HVAC Repair Landscaping/Lawn Care Pest Control Stairlifts Walk-In Tubs Home Improvement Guides 2023 Bathroom Remodeling Checklist View Window Replacement Cost Estimate View Reliable Home Remodeling Match with Top Tier Professionals Uncover The Best Price Transforming Spaces, One Perfect Match at a Time Make your Dream Home a Reality. Find the PERFECT PRO for your project . Simplify Y"
+   }
+  ]
+ }
+]

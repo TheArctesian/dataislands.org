@@ -1,0 +1,615 @@
+[
+ {
+  "broker_id": "acuant",
+  "name": "Acuant, Inc.",
+  "other_names": [
+   "Acuant, Inc."
+  ],
+  "domains": [
+   "acuant.com"
+  ],
+  "page_urls": [
+   "https://www.gbg.com/en-us/"
+  ],
+  "reader_a": {
+   "label": "fraud-identity-verification",
+   "reason": "Identity verification and fraud tools (GBG page)."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpt is from gbg.com, not the listed acuant.com domain; no company business text is shown."
+  }
+ },
+ {
+  "broker_id": "american-treasury-tax-solutions",
+  "name": "American Treasury Tax Solutions Inc",
+  "other_names": [
+   "American Treasury Tax Solutions Inc"
+  ],
+  "domains": [
+   "americantreasurytaxsolutions.com"
+  ],
+  "page_urls": [
+   "https://www.americantreasurytaxsolutions.com/index.php?lang=about"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Tax planning and accounting services firm, not a data seller."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpt shows a tax services firm, which is not shown to be a data business."
+  }
+ },
+ {
+  "broker_id": "atdata",
+  "name": "AtData, LLC",
+  "other_names": [
+   "ATDATA LLC",
+   "AtData, LLC",
+   "Atdata LLC",
+   "Atdata, LLC"
+  ],
+  "domains": [
+   "atdata.com"
+  ],
+  "page_urls": [
+   "https://atdata.com/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Email-based identity resolution and risk intelligence for marketers."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Email and identity validation and fraud-risk scoring for businesses."
+  }
+ },
+ {
+  "broker_id": "belardi-wong-alc",
+  "name": "Belardi Wong, ALC, LLC",
+  "other_names": [
+   "Belardi Ostroy",
+   "Belardi Ostroy ALC LLC",
+   "Belardi Ostroy, ALC, LLC",
+   "Belardi Ostroy, Alc, LLC",
+   "Belardi Wong",
+   "Belardi Wong, ALC, LLC"
+  ],
+  "domains": [
+   "belardiwong.com"
+  ],
+  "page_urls": [
+   "https://belardiwong.com/",
+   "https://belardiwong.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Direct mail and digital marketing agency; no data product shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Full-service marketing agency; no data-broker business is shown."
+  }
+ },
+ {
+  "broker_id": "businessentitysearch-com",
+  "name": "BUSINESSENTITYSEARCH.COM, LLC",
+  "other_names": [
+   "BUSINESSENTITYSEARCH.COM, LLC"
+  ],
+  "domains": [
+   "businessregistry.com"
+  ],
+  "page_urls": [
+   "https://businessregistry.com/",
+   "https://businessregistry.com/privacy"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Business entity records search and due diligence service."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Due-diligence and verification reports on business entities for businesses."
+  }
+ },
+ {
+  "broker_id": "citydata",
+  "name": "CITYDATA Inc.",
+  "other_names": [
+   "CITYDATA Inc.",
+   "Citydata, Inc."
+  ],
+  "domains": [
+   "citydata.ai"
+  ],
+  "page_urls": [
+   "https://www.citydata.ai/",
+   "https://www.citydata.ai/privacy/"
+  ],
+  "reader_a": {
+   "label": "location",
+   "reason": "Aggregated mobility and visitation data for cities."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Civic analytics software for cities and parks; excerpts say datasets exclude personal data."
+  }
+ },
+ {
+  "broker_id": "converge-marketing",
+  "name": "Converge Marketing LLC",
+  "other_names": [
+   "CONVERGE DIRECT LLC",
+   "Converge Direct, LLC",
+   "Converge Direct, LLC.",
+   "Converge Marketing LLC"
+  ],
+  "domains": [
+   "convergedirect.com",
+   "convergemarketing.com",
+   "homeservicescompliance.com"
+  ],
+  "page_urls": [
+   "https://www.convergemarketing.com/who-we-are/",
+   "https://www.convergemarketing.com/",
+   "https://www.convergemarketing.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Performance marketing agency that also operates lead generation services."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing agency running media, creative and analytics; its privacy policy also mentions lead generation services."
+  }
+ },
+ {
+  "broker_id": "datadelivers",
+  "name": "DataDelivers, LLC",
+  "other_names": [
+   "CUSTOMER ASSET CONSULTING GROUP Inc",
+   "DATADELIVERS LLC",
+   "DataDelivers LLC",
+   "DataDelivers, LLC",
+   "Datadelivers LLC"
+  ],
+  "domains": [
+   "datadelivers.com"
+  ],
+  "page_urls": [
+   "https://datadelivers.com/",
+   "https://datadelivers.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Restaurant customer data platform with profile identification and enrichment."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Restaurant customer data platform software with proprietary identification and enrichment tools."
+  }
+ },
+ {
+  "broker_id": "deeptrace",
+  "name": "Deeptrace Inc.",
+  "other_names": [
+   "Deeptrace Inc."
+  ],
+  "domains": [
+   "coresignal.com"
+  ],
+  "page_urls": [
+   "https://coresignal.com/about-us/",
+   "https://coresignal.com/",
+   "https://coresignal.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Sells web-sourced company, employee and jobs datasets via APIs."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "Sells public-web company, employee and jobs data for B2B sales and recruiting."
+  }
+ },
+ {
+  "broker_id": "draup",
+  "name": "Draup, Inc.",
+  "other_names": [
+   "Draup, Inc."
+  ],
+  "domains": [
+   "draup.com"
+  ],
+  "page_urls": [
+   "https://draup.com/",
+   "https://draup.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Talent and market intelligence for enterprises."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Enterprise AI workforce and talent-intelligence software; no listed category fits."
+  }
+ },
+ {
+  "broker_id": "epsilon-data-management",
+  "name": "Epsilon Data Management, LLC",
+  "other_names": [
+   "EPSILON DATA MANAGEMENT LLC",
+   "Epsilon Data Management",
+   "Epsilon Data Management LLC",
+   "Epsilon Data Management, LLC"
+  ],
+  "domains": [
+   "epsilon.com"
+  ],
+  "page_urls": [
+   "https://www.epsilon.com/us/about-us",
+   "https://www.epsilon.com/us",
+   "https://legal.epsilon.com/dsr"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Licenses consumer data and runs advertising services."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Marketing services: identity resolution, digital media and licensed consumer marketing data."
+  }
+ },
+ {
+  "broker_id": "fi-navigator",
+  "name": "FI Navigator Corporation",
+  "other_names": [
+   "FI Navigator Corporation"
+  ],
+  "domains": [
+   "fi-navigator.com"
+  ],
+  "page_urls": [
+   "https://www.fi-navigator.com/about/",
+   "https://www.fi-navigator.com:443/",
+   "https://www.fi-navigator.com/remove/"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Data and analytics platform for US banking sector."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Analytics platform for banks' strategy and performance; institution data, not consumer data."
+  }
+ },
+ {
+  "broker_id": "general-motors",
+  "name": "General Motors LLC",
+  "other_names": [
+   "General Motors LLC"
+  ],
+  "domains": [
+   "gm.com"
+  ],
+  "page_urls": [
+   "https://www.gm.com/",
+   "https://www.gm.com/consumer-privacy",
+   "https://www.gm.com/privacy-statement"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Automaker; main business is vehicles."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts show an automaker; data sales appear only in privacy text, not as main business."
+  }
+ },
+ {
+  "broker_id": "intentsify",
+  "name": "Intentsify, LLC",
+  "other_names": [
+   "INTENTSIFY LLC",
+   "Intentsify, LLC"
+  ],
+  "domains": [
+   "intentsify.io"
+  ],
+  "page_urls": [
+   "https://intentsify.io/",
+   "https://intentsify.io/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "B2B intent data audiences with advertising activation and identity graph."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Intent data and activation platform with identity graph and ad products."
+  }
+ },
+ {
+  "broker_id": "leadloft",
+  "name": "Leadloft Inc.",
+  "other_names": [
+   "Leadloft Inc."
+  ],
+  "domains": [
+   "leadloft.com"
+  ],
+  "page_urls": [
+   "https://www.leadloft.com/",
+   "https://www.leadloft.com/user-agreements/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sales prospecting platform with email and phone finders."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sales-prospecting software with AI agents, email finder and a contact database."
+  }
+ },
+ {
+  "broker_id": "listsonline-com",
+  "name": "ListsOnline.com, Inc.",
+  "other_names": [
+   "ListsOnline.com, Inc.",
+   "Listsonline"
+  ],
+  "domains": [
+   "everleads.com",
+   "listonline.com",
+   "listsonline.com"
+  ],
+  "page_urls": [
+   "https://everleads.com/about",
+   "https://everleads.com/",
+   "https://listonline.com/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Professional and business audience data."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Licenses professional and business audience files and contact segments from public records."
+  }
+ },
+ {
+  "broker_id": "market-force",
+  "name": "Market Force Corporation",
+  "other_names": [
+   "Market Force Corporation"
+  ],
+  "domains": [
+   "marketforcecorp.com"
+  ],
+  "page_urls": [
+   "https://marketforcecorp.com/about",
+   "https://marketforcecorp.com/",
+   "https://marketforcecorp.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sells new-business formation lead data to marketers."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells new-business lead data and direct-mail campaigns to marketers."
+  }
+ },
+ {
+  "broker_id": "moody-s",
+  "name": "Moody's Corporation",
+  "other_names": [
+   "MOODYS ANALYTICS Inc",
+   "Moody's Corporation"
+  ],
+  "domains": [
+   "moodys.com"
+  ],
+  "page_urls": [
+   "https://www.moodys.com/web/en/us/about-us.html",
+   "https://www.moodys.com/error",
+   "https://www.moodys.com/"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Credit ratings, research and risk data."
+  },
+  "reader_b": {
+   "label": "investor-web",
+   "reason": "Credit ratings, research and market data sold to investors and capital markets."
+  }
+ },
+ {
+  "broker_id": "optimal-fusion",
+  "name": "Optimal Fusion",
+  "other_names": [
+   "Optimal Fusion"
+  ],
+  "domains": [
+   "optimalfusion.com"
+  ],
+  "page_urls": [
+   "https://optimalfusion.com/",
+   "https://optimalfusion.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Performance advertising network with audience targeting and lead generation."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Integrated media company selling audience segments, leads and intent data alongside ad placements."
+  }
+ },
+ {
+  "broker_id": "postpilot",
+  "name": "PostPilot, Inc.",
+  "other_names": [
+   "POSTPILOT Inc",
+   "PostPilot, Inc.",
+   "Postpilot, Inc."
+  ],
+  "domains": [
+   "postpilot.com"
+  ],
+  "page_urls": [
+   "https://www.postpilot.com/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Direct mail marketing service for ecommerce brands."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Direct mail marketing service for brands with a prospecting audience engine; category fit implied."
+  }
+ },
+ {
+  "broker_id": "real-intent",
+  "name": "REAL INTENT INC",
+  "other_names": [
+   "REAL INTENT INC",
+   "REAL INTENT Inc.",
+   "Real Intent Inc."
+  ],
+  "domains": [
+   "realintent.co"
+  ],
+  "page_urls": [
+   "https://www.realintent.co/",
+   "https://www.realintent.co/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Marketing automation and lead generation service for real estate agents."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Lead generation and marketing automation for real estate agents."
+  }
+ },
+ {
+  "broker_id": "rushmore-labs",
+  "name": "Rushmore Labs, LLC",
+  "other_names": [
+   "Rushmore Labs, LLC"
+  ],
+  "domains": [
+   "censaianalytics.com",
+   "rushmorelabs.com"
+  ],
+  "page_urls": [
+   "https://www.censaianalytics.com/about/",
+   "https://www.censaianalytics.com/",
+   "https://rushmorelabs.com/about/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Audience targeting data, plus CENSAI real estate analytics."
+  },
+  "reader_b": {
+   "label": "property",
+   "reason": "Real estate data and analytics for investors, including property and migration data."
+  }
+ },
+ {
+  "broker_id": "sovra-ai",
+  "name": "Sovra AI, Inc.",
+  "other_names": [
+   "Sovra AI, Inc."
+  ],
+  "domains": [
+   "sovrainsight.com"
+  ],
+  "page_urls": [
+   "https://sovrainsight.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Stealth-mode intelligence platform page; product not clearly described."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Pre-launch company describing identity verification and trust scoring for decisions."
+  }
+ },
+ {
+  "broker_id": "think-data",
+  "name": "Think Data Group Inc",
+  "other_names": [
+   "New Gold Ventures LLC",
+   "Think Data Group Inc"
+  ],
+  "domains": [
+   "thinkdatagroup.com"
+  ],
+  "page_urls": [
+   "https://www.thinkdatagroup.com/",
+   "https://www.thinkdatagroup.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Consultancy helping data owners monetize and source data."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells digital audiences to marketers and brokers data for data sellers."
+  }
+ },
+ {
+  "broker_id": "victory-waves",
+  "name": "Victory Waves Co.",
+  "other_names": [
+   "Victory Waves Co."
+  ],
+  "domains": [
+   "victorywaves.com"
+  ],
+  "page_urls": [
+   "https://www.victorywaves.com/about",
+   "https://www.victorywaves.com/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Provides voter files and targeted ad tools to political campaigns."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Political campaign software selling voter file access and ad targeting; no category fits."
+  }
+ },
+ {
+  "broker_id": "zipstorm",
+  "name": "ZipStorm, Inc.",
+  "other_names": [
+   "ZIPSTORM Inc",
+   "ZipStorm, Inc.",
+   "Zipstorm LLC",
+   "Zipstorm, Inc."
+  ],
+  "domains": [
+   "seekout.com",
+   "seekout.io"
+  ],
+  "page_urls": [
+   "https://www.seekout.com/about-us/",
+   "https://www.seekout.com/",
+   "https://www.seekout.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "SeekOut sells searchable candidate profiles to recruiters; also offers applicant screening."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Recruiting software platform for finding and evaluating job candidates, not a list or lookup product."
+  }
+ }
+]

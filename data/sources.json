@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cppa",
+    "kind": "government_registry",
+    "title": "California data broker registry",
+    "publisher": "California Privacy Protection Agency",
+    "url": "https://cppa.ca.gov/data_broker_registry/registry.csv",
+    "asOf": "2026-10-30",
+    "licence": "Public record"
+  },
+  {
+    "id": "prc",
+    "kind": "research_database",
+    "title": "Data Broker Full Registry 2025 (California, Oregon, Texas and Vermont)",
+    "publisher": "Privacy Rights Clearinghouse",
+    "url": "https://privacyrights.org/sites/default/files/2025-05/Data_Broker_Full_Registry_2025.xlsx.xlsx",
+    "asOf": "2025-04",
+    "licence": "CC BY-NC-SA 4.0"
+  },
+  {
+    "id": "texas",
+    "kind": "government_registry",
+    "title": "Texas data broker registry",
+    "publisher": "Texas Secretary of State",
+    "url": "https://texas-sos.appianportalsgov.com/data-broker-registry",
+    "asOf": "2026-10-30",
+    "licence": "Public record"
+  },
+  {
+    "id": "incogwe",
+    "kind": "open_source_dataset",
+    "title": "incogwe broker seed, commit d1a2f5e",
+    "publisher": "tfhumanity-org",
+    "url": "https://github.com/tfhumanity-org/incogwe",
+    "asOf": "2026-10-27",
+    "licence": "AGPL-3.0"
+  },
+  {
+    "id": "deletewe",
+    "kind": "open_source_dataset",
+    "title": "deletewe broker catalogue, commit 2419caf",
+    "publisher": "tfhumanity-org",
+    "url": "https://github.com/tfhumanity-org/deletewe",
+    "asOf": null,
+    "licence": "AGPL-3.0"
+  }
+]

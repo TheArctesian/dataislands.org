@@ -1,0 +1,98 @@
+broker_id,broker,parent,ticker,link,matched_name,filing_date,evidence_url
+accenture,Accenture LLP,Accenture plc,ACN,name_match_unverified,,2026-10-16,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1467373
+acquire-media-u-s,"Acquire Media U.S., LLC",MOODYS CORP /DE/,MCO,listed_subsidiary,acquire media u s,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+acxiom,Acxiom LLC,OMNICOM GROUP INC.,OMC,listed_subsidiary,acxiom,2026-02-20,https://www.sec.gov/Archives/edgar/data/29989/000002998926000006/a2025q4exhibit21.htm
+applovin,AppLovin Corporation,AppLovin Corp,APP,name_match_unverified,,2026-02-19,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1751008
+arity-875,"Arity 875, LLC",ALLSTATE CORP,ALL,listed_subsidiary,arity 875,2026-02-20,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/exhibit21allcorp123125.htm
+blackbaud,"Blackbaud, Inc",BLACKBAUD INC,BLKB,name_match_unverified,,2026-02-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1280058
+bridg-a-division-of-cardlytics,"Bridg, a division of Cardlytics, Inc.","Cardlytics, Inc.",CDLX,name_match_unverified,,2026-03-04,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666071
+choreograph,Choreograph LLC,WPP plc,WPP,listed_subsidiary,choreograph,2026-03-19,https://www.sec.gov/Archives/edgar/data/806968/000162828026019643/exhibit81listofsubsidiarie.htm
+clarivate,Clarivate,CLARIVATE PLC,CLVT,listed_subsidiary,dr decision resources,2026-02-24,https://www.sec.gov/Archives/edgar/data/1764046/000176404626000019/ex211listofsubsidiaries.htm
+clarivate,Clarivate,CLARIVATE PLC,CLVT,name_match_unverified,,2026-02-24,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1764046
+clickagy,Clickagy LLC,ZoomInfo Technologies Inc.,GTM,listed_subsidiary,clickagy,2026-02-12,https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm
+commerce-signals,"Commerce Signals, Inc.",TransUnion,TRU,listed_subsidiary,commerce signals,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+comscore,"Comscore, Inc","COMSCORE, INC.",SCOR,name_match_unverified,,2026-03-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1158172
+costar-realty-information,"CoStar Realty Information, Inc.","COSTAR GROUP, INC.",CSGP,listed_subsidiary,costar realty information,2026-02-26,https://www.sec.gov/Archives/edgar/data/1057352/000105735226000020/csgp-ex21120251231.htm
+costar-realty-information,"CoStar Realty Information, Inc.","COSTAR GROUP, INC.",CSGP,name_match_unverified,,2026-02-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1057352
+crisil-irvena-us,Crisil Irvena US LLC,S&P Global Inc.,SPGI,listed_subsidiary,crisil irevna us,2026-02-11,https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm
+criteo,Criteo Corp.,Criteo S.A.,CRTO,listed_subsidiary,criteo,2026-02-26,https://www.sec.gov/Archives/edgar/data/1576427/000157642726000014/exhibit211subsidiariesfy20.htm
+datamentors,Datamentors LLC,"Porch Group, Inc.",PRCH,listed_subsidiary,datamentors,2026-02-20,https://www.sec.gov/Archives/edgar/data/1784535/000178453526000008/prch-20251231xex211.htm
+datanyze,Datanyze LLC,ZoomInfo Technologies Inc.,GTM,listed_subsidiary,datanyze,2026-02-12,https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm
+datax,"Datax, Ltd.",EQUIFAX INC,EFX,listed_subsidiary,datax,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+definitive-healthcare,Definitive Healthcare LLC,Definitive Healthcare Corp.,DH,listed_subsidiary,monocl,2026-02-26,https://www.sec.gov/Archives/edgar/data/1861795/000119312526076782/dh-ex21_1.htm
+definitive-healthcare,Definitive Healthcare LLC,Definitive Healthcare Corp.,DH,listed_subsidiary,monocl ab,2026-02-26,https://www.sec.gov/Archives/edgar/data/1861795/000119312526076782/dh-ex21_1.htm
+definitive-healthcare,Definitive Healthcare LLC,Definitive Healthcare Corp.,DH,listed_subsidiary,populi,2026-02-26,https://www.sec.gov/Archives/edgar/data/1861795/000119312526076782/dh-ex21_1.htm
+definitive-healthcare,Definitive Healthcare LLC,Definitive Healthcare Corp.,DH,name_match_unverified,,2026-02-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1861795
+deluxe,Deluxe Corporation,DELUXE CORP,DLX,name_match_unverified,,2026-02-13,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=27996
+deluxe-financial-services,"Deluxe Financial Services, LLC",DELUXE CORP,DLX,listed_subsidiary,deluxe financial services,2026-02-13,https://www.sec.gov/Archives/edgar/data/27996/000002799626000037/exhibit2111231202510k.htm
+equifax-canada,Equifax Canada Co.,EQUIFAX INC,EFX,listed_subsidiary,equifax canada,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-information-services,Equifax Information Services LLC,EQUIFAX INC,EFX,listed_subsidiary,austin consolidated,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-information-services,Equifax Information Services LLC,EQUIFAX INC,EFX,listed_subsidiary,equifax data services,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-information-services,Equifax Information Services LLC,EQUIFAX INC,EFX,listed_subsidiary,equifax information services,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-information-services,Equifax Information Services LLC,EQUIFAX INC,EFX,listed_subsidiary,ixi,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-workforce-solutions,Equifax Workforce Solutions LLC,EQUIFAX INC,EFX,listed_subsidiary,equifax apprise solutions,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+equifax-workforce-solutions,Equifax Workforce Solutions LLC,EQUIFAX INC,EFX,listed_subsidiary,equifax workforce solutions,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+freewheel-media,FreeWheel Media Inc,COMCAST CORP,CMCSA,listed_subsidiary,freewheel media,2026-02-03,https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/ex21-12312025.htm
+general-motors,General Motors LLC,General Motors Co,GM,name_match_unverified,,2026-01-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1467858
+hubspot,"HubSpot, Inc.",HUBSPOT INC,HUBS,name_match_unverified,,2026-02-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404655
+ihs-markit,IHS Markit,S&P Global Inc.,SPGI,listed_subsidiary,ihs markit,2026-02-11,https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm
+illumin,illumin Inc.,illumin Holdings Inc.,ILLMF,name_match_unverified,,2023-03-09,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1861233
+innovative-database-solutions,"Innovative Database Solutions, Inc.","COSTAR GROUP, INC.",CSGP,listed_subsidiary,insight data solutions,2026-02-26,https://www.sec.gov/Archives/edgar/data/1057352/000105735226000020/csgp-ex21120251231.htm
+ipreo,Ipreo,S&P Global Inc.,SPGI,listed_subsidiary,ipreo,2026-02-11,https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm
+iqvia-digital,IQVIA Digital Inc.,IQVIA HOLDINGS INC.,IQV,listed_subsidiary,iqvia digital,2026-02-17,https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/ex-2111231202510xk.htm
+iqvia-digital,IQVIA Digital Inc.,IQVIA HOLDINGS INC.,IQV,name_match_unverified,,2026-02-17,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1478242
+knowledge-works,"Knowledge Works, Inc.",EQUIFAX INC,EFX,listed_subsidiary,knowledge works,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+leidos-digital-solutions,"Leidos Digital Solutions, Inc.","Leidos Holdings, Inc.",LDOS,listed_subsidiary,leidos digital solutions,2026-02-17,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos1022026ex21.htm
+lexisnexis-risk-solutions-fl,LexisNexis Risk Solutions FL Inc.,RELX PLC,RELX,name_match_unverified,,2026-02-19,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=929869
+liveramp,"LiveRamp Holdings, Inc.","LiveRamp Holdings, Inc.",RAMP,name_match_unverified,,2026-05-21,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=733269
+lucid,"Lucid Holdings, LLC","Lucid Group, Inc.",LCID,name_match_unverified,,2026-02-24,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1811210
+magnite,Magnite Inc,"MAGNITE, INC.",MGNI,name_match_unverified,,2026-02-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1595974
+marriott-international,"Marriott International, Inc.",MARRIOTT INTERNATIONAL INC /MD/,MAR,listed_subsidiary,marriott international,2026-02-10,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-2025q4xexx21.htm
+moody-s,Moody's Corporation,MOODYS CORP /DE/,MCO,listed_subsidiary,moody s,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+moody-s,Moody's Corporation,MOODYS CORP /DE/,MCO,listed_subsidiary,moodys analytics,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+moody-s-analytics,Moody's Analytics Inc,MOODYS CORP /DE/,MCO,listed_subsidiary,moody s analytics,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+nexxen,Nexxen Inc,Nexxen International Ltd.,NEXN,listed_subsidiary,nexxen,2026-03-04,https://www.sec.gov/Archives/edgar/data/1849396/000117891326000712/exhibit_8-1.htm
+oracle-america,Oracle America Inc,ORACLE CORP,ORCL,listed_subsidiary,oracle america,2026-06-22,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-ex21_01.htm
+outbrain,Outbrain Inc.,Teads Holding Co.,TEAD,name_match_unverified,,2026-03-16,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1454938
+pubmatic,PubMatic Inc.,"PubMatic, Inc.",PUBM,name_match_unverified,,2026-02-26,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1422930
+quad-graphics,"Quad Graphics, Inc.","Quad/Graphics, Inc.",QUAD,name_match_unverified,,2026-02-18,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1481792
+r-l-polk-and,R.L. Polk & Co.,S&P Global Inc.,SPGI,listed_subsidiary,r l polk and,2026-02-11,https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm
+r-l-polk-and,R.L. Polk & Co.,S&P Global Inc.,SPGI,name_match_unverified,,2026-02-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040
+regulatory-datacorp,"Regulatory Datacorp, Inc.",MOODYS CORP /DE/,MCO,listed_subsidiary,bureau van dijk electronic publishing,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+regulatory-datacorp,"Regulatory Datacorp, Inc.",MOODYS CORP /DE/,MCO,listed_subsidiary,regulatory datacorp,2026-02-18,https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm
+relationship-science,Relationship Science,S&P Global Inc.,SPGI,listed_subsidiary,deal,2026-02-11,https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm
+sabio,Sabio Inc,Sabio Holdings Inc.,SABOF,name_match_unverified,,,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1896752
+similarweb,Similarweb Ltd.,SIMILARWEB LTD.,SMWB,name_match_unverified,,2026-03-02,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1842731
+sprout-social,"Sprout Social, Inc.","Sprout Social, Inc.",SPT,name_match_unverified,,2026-02-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1517375
+teads,Teads Inc,Teads Holding Co.,TEAD,listed_subsidiary,teads,2026-03-16,https://www.sec.gov/Archives/edgar/data/1454938/000145493826000015/exhibit211-202510xk.htm
+techtarget,"TechTarget, Inc","TechTarget, Inc.",TTGT,name_match_unverified,,2026-03-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2018064
+teletrack,"Teletrack, LLC",EQUIFAX INC,EFX,listed_subsidiary,teletrack,2026-02-19,https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm
+throtle,THROTLE Inc,IQVIA HOLDINGS INC.,IQV,listed_subsidiary,throtle,2026-02-17,https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/ex-2111231202510xk.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,datalink services,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,drivers history information sales,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,iovation,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,marketshare partners,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,monevo,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,neustar,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,neustar information services,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,neustar ip intelligence,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,trans union,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,trans union content solutions,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,transunion digital,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,transunion interactive,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,transunion risk and alternative data solutions,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,tru optik data,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,trusignal,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,listed_subsidiary,trustid,2026-02-27,https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm
+trans-union,Trans Union LLC,TransUnion,TRU,name_match_unverified,,2026-02-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1552033
+veeva-systems,Veeva Systems Inc.,VEEVA SYSTEMS INC,VEEV,name_match_unverified,,2026-03-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1393052
+viant-us,Viant US LLC,Viant Technology Inc.,DSP,listed_subsidiary,viant us,2026-03-11,https://www.sec.gov/Archives/edgar/data/1828791/000182879126000019/dsp-20251231xex211listofsu.htm
+viant-us,Viant US LLC,Viant Technology Inc.,DSP,name_match_unverified,,2026-03-11,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1828791
+visitiq,VisitIQ LLC,VisitIQ Corp.,VIIQ,name_match_unverified,,2026-05-20,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1470129
+zeta-global,Zeta Global,Zeta Global Holdings Corp.,ZETA,name_match_unverified,,2026-02-25,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1851003
+ziff-davis,Ziff Davis LLC,"ZIFF DAVIS, INC.",ZD,listed_subsidiary,j2 global canada,2026-02-24,https://www.sec.gov/Archives/edgar/data/1084048/000108404826000005/zd20251231ex-211.htm
+ziff-davis,Ziff Davis LLC,"ZIFF DAVIS, INC.",ZD,listed_subsidiary,j2 martech,2026-02-24,https://www.sec.gov/Archives/edgar/data/1084048/000108404826000005/zd20251231ex-211.htm
+ziff-davis,Ziff Davis LLC,"ZIFF DAVIS, INC.",ZD,name_match_unverified,,2026-02-24,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1084048
+zoom-communications,"Zoom Communications, Inc.","Zoom Communications, Inc.",ZM,name_match_unverified,,2026-02-27,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1585521
+zoominfo-technologies,"ZoomInfo Technologies, LLC",ZoomInfo Technologies Inc.,GTM,listed_subsidiary,zoominfo,2026-02-12,https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm
+zoominfo-technologies,"ZoomInfo Technologies, LLC",ZoomInfo Technologies Inc.,GTM,name_match_unverified,,2026-02-12,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1794515

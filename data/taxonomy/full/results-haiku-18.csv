@@ -1,0 +1,41 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+swordfish-ai,unclear,,low,,,Excerpt is a bot-check notice; no business description is shown.
+t-mobile-usa,other-data-businesses,,high,https://www.t-mobile.com/,Best 5G Network & Unlimited Data Plans,Mobile carrier selling phone and internet plans; no data-broker category fits.
+targetsmart-communications,marketing-audiences,adtech-identity,medium,https://targetsmart.com/,"TargetSmart is the leading data, research, and media buying provider for Democratic campaigns","Sells voter file, list and data products to political campaigns; media buying is secondary."
+task-genie,b2b-contacts,,medium,https://www.datalane.com/privacy-policy,We gather information to create profiles of businesses and professional profiles of their representatives,"Profiles businesses and their staff for sales prospecting; excerpts name DataLane, not this company."
+tauxbe-data,employment-screening,,medium,https://www.natcrim.com/,purpose-built for background screening and trust & safety applications,Criminal-records database sold for background screening; one natcrim.com template excerpt is ignored.
+tax-credit,employment-screening,,medium,https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify,Income & Employment Verification Fulfillment Portal,Employment and income verification fulfillment for employers; a bot-check page was ignored.
+teads,adtech-identity,,high,https://www.teads.com/,Teads is powering one of the largest optimized supply paths,Advertising platform connecting advertisers to media owners' supply on the open internet.
+techtarget,marketing-audiences,,medium,https://www.informatechtarget.com/about-us/,Highly Qualified Leads,"Sells B2B leads, content syndication and purchase-intent data for marketers; also runs publishing sites."
+telefi,unclear,,low,,,Only a banner about hail maps for prospects; the business is not clearly shown.
+telesign,fraud-identity-verification,,high,https://www.telesign.com/,"Phone Number, SMS & Identity Verification APIs","Sells phone, SMS and identity verification APIs with fraud and risk scoring for businesses."
+terminus-software,adtech-identity,,medium,https://terminus.com/megamenu/about/,highest-rated B2B advertising tool,Describes itself as a B2B account-based advertising tool with media and data services.
+think-data,marketing-audiences,,high,https://www.thinkdatagroup.com/,Digital Audiences for Marketers,Sells digital audiences to marketers and brokers data for data sellers.
+throtle,adtech-identity,,high,https://www.throtle.io/,healthcare identity graph connects consumer and HCP intelligence,Sells healthcare identity graph and resolution technology for healthcare marketers.
+tinuiti,other-data-businesses,,high,https://tinuiti.com/,Tinuiti | Media Agency,Marketing and media agency running campaigns for brands; no data-broker category fits.
+tiplinks,other-data-businesses,,high,https://fetcher.ai/,AI Candidate Sourcing Tools for Recruiters,Recruiting software that sources and screens candidate profiles for recruiters and staffing firms.
+titan-locators,property,,medium,https://secondchanceapartments.com/,Apartment Locators for Bad Credit,"Rental locator site matching renters to landlords; a real estate listing service, not a records seller."
+tl1mkt-sl-sl,marketing-audiences,adtech-identity,high,https://tl1mkt.com/,"Audience data across markets, devices and channels",Sells audience segments and custom audiences for programmatic advertising across 150+ markets.
+torus-voter-systems,other-data-businesses,,medium,https://torusvotersystems.com/,Torus uses emergent data and large-language-model processing,Political message research and campaign-management software; no data-broker category fits the business.
+towerdata,fraud-identity-verification,,medium,https://atdata.com/,Validate Identities Assess Identity Risk Resolve & Link Profiles,Email and identity validation and risk scoring for businesses; some identity-graph and data-licensing offerings.
+traackr,other-data-businesses,,high,https://www.traackr.com/,AI-Powered Influencer Marketing Platform,Software platform for influencer marketing campaigns; sells tools rather than personal or audience data.
+tracerfy,property,people-search,high,https://www.tracerfy.com/,"Real Estate Property Data, Verified Owner Contacts & Skip Tracing","Property records and owner contacts; also reverse name, phone and email lookups."
+trelize,property,,high,https://trelize.com/privacy,daily probate intelligence service for real estate investors,Daily probate-record alerts and property intelligence sold to real estate investors by subscription.
+true-blue-analytics,marketing-audiences,,high,https://trueblueanalytics.org/,"Our high-quality, validated email records have helped our clients raise millions of dollars",Sells validated email and cell-phone acquisition lists and AI donor-modeling for fundraisers.
+true-opulence,other-data-businesses,,high,https://trueopulence.com/,True Opulence Agency stands at the vanguard of luxury marketing,"Luxury marketing agency offering social media, content, events and consulting; no category fits."
+truedata-solutions,unclear,,low,,,Excerpt is an unrendered image data blob; no business description is shown.
+truth-now,people-search,,medium,https://www.inmatesearcher.com/,Inmate Locator and Inmate Search FREE service,Free inmate and criminal-record lookup sites showing named people's charges and mugshots.
+tunnl,other-data-businesses,,medium,https://www.tunnldata.com/about-us,"Audience intelligence platform | Research, audiences, and measurement",Audience research and measurement software; no data-broker category fits.
+unacast,location,,high,https://www.unacast.com/about,global location intelligence and insights company,Sells location data from millions of devices and location intelligence to businesses.
+unearth-campaigns,other-data-businesses,marketing-audiences,medium,http://www.unearthcampaigns.com/about/,Unearth is a public affairs technology company,Public affairs advocacy software; Atlas sells audience targeting for ad platforms as one product.
+unify-ai-business,other-data-businesses,,high,https://www.unifygtm.com/,Outbound agents for every rep,Sales outbound software with AI agents; its B2B data signals are one feature.
+united-one-resources,property,,high,https://unitedone.com/about/,United One is a real estate risk management service provider,"Mortgage and real estate services: appraisals, title, flood zone and courthouse records for lenders."
+unity-technologies-sf,other-data-businesses,,high,https://unity.com/,Build 2D and 3D games for any platform,Game engine software for building and deploying games; no data-broker category fits.
+unmask,unclear,,low,,,Excerpts are only a bot-verification page; no business description is shown.
+upcell,b2b-contacts,,medium,https://www.upcell.io/,enrich them with every provider,Sales prospecting tool that enriches B2B contacts from multiple data providers for reps.
+uplead,b2b-contacts,,high,https://www.uplead.com/,B2B Database & Business Contact Data Provider,Sells B2B business contact database access with verified emails and phone numbers for sales teams.
+urban-science-applications,insurance-auto,,high,https://www.urbanscience.com/,We empower clients across the entire automotive industry spectrum,"Automotive industry analytics, forecasting and consulting for manufacturers and dealers."
+usadata,marketing-audiences,,high,https://www.usadata.com/,Data-Driven Marketing & Audience Intelligence,"Sells consumer and business mailing lists, enhanced data and audience segments for marketers."
+vanguard-ai,other-data-businesses,,high,https://electhq.net/,ElectHQ is a data driven campaign management platform,"Campaign management software for local and state candidates, with voter data tools; no category fits."
+veeva-systems,other-data-businesses,,high,https://www.veeva.com/,The Industry Cloud for Life Sciences,"Cloud software for life sciences companies; the main product is software, not health data."
+vendelux,other-data-businesses,,high,https://vendelux.com/about,Vendelux is an event intelligence platform,Event marketing software for B2B events and lead capture; no data-broker category fits.

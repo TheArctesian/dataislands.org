@@ -1,0 +1,143 @@
+<title>Data Islands Motion Reel</title>
+<!-- Starting point for a showcase reel. Replace the tokens, the scene and the storyboard; keep the engine.
+     Every style comes from t inside seek(t). See references/reel.md. -->
+<style>
+	:root { --paper:#cfe9ee; --wash:#f6fbfb; --ink:#14304a; --muted:#47637a; --sky:#8fcbe3; --cloud:#f6fbfb; --sun:#f7c744; color-scheme:light; }
+	body { margin:0; padding-inline:16px; background:var(--wash); color:var(--ink); font:16px ui-sans-serif,system-ui,sans-serif; box-sizing:border-box; }
+	.page { display:grid; justify-items:center; gap:12px; padding-block:16px; }
+	#frame { width:min(100%,calc(100vh - 96px),1440px); aspect-ratio:1; position:relative; overflow:hidden; background:linear-gradient(var(--sky),var(--paper)); }
+	#stage,#world { position:absolute; left:0; top:0; width:1440px; height:1440px; transform-origin:0 0; overflow:hidden; }
+	#world { overflow:visible; }
+	.abs { position:absolute; left:0; top:0; }
+	.ic { width:32px; height:32px; border-radius:22%; display:grid; place-items:center; font-weight:700; font-size:16px; box-shadow:0 2px 4px rgba(20,48,74,.35); transform-origin:50% 100%; }
+	.ic.big { position:static; width:72px; height:72px; font-size:34px; background:#fff; border:1px solid var(--paper); box-shadow:none; flex:none; }
+	.ctl { width:86px; padding:14px 0; background:var(--cloud); border:3px solid var(--ink); border-radius:10px; text-align:center; font-size:30px; line-height:1.7; font-weight:700; }
+	.sheet { background:var(--cloud); border-radius:12px 56px 56px 56px; padding:44px; box-sizing:border-box; font-size:30px; }
+	.sheet h1 { margin:0; font-size:56px; line-height:1.05; } .sheet h2 { font-size:36px; margin:38px 0 8px; } .sheet p { margin:6px 0; }
+	.hd { display:flex; gap:22px; align-items:center; margin-top:18px; } .lnk { color:#0b5e8c; text-decoration:underline; } .muted { color:var(--muted); }
+	.close { position:absolute; right:44px; top:34px; border:3px solid var(--ink); border-radius:8px; padding:6px 18px; font-weight:700; font-size:26px; }
+	.find { height:60px; border:3px solid var(--ink); border-radius:8px; background:#fff; padding:8px 16px; box-sizing:border-box; margin-top:10px; } .row { font-size:30px; color:#0b5e8c; }
+	#cursor { position:absolute; left:0; top:0; width:42px; height:50px; transform-origin:4px 4px; }
+	.bar { display:flex; gap:12px; align-items:center; width:min(100%,720px); color:var(--muted); font-size:14px; flex-wrap:wrap; }
+	.bar input { flex:1; min-width:160px; }
+	body.render { padding:0; } body.render .page { padding:0; } body.render .bar { display:none; }
+	body.render #frame { width:1440px; }
+</style>
+<div class="page">
+	<div id="frame" role="img" aria-label="A looping demonstration of proposed motion, on synthetic content"><div id="stage">
+		<div id="world" data-seam></div>
+		<svg id="cursor" data-seam viewBox="0 0 28 34" aria-hidden="true"><path d="M3 3 L3 27 L9.5 21 L14 31 L18 29.2 L13.6 19.4 L22 19.4 Z" fill="#222" stroke="#fff" stroke-width="2" stroke-linejoin="round"/></svg>
+	</div></div>
+	<div class="bar"><button id="play" type="button">Pause</button><input id="scrub" type="range" min="0" max="1" step="0.001" aria-label="Reel position"><span id="now"></span></div>
+</div>
+<script>
+'use strict';
+// ---- engine: keep this -------------------------------------------------------------------------
+const BPM = 120, BARS = 8, BEAT = 60 / BPM, T = BARS * 4 * BEAT;
+const B = n => (n - 1) * BEAT;                 // beat n starts here
+const clamp = (v, a = 0, b = 1) => Math.min(b, Math.max(a, v));
+const lerp = (a, b, p) => a + (b - a) * p;
+function bezier(x1, y1, x2, y2) {
+	const f = (a, b, s) => ((1 - 3 * b + 3 * a) * s + 3 * b - 6 * a) * s * s + 3 * a * s;
+	return p => { if (p <= 0) return 0; if (p >= 1) return 1; let lo = 0, hi = 1, s = p;
+		for (let i = 0; i < 24; i++) { s = (lo + hi) / 2; f(x1, x2, s) < p ? lo = s : hi = s; } return f(y1, y2, s); };
+}
+const EASE_OUT = bezier(.2, .7, .2, 1), EASE_IN = bezier(.4, 0, 1, 1);   // use the product's curves
+const tw = (t, t0, d, ease = EASE_OUT) => ease(clamp((t - t0) / d));
+// Closed-form step response. zeta < 1 overshoots slightly; keep it at 0.9 or above: bounce is not the point.
+function S(x, { response, zeta }) {
+	if (x <= 0) return 0;
+	const w = 2 * Math.PI / response;
+	if (zeta >= 1) return 1 - (1 + w * x) * Math.exp(-w * x);
+	const wd = w * Math.sqrt(1 - zeta * zeta), k = zeta * w;
+	return 1 - Math.exp(-k * x) * (Math.cos(wd * x) + (k / wd) * Math.sin(wd * x));
+}
+const SPRINGS = { travel: { response: .35, zeta: .9 }, lead: { response: .28, zeta: .9 }, trail: { response: .40, zeta: .9 }, camera: { response: .7, zeta: 1 } };
+// One spring per change, plus the previous loop's tail. Targets must return to `start`, which makes the
+// loop exactly periodic in value and velocity.
+function sum(t, start, events, spring) {
+	let v = start, prev = start;
+	for (const [ti, g] of events) { v += (g - prev) * (S(t - ti, spring) + S(t + T - ti, spring)); prev = g; }
+	return v;
+}
+const sumN = (t, start, events, spring) => start.map((s, k) => sum(t, s, events.map(e => [e[0], e[1][k]]), spring));
+
+// ---- storyboard ------------------------------------------------------------------------
+const REST = [1240, 1320], MAIN = [720, 980];
+const CURSOR = [[B(1), [720, 1000]], [B(5), [1360, 300]], [B(9), [795, 880]], [B(15), [1080, 290]], [B(21), [760, 760]], [B(23), [870, 825]], [B(25), [420, 980]], [B(29), [1360, 400]], [B(31), REST]];
+const CAMERA = [[B(3), [1.7, 720, 900]], [B(7), [2.5, 720, 880]], [B(22), [2.5, 610, 830]], [B(24), [3.1, 670, 860]], [B(29), [1.7, 720, 900]], [B(31), [1, 720, 720]]];
+const PRESS = [B(3), B(7), B(11), B(19), B(24), B(29), B(31)];
+const LABELS = ['Map of islands','Hover an island','Press: island travels to fill the page','Icons land on terraces','Icons settled','Cursor to zoom','Press +: camera glides','Icons grow, ride the bob','Icon under cursor','Hover: 120 ms lift','Press: pending ring','Waiting, still answerable','Details rise from the icon','Same icon, now the header','Reading','Reading','Reading','Cursor to Close','Press Close','Sheet returns to its icon','Back on the ground','Drag follows the hand','Release: inertia settles','Press small icon','Camera flies toward it','Find a company','Rows fade, height is held','Only the count changes','Press Fit','Glide back','Press: island returns to map','Rest'];
+
+// ---- scene ---------------------------------------------------------------------------
+const world = document.getElementById('world'), cursor = document.getElementById('cursor'), stageEl = document.getElementById('stage');
+const el = (cls, css, html = '', parent = world) => { const e = document.createElement('div'); e.className = cls; e.style.cssText = css; e.innerHTML = html; parent.appendChild(e); return e; };
+const islandSvg = (g, s, d) => `<svg viewBox="0 0 400 420" width="400" height="420"><polygon points="60,190 200,120 340,190 300,270 220,400 180,330 100,280" fill="${d}"/><polygon points="60,190 200,120 340,190 200,260" fill="${g}"/><polygon points="60,190 200,260 200,340 100,280" fill="#8a6a45"/><polygon points="340,190 200,260 200,340 300,270" fill="#5e4630"/><polygon points="120,160 200,115 280,160 200,205" fill="${s}"/><polygon points="120,160 200,205 200,235 120,190" fill="#8a6a45"/><polygon points="280,160 200,205 200,235 280,190" fill="#5e4630"/><polygon points="200,340 225,410 180,330" fill="#777"/></svg>`;
+const side = [[180, 300, '#d9a441', '#e9bd63', '#7a5c3c'], [860, 300, '#b9c6c8', '#dfe7e8', '#6f6f6f'], [40, 740, '#c9a26a', '#e0c28f', '#7a5c3c'], [1000, 740, '#7fa650', '#9cc26c', '#6b5238']];
+const others = side.map(([x, y, g, s, d]) => el('abs', `left:${x}px;top:${y}px;width:400px;height:420px`, islandSvg(g, s, d)));
+const main = el('abs', `left:${MAIN[0] - 200}px;top:${MAIN[1] - 210}px;width:400px;height:420px`, islandSvg('#7fa650', '#9cc26c', '#6b5238'));
+const SPOTS = [[-110, -30], [-60, -60], [0, -85], [60, -60], [110, -30], [-70, -5], [-20, -25], [30, -30], [80, -5], [-30, 15], [20, 15], [-5, -60], [-50, -105], [45, -110]];
+const NAMES = 'ABCDEFGHJKLMNP'.split('');
+const COLORS = ['#fff', '#2b6cb0', '#fff', '#7b3fa0', '#fff', '#fff', '#c0392b', '#fff', '#0f766e', '#fff', '#f7c744', '#fff', '#14304a', '#fff'];
+const icons = SPOTS.map((p, i) => el('abs ic', `left:${MAIN[0] + p[0] - 16}px;top:${MAIN[1] + p[1] - 32}px;background:${COLORS[i]};color:${COLORS[i] === '#fff' ? 'var(--ink)' : '#fff'}`, NAMES[i]));
+const FOCUS = 7;
+const pending = el('abs', `left:${MAIN[0] + SPOTS[FOCUS][0] - 24}px;top:${MAIN[1] + SPOTS[FOCUS][1] - 40}px;width:48px;height:48px;border-radius:50%;border:3px solid rgba(20,48,74,.2);border-top-color:var(--ink);box-sizing:border-box`);
+const zoom = el('abs ctl', 'left:1310px;top:250px', '+<br>−<br>Fit', stageEl);
+const sheet = el('abs sheet', 'left:320px;top:240px;width:800px;height:960px', `<div class="close">Close</div><div class="hd"><span class="ic big" id="hdicon">H</span><h1>Example Data Co</h1></div><h2>Opt out</h2><p class="lnk">example.test/opt-out</p><h2>Owner</h2><p><b>Example Parent Inc.</b></p><p class="muted">Read the source</p><h2>Registry records</h2><p>Synthetic registry, 2026</p>`, stageEl);
+const list = el('abs sheet', 'left:220px;top:620px;width:1000px;height:700px', `<h2 style="margin-top:0">All 14 companies</h2><div class="find"><span id="typed"></span></div><p class="muted" id="count"></p>`, stageEl);
+const rowNames = ['Example Data Co', 'Harbor Lists', 'Maple Records', 'Northwind Leads', 'Quartz Audience'];
+const rows = rowNames.map((n, i) => el('abs row', `left:44px;top:${260 + i * 70}px`, n, list));
+const typed = list.querySelector('#typed'), count = list.querySelector('#count');
+const fade = (e, o) => { e.style.opacity = o; e.style.pointerEvents = 'none'; };
+
+function seek(tIn) {
+	const t = ((tIn % T) + T) % T;
+	const [cs, cx, cy] = sumN(t, [1, 720, 720], CAMERA, SPRINGS.camera);
+	world.style.transform = `translate(${720 - cx * cs}px, ${720 - cy * cs}px) scale(${cs})`;
+	const bob = Math.sin(2 * Math.PI * 2 * t / T) * 3;   // shared by the island and its icons: M7
+	const onPage = tw(t, B(3), .35) * (1 - tw(t, B(31), .35));
+	others.forEach(e => e.style.opacity = 1 - onPage);
+	main.style.transform = `translateY(${bob}px)`;
+	const iconScale = lerp(.45, 1, clamp((cs - 1.7) / .8)) / Math.max(1, cs / 1.7);
+	icons.forEach((e, i) => {
+		const land = tw(t, B(4) + i * .03, .25) * (1 - tw(t, B(30), .2));
+		const hover = i === FOCUS ? tw(t, B(10), .12) * (1 - tw(t, B(13), .12)) : 0;
+		e.style.opacity = i === FOCUS && t > B(13) && t < B(20) + .3 ? 0 : land;
+		e.style.transform = `translateY(${bob - 16 * (1 - land)}px) scale(${iconScale * (1 + .25 * hover)})`;
+	});
+	const ringOn = tw(t, B(11), .1) * (1 - tw(t, B(13), .1));
+	fade(pending, ringOn); pending.style.transform = `translateY(${bob}px) rotate(${(t - B(11)) * 360}deg)`;
+	const ctl = onPage * (1 - tw(t, B(25), .2)) + tw(t, B(28) + .2, .2) * onPage; fade(zoom, Math.min(1, ctl));
+	const open = S(t - B(13), SPRINGS.travel) - S(t - B(20), SPRINGS.travel);
+	fade(sheet, clamp(open * 1.6)); sheet.style.visibility = open < .002 ? 'hidden' : 'visible';
+	const ox = 720 + (MAIN[0] + SPOTS[FOCUS][0] - cx) * cs, oy = 720 + (MAIN[1] + SPOTS[FOCUS][1] - cy) * cs;
+	sheet.style.transformOrigin = `${ox - 320}px ${oy - 240}px`; sheet.style.transform = `scale(${lerp(.08, 1, open)})`;
+	const show = S(t - B(26), SPRINGS.travel) - S(t - B(28) - .2, SPRINGS.travel);
+	fade(list, clamp(show * 1.5)); list.style.transform = `translateY(${(1 - show) * 90}px)`; list.style.visibility = show < .002 ? 'hidden' : 'visible';
+	const chars = Math.floor(clamp((t - B(26) - .25) / .7) * 5);
+	typed.textContent = 'north'.slice(0, chars); count.textContent = chars >= 5 ? 'Showing 1 of 14' : 'Showing 14 of 14';
+	rows.forEach((r, i) => { const keep = i === 3; const go = keep ? 0 : tw(t, B(27) + .45, .18); r.style.opacity = 1 - go; r.style.transform = keep ? `translateY(${-210 * tw(t, B(27) + .5, .3)}px)` : ''; });
+	const [wx, wy] = sumN(t, REST, CURSOR, SPRINGS.travel);
+	let press = 1;
+	for (const p of PRESS) if (t >= p && t < p + .25) press = Math.min(press, 1 - .1 * Math.sin(Math.PI * (t - p) / .25));
+	cursor.style.transform = `translate(${wx - 4}px, ${wy - 4}px) scale(${press})`;
+	return t;
+}
+window.seek = seek; window.REEL = { T, BEAT };
+
+// ---- playback: keep ------------------------------------------------------------------------------
+const render = new URLSearchParams(location.search).has('render');
+if (render) document.body.classList.add('render');
+const stage = document.getElementById('stage'), frame = document.getElementById('frame');
+const scrub = document.getElementById('scrub'), now = document.getElementById('now'), play = document.getElementById('play');
+const fit = () => { stage.style.transform = `scale(${frame.clientWidth / 1440})`; };
+new ResizeObserver(fit).observe(frame); fit(); scrub.max = T;
+let reduced = false; try { reduced = matchMedia('(prefers-reduced-motion: reduce)').matches; } catch {}
+let playing = !render && !reduced, origin = performance.now();
+const show = t => { const s = seek(t), b = Math.floor(s / BEAT); scrub.value = s; now.textContent = `${s.toFixed(2)} s · beat ${b + 1} · ${LABELS[b] || ''}`; };
+play.textContent = playing ? 'Pause' : 'Play';
+play.onclick = () => { playing = !playing; play.textContent = playing ? 'Pause' : 'Play'; if (playing) origin = performance.now() - scrub.value * 1000; };
+scrub.oninput = () => { playing = false; play.textContent = 'Play'; show(+scrub.value); };
+show(reduced ? B(16) : 0);
+if (!render) { const loop = ts => { if (playing) show((ts - origin) / 1000); requestAnimationFrame(loop); }; requestAnimationFrame(loop); }
+</script>

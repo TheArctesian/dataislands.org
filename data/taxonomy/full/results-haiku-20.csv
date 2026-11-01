@@ -1,0 +1,5 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+zipstorm,other-data-businesses,,high,https://www.seekout.com/,Agentic AI Recruiting Platform,"Recruiting software platform for finding and evaluating job candidates, not a list or lookup product."
+zoom-communications,other-data-businesses,,high,https://www.zoom.com/,Join a meeting Host a meeting Schedule a meeting,Video meeting and communications software; fits the taxonomy's software-with-personal-data case.
+zoominfo-technologies,b2b-contacts,,high,https://www.zoominfo.com/about,Company and contact database,Sells B2B company and contact databases and lead data for sales and marketing teams.
+zs-associates,other-data-businesses,,high,https://www.zs.com/about,ZS is a management consulting and technology firm,Management consulting and technology firm; no data-sale business appears in the excerpts.

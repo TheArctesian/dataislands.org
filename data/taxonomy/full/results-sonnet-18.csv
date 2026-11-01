@@ -1,0 +1,41 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+swordfish-ai,unclear,,low,,,Only a bot-check page; business not shown.
+t-mobile-usa,other-data-businesses,,medium,https://www.t-mobile.com/,Best 5G Network & Unlimited Data Plans,Wireless carrier selling mobile and home internet plans.
+targetsmart-communications,marketing-audiences,,high,https://targetsmart.com/,"data, research, and media buying provider for Democratic campaigns","Political data, voter lists and media buying for campaigns."
+task-genie,b2b-contacts,,high,https://www.datalane.com/privacy-policy,profiles of businesses and professional profiles of their representatives,Builds business and contact profiles for B2B sales customers.
+tauxbe-data,employment-screening,,high,https://www.natcrim.com/,purpose-built for background screening and trust & safety applications,Criminal records database supplied to background screening firms.
+tax-credit,unclear,,low,,,Only an Experian page; unclear it shows this company's business.
+teads,adtech-identity,,high,https://www.teads.com/,one of the largest optimized supply paths on the open internet,Omnichannel advertising platform.
+techtarget,marketing-audiences,,medium,https://www.informatechtarget.com/,Your Indispensable Partner for B2B Go-to-Market Success,B2B publisher selling demand generation and purchase intent to vendors.
+telefi,unclear,,low,,,Privacy notice only; business too thinly described.
+telesign,fraud-identity-verification,,high,https://www.telesign.com/,"Phone Number, SMS & Identity Verification APIs",Phone verification and fraud prevention APIs for businesses.
+terminus-software,adtech-identity,,medium,https://terminus.com/megamenu/about/,highest-rated B2B advertising tool,Account-based marketing and B2B advertising platform.
+think-data,other-data-businesses,,medium,https://www.thinkdatagroup.com/,"Data Monetization, Sourcing, and Strategy",Consultancy helping data owners monetize and source data.
+throtle,adtech-identity,health,high,https://www.throtle.io/about-us,"unifying HCP and consumer data for precise resolution, onboarding, and measurement",Healthcare identity graph provider for marketers.
+tinuiti,other-data-businesses,,medium,https://tinuiti.com/,Tinuiti | Media Agency,Performance marketing and media agency.
+tiplinks,b2b-contacts,,high,https://fetcher.ai/,AI Candidate Sourcing Tools for Recruiters,Candidate sourcing platform for recruiters.
+titan-locators,other-data-businesses,,medium,https://secondchanceapartments.com/,Apartment Locators for Bad Credit,Apartment locator service for renters.
+tl1mkt-sl-sl,marketing-audiences,,high,https://tl1mkt.com/,"Audience data across markets, devices and channels",Sells audience data to advertisers and agencies.
+torus-voter-systems,other-data-businesses,,medium,https://torusvotersystems.com/,AN AI-NATIVE MESSAGE INTELLIGENCE PLATFORM,Political message research and donor intelligence for campaigns.
+towerdata,adtech-identity,fraud-identity-verification,medium,https://atdata.com/,AtData - Email Address Intelligence,"Email-based identity data for resolution, marketing and risk."
+traackr,other-data-businesses,,medium,https://www.traackr.com/,AI-Powered Influencer Marketing Platform,Influencer marketing software.
+tracerfy,property,,medium,https://www.tracerfy.com/,"Real Estate Property Data, Verified Owner Contacts & Skip Tracing",Property data and owner skip tracing for real estate professionals.
+trelize,property,,medium,https://trelize.com/privacy,daily probate intelligence service for real estate investors,Probate-based real estate lead alerts for investors.
+true-blue-analytics,marketing-audiences,,high,https://trueblueanalytics.org/,pinpoint the donors who are most likely to support your cause or campaign,Donor targeting and email acquisition for fundraising.
+true-opulence,other-data-businesses,,medium,https://trueopulence.com/,True Opulence Agency stands at the vanguard of luxury marketing,Luxury marketing agency.
+truedata-solutions,unclear,,low,,,Excerpt is encoded image data; business not shown.
+truth-now,people-search,,medium,https://www.inmatesearcher.com/about-us/,most thorough FREE hotspot for County Jail Inmate searches,Free inmate lookup sites with charges and mugshots.
+tunnl,marketing-audiences,,medium,https://www.tunnldata.com/,Research to measurement in one audience intelligence platform,Audience intelligence and targeting platform.
+unacast,location,adtech-identity,high,https://www.unacast.com/about,the global location intelligence and insights company,Sells location data; also identity graphing.
+unearth-campaigns,other-data-businesses,marketing-audiences,medium,http://www.unearthcampaigns.com/about/,Unearth is a public affairs technology company,Public affairs advocacy tools plus audience targeting.
+unify-ai-business,other-data-businesses,b2b-contacts,medium,https://www.unifygtm.com/,Outbound agents for every rep,Sales outbound software with a B2B data product.
+united-one-resources,property,credit-financial,medium,https://unitedone.com/about/,real estate risk management service provider and NOT a lender,"Mortgage support: appraisals, flood, credit, lists."
+unity-technologies-sf,other-data-businesses,adtech-identity,medium,https://unity.com/,The World's Leading Game Engine,Game engine maker with advertising and monetization tools.
+unmask,unclear,,low,,,Only a bot-verification page; business not shown.
+upcell,b2b-contacts,,high,https://www.upcell.io/,"Account-based prospecting, built for teams.",B2B prospecting and contact enrichment for sales teams.
+uplead,b2b-contacts,,high,https://www.uplead.com/,"Real-time verified B2B emails, mobile numbers and intent data",B2B contact database for sales teams.
+urban-science-applications,insurance-auto,,medium,https://www.urbanscience.com/,Uncover and activate dealer sales opportunities,Analytics for automotive manufacturers and dealers.
+usadata,marketing-audiences,,high,https://www.usadata.com/,Order Consumer Lists Order Business Lists,Sells consumer and business mailing lists and data enrichment.
+vanguard-ai,other-data-businesses,,medium,https://electhq.net/,Campaign management platform with Voters Data and Outreach,Campaign management software with voter data.
+veeva-systems,other-data-businesses,health,medium,https://www.veeva.com/,The Industry Cloud for Life Sciences,Life sciences cloud software with healthcare provider data.
+vendelux,other-data-businesses,,medium,https://vendelux.com/,AI-Native Event Marketing Platform,Event marketing software.

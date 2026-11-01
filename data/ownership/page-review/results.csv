@@ -1,0 +1,135 @@
+broker_id,relation,parent,operator,evidence_url,evidence_quote,confidence,note
+01advertising,none,,,https://www.01advertising.com/legal/privacy/,Affiliates include our parent company,low,"Generic parent company boilerplate, no name."
+alliant-cooperative-data-solutions,operator_only,,Alliant Cooperative Data Solutions LLC,https://alliantinsight.com/about/,Alliant Cooperative Data Solutions LLC,medium,Copyright line only. The AnalyticsIQ acquisition row is about another company.
+astoria,operator_only,,Astoria Company,https://astoriacompany.com/privacy-policy,operated by Astoria Company,high,
+audience-acuity,operator_only,,Audience Acuity LLC,https://audienceacuity.com/,Audience Acuity,medium,Copyright line only; privacy page hit names BBB National Programs (noise).
+birchwood-credit-services,operator_only,,"Birchwood Credit Services, Inc.",https://www.birchwoodcreditservices.com/privacy-policy/,"operated by Birchwood Credit Services, Inc.",high,
+buyerlink,parent,One Planet Group,Buyerlink,https://www.buyerlink.com/about,A One Planet Group Company,high,"Footer line on buyerlink.com. The acquired-by row is a bio, ignored."
+citydata,operator_only,,CityData Inc.,https://www.citydata.ai/privacy/,CityData Inc. | All rights reserved,medium,Copyright line only.
+clearview-ai,operator_only,,"Clearview AI, Inc.",https://www.clearview.ai/privacy-and-requests,"Clearview AI, Inc. All rights reserved",medium,Copyright line only.
+cognism,operator_only,,Cognism Ltd,https://www.cognism.com/about-us,Cognism Ltd. All rights reserved,medium,Copyright line; privacy policy also says services operated by Cognism.
+cox-automotive,parent,"Cox Enterprises, Inc.",Cox Automotive,https://www.coxautoinc.com/about-us/,"we’re a subsidiary of Cox Enterprises, Inc.",high,"Parent-company row refers to Autotrader, not used."
+datonics,none,,,https://www.datonics.com/privacy/technology-privacy-policy,all or a part of Datonics’ assets,low,Corporate-transaction boilerplate.
+deeptrace,none,,,https://coresignal.com/privacy-policy/,Coresignal Privacy policy,low,Domain (coresignal.com) does not name Deeptrace; snippet is noise.
+donorbureau,operator_only,,DonorBureau,https://donorbureau.com/about,DonorBureau. All rights reserved,medium,Copyright line only.
+edvisors-network,operator_only,,"Edvisors, LLC",https://www.edvisors.com/privacy-policy/,"Copyright © 1998-2026 by Edvisors, LLC",medium,"Page says Edvisors, not Edvisors Network; name match is close."
+elevar,parent,Audiense,Elevar,https://www.audiense.com/about/,now as part of Audiense Online,low,"Domain audiense.com is not Elevar's. WebFetch: Elevar, Buxton and Audiense unified under the Audiense brand; no explicit acquisition or ownership wording."
+faraday,operator_only,,"Faraday, Inc.",https://faraday.ai/legal,owned and operated by Faraday,high,
+first-orion,operator_only,,First Orion Corp.,https://firstorion.com/legal,First Orion Corp. All rights reserved,medium,Copyright line only.
+fullenrich,none,,,https://fullenrich.com/privacy-policy,sell my information © 2026 FullEnrich,low,Only a footer fragment; no ownership statement.
+getvector,none,,,https://www.vector.co/opt-out,part of Vector Podcast,low,Noise (podcast).
+idmap,operator_only,,IDMAP,https://idmap.ai/privacy-policy.html,businesses owned by IDMAP,medium,Corporate form not given.
+inflection-com,parent,"Checkr Group, Inc.","Inflection Risk Solutions, LLC",https://www.inflection.com/privacy-policy,"a subsidiary of Checkr Group, Inc.",high,"Snippet (kind a subsidiary of) names Inflection Risk Solutions, LLC as subsidiary."
+iq-data-systems,none,,,https://clients.backgroundsonline.com/policies/privacy,PROCESSED AS PART OF A BACKGROUND CHECK,low,Domain backgroundsonline.com does not name the broker; noise.
+lead-me-media,none,,,https://policy.leadmemedia.com/PoliciesTermsConditions/privacypolicy.html,information with our parent company,low,"Generic parent boilerplate, no name."
+leverage-digital,none,,,https://leveragedigital.ai/about/,later acquired by Genesys,low,Founder bio.
+lundquist-consulting,none,,,https://g2risksolutions.com/privacy-notice/,parent company is based,low,Domain g2risksolutions.com looks unrelated to Lundquist Consulting; text does not name it.
+maxmind,operator_only,,"MaxMind, Inc.",https://www.maxmind.com/en/privacy-policy,"MaxMind, Inc. MaxMind, GeoIP",medium,Copyright line only.
+next-wave-marketing-strategies,operator_only,,"Next Wave Marketing Strategies, Inc.",https://agedleadstore.com/privacy-policy/,"owned and operated by Next Wave Marketing Strategies, Inc.",high,Domain agedleadstore.com differs from broker name but text names the broker.
+open-data-people,none,,,https://openpeoplesearch.com/privacy,Company or its parent company,low,"Generic parent boilerplate, no name."
+outlogic,operator_only,,Outlogic,https://outlogic.io/privacy-policy/,Outlogic | All Rights Reserved,medium,Copyright line.
+path2response,operator_only,,Path2Response,https://path2response.com/privacy-policy/,operated by Path2Response,medium,Corporate form not given.
+pipl,operator_only,,"Pipl, Inc.",https://pipl.com/privacy-center,"owned and operated by Pipl, Inc.",high,
+property-reach-l-p,operator_only,,"PropertyReach, LP",https://leadsherpa.com/privacy/,"owned and operated by PropertyReach, LP",high,Domain leadsherpa.com differs from broker name but text names the broker.
+qwoted,operator_only,,"Qwoted, Inc.",https://app.qwoted.com/privacy_policy,"trademarks owned by Qwoted, Inc.",medium,Trademark ownership statement.
+realeflow,operator_only,,"Realeflow, LLC",https://leadflow.com/about,"the data intelligence division of Realeflow, LLC",medium,"Page is Leadflow, a division of Realeflow; Realeflow is the broker itself, not a parent. Domain leadflow.com differs."
+response-america,none,,,https://responseamerica.net/privacy_dec.html,Affiliates include our parent company,low,"Generic parent boilerplate, no name."
+salesintel-research,operator_only,,"SalesIntel Research, Inc.",https://salesintel.io/privacy-policy/,"SalesIntel Research, Inc. All rights reserved",medium,Copyright line only.
+scraping-robot,none,,,https://scrapingrobot.com/privacy-policy,ANY PART OF THE SCRAPING ROBOT WEBSITE,low,Boilerplate.
+skydeo,none,,,https://skydeo.com/privacy-policy/,as part of Skydeo’s Services,low,Boilerplate.
+source-path-digital,operator_only,,Source Path Digital,https://sourcepathdigital.com/privacy-policy/,Source Path Digital. All Rights Reserved,medium,Copyright line only.
+strategic-data-intelligence,operator_only,,"Strategic Data Intelligence, Inc.",https://strategicdataintelligence.com/privacy,"owned and operated by Strategic Data Intelligence, Inc.",high,
+traackr,none,,,https://www.traackr.com/legal/privacy-policy,part of Traackr,low,Corporate-transaction boilerplate.
+upcell,none,,,https://www.upcell.io/about,DemandMatrix ( acquired by Demandbase),low,Founder bio.
+vistar-media,none,,,https://www.vistarmedia.com/privacy,as part of a corporate reorganization,low,Boilerplate.
+x-mode-social,operator_only,,Outlogic,https://outlogic.io/privacy-policy/,Outlogic | All Rights Reserved,medium,"Page is outlogic.io, which does not name X-Mode Social in the snippet; treat as operator only. Possible rebrand not stated in snippet."
+zipstorm,none,,,https://www.seekout.com/privacy/,not owned or operated by SeekOut,low,Domain seekout.com does not name ZipStorm; snippet says third-party sites are not SeekOut's.
+180-by-two,parent,"MeritB2B, LLC",180byTwo,https://180bytwo.com/privacy/,"a fully owned subsidiary of MeritB2B, LLC",high,Snippet cut off; subject confirmed as 180byTwo by WebFetch of the same URL.
+altrata,parent,Delinian,Altrata,https://altrata.com/privacy-policy,Altrata is part of Delinian,high,
+attom-data-solutions,parent,Lovell Minnick Partners,,https://www.attomdata.com/about-us/,Since being acquired by Lovell Minnick Partners in 2019,low,Past-tense acquisition by a private equity firm; WebFetch found no statement of current ownership. Subject is ATTOM.
+azerion-us,none,,,https://www.hybridtheory.com/privacy-notice/,The Delete Act of 2023,low,Boilerplate; domain hybridtheory.com does not name Azerion.
+bushwick-growbots,none,,,https://www.growbots.com/privacy/,Data Processing Agreement,low,Boilerplate.
+catalist,operator_only,,Catalist LLC,https://catalist.us/privacy-policy/,operated by Catalist LLC,high,
+civil-data-research,operator_only,,"Civil Data Research, LLC",https://www.searchpublicrecords.com/help-center/privacy,"owned and operated by Civil Data Research, LLC",high,Domain searchpublicrecords.com differs but text names the broker.
+co2-ventures,operator_only,,"CO2 Ventures, LLC",https://oncoreleads.com/privacy-policy/,"owned and operated by CO2 Ventures, LLC",high,Domain oncoreleads.com differs but text names the broker (dba OnCore Leads).
+command-precision,none,,,https://persistent.id/privacy-policy,Affiliates include our parent company,low,"Generic parent boilerplate, no name; domain persistent.id not clearly the broker."
+cybba,operator_only,,Cybba Inc.,https://cybba.com/privacy-policy,owned and operated by Cybba Inc.,high,
+db-sub,none,,,https://partech.com/about/,"Topcoder, a division of Appirio",low,Executive bios on partech.com; domain does not name DB Sub.
+diligent,operator_only,,Diligent Corporation,https://www.diligent.com/legal/privacy,owned and operated by Diligent Corporation,high,
+dtn,none,,,https://www.dtn.com/external-privacy-statement/,as part of Service Agreement,low,Vendor table noise.
+effyis,none,,,https://www.socialgist.ai/privacy-and-terms,information with our parent company,low,Generic parent boilerplate; domain socialgist.ai does not name Effyis.
+emailmovers,operator_only,,Emailmovers Limited,https://emailmovers.com/privacy-policy/,operated by Emailmovers Limited,high,
+fetch-rewards,none,,,https://fetch.com/privacy-policy,as part of User-Generated Content,low,Boilerplate.
+fog-data-science,operator_only,,Fog Data Science LLC,https://www.fogdatascience.com/about,Fog Data Science LLC. All rights reserved,medium,Copyright line only.
+fyllo,none,,,https://www.semasio.com/legal/semasio-privacy-policy,"through its parent company , Samba TV",low,Domain semasio.com is another company's (Semasio); text does not name Fyllo.
+grata,operator_only,,"Grata, Inc.",https://grata.com/legal/privacy-policy,"operated by Grata, Inc.",high,
+indiemark,none,,,https://www.emailindustries.com/privacy-policy/,owned and operated by J2 Martech Corp,low,Page is for the Email Industries brand and does not name Indiemark; domain looks unrelated.
+information-data-resources,operator_only,,"Information Data Resources, LLC",https://www.publicinfoservices.com/help-center/privacy,"owned and operated by Information Data Resources, LLC",high,Domain publicinfoservices.com differs but text names the broker.
+jg-media,operator_only,,"JG Media, Inc.",https://communityimpact.com/privacy-policy/,"owned and operated by JG Media, Inc.",high,Domain communityimpact.com differs but text names the broker.
+leadership-connect,operator_only,,"Leadership Connect, Inc.",https://leadershipconnect.io/,"Leadership Connect, Inc. twitter",medium,Copyright line only.
+lightbox-parent-l-p,none,,,https://www.lightboxre.com/privacy-policy,normal business operations,low,Boilerplate.
+m1-data-and-analytics,none,,,https://m1-data.com/privacy-policy/,Privacy by Design,low,Boilerplate.
+melissa-data,none,,,https://www.melissa.com/privacy-policy,operated by Kapa.ai,low,Sub-processor noise.
+nextroll,none,,,https://www.nextroll.com/privacy,to our parent company in the United States,low,Parent company unnamed.
+optimal-fusion,operator_only,,Optimal Fusion,https://optimalfusion.com/privacy,operated by Optimal Fusion,medium,Corporate form not given.
+ownco,none,,,https://my.monitorbase.com/privacypolicy,operated by MonitorBase,low,Domain monitorbase.com looks unrelated to Ownco; text does not name Ownco.
+pen-link,operator_only,,Penlink,https://www.penlink.com/privacy-policy/,operated by Penlink,medium,Corporate form not given.
+plexuss,none,,,https://plexuss.com/about,as part of Unlimited Tutoring,low,Noise.
+pulsepoint,parent,WebMD Health Corp.,PulsePoint,https://www.pulsepoint.com/legal/platform-privacy-policy,is a subsidiary of WebMD Health Corp,medium,Snippet cut off before subject; page is pulsepoint.com platform policy so subject is presumably PulsePoint. Not fetched.
+r-r-donnelley-and-sons,operator_only,,R.R. Donnelley & Sons Company,https://www.rrd.com/,"R.R. Donnelley & Sons Company, all rights reserved",medium,Copyright line.
+reality-media,none,,,https://www.realitydebtsolutions.com/privacy-policy/,"operated by Freshworks, Inc.",low,Vendor noise; domain realitydebtsolutions.com does not name Reality Media.
+revelio-labs,none,,,https://www.reveliolabs.com/privacy,"parent company , subsidiaries, affiliates",low,"Generic parent boilerplate, no name."
+scalable-commerce,operator_only,,Scalable Commerce LLC,https://www.kidslivesafe.com/help-center/privacy,owned and operated by Scalable Commerce LLC,high,Domain kidslivesafe.com differs but text names the broker.
+semasio-gmbh,parent,Samba TV,Semasio,https://www.semasio.com/legal/semasio-privacy-policy,"through its parent company , Samba TV",medium,Snippet cut off; subject presumed Semasio (NAI member). Not fetched.
+snovio,none,,,https://snov.io/privacy-policy,as part of Synchronized Data,low,Boilerplate.
+sprout-social,operator_only,,"Sprout Social, Inc.",https://sproutsocial.com/legal/privacy-policy/,"Sprout Social, Inc. All Rights Reserved",medium,Copyright line only.
+t-mobile-usa,operator_only,,"T-Mobile USA, Inc.",https://www.t-mobile.com/advertising-solutions,"T‑Mobile USA, Inc.",medium,Copyright line only; Sprint row is about another brand.
+true-blue-analytics,operator_only,,True Blue,https://trueblueanalytics.org/privacy-policy,operated by True Blue or its affiliates,low,Corporate form not given.
+uplead,operator_only,,"UpLead, LLC",https://www.uplead.com/privacy/,"owned and operated by UpLead, LLC",high,
+vizio-services,parent,Walmart Inc.,"VIZIO, Inc.",https://www.vizio.com/en/terms/privacy-policy,VIZIO is owned by Walmart,medium,"Broker is Vizio Services; page says VIZIO (and Inscape, a VIZIO subsidiary) is owned by Walmart. Entity-level match to Vizio Services not confirmed."
+zeetogroup,operator_only,,"Zeeto Group, LLC",https://www.zeeto.io/privacy-policy,"operated by Zeeto Group, LLC",high,
+zoom-communications,operator_only,,"Zoom Communications, Inc.",https://www.zoom.com/en/about/?cms_guid=false,"Zoom Communications, Inc. All rights reserved",medium,Copyright line.
+all-web-leads,operator_only,,"All Web Leads, Inc.",https://affordable-health-insurance-plans.org/privacy,"owned and operated by All Web Leads, Inc",high,Domain affordable-health-insurance-plans.org differs but text names the broker.
+anteriad,operator_only,,Anteriad LLC,https://anteriad.com/privacy-policy,Anteriad LLC Terms,medium,Copyright line; operated-by rows are vendors.
+attribits,parent,"All Good Media, LLC",Attribits,https://www.attribits.com/privacy-policy,"Attribits, a subsidiary of All Good Media, LLC",high,
+bigdbm,operator_only,,PublicNSA LLC dba BIGDBM,https://bigdbm.com/privacy-policy/,operated by PublicNSA LLC dba BIGDBM,high,
+business-com,operator_only,,"Centerfield Media Parent, Inc.",https://www.business.com/privacy-policy/,"owned by Centerfield Media Parent, Inc.",medium,Page says the site is owned by this company; does not say it owns the broker as a subsidiary.
+censia,none,,,http://www.censia.com/privacy-policy/,"parent company , sister companies, subsidiaries",low,Generic parent boilerplate.
+civitech,operator_only,,Civitech PBC,https://civitech.io/privacy-policy/,Civitech PBC,medium,Copyright line only.
+coast-technology,none,,,https://www.coasttechnology.com/privacy,as part of Coast Tech’s services,low,Boilerplate.
+convex-labs,parent,"Service Titan, Inc.",Convex Labs LLC,https://www.convex.com/privacy-policy,"Convex is a division of Service Titan, Inc.",high,"Verified by WebFetch: policy is Convex Labs LLC lead-gen/data software. Spelled ""Service Titan"" on page."
+data-mail,operator_only,,Heller Data Services,https://www.data-management.com/privacy-policy,"Heller Data Services, a division of Heller Consulting",low,"Domain data-management.com does not name Data Mail; relation ambiguous, treat as noise-ish."
+dealmachine-operations,operator_only,,"DealMachine Operations, Inc.",https://dealmachine.com/about,"DealMachine Operations, Inc.",medium,Copyright line.
+distribution-processing-center,none,,,https://dpcoptout.com/privacy-policy/,not owned and/or operated by DPC,low,Negative statement about third parties.
+dynata,none,,,https://www.dynata.com/privacy/,Global UK Limited’s parent company,low,Parent unnamed in snippet.
+electronic-voice-services,operator_only,,"Electronic Voice Services, Inc.",https://www.telephonelists.biz/privacy-policy-of-telephonelists-biz,"Electronic Voice Services, Inc. | All rights reserved",medium,Copyright line.
+exa-labs,none,,,https://exa.ai/about,"AI, which got acquired by Adobe",low,Founder bio.
+first-direct,none,,,https://firstdirectmarketing.com/,Let's Talk Strategies,low,Marketing blurb noise.
+foursquare-labs,none,,,https://foursquare.com/legal/privacy-center/foursquare-privacy-policy-consumer-services/,As part of Attribution,low,Boilerplate.
+g2-bankruptcy-risk-solutions,operator_only,,"G2 Web Services, Inc.",https://g2risksolutions.com/about-us,"G2 Web Services, Inc. All rights reserved",low,"Page uses abbreviation G2RS and copyright to G2 Web Services, Inc.; link to this broker not stated; parent company unnamed."
+growing-libraries,none,,,https://growinglibraries.com/about,acquired by Springshare in 2023,low,Founder bio.
+infinite-media-concepts,operator_only,,"Infinite Media Concepts, Inc.",https://mailinglists.com/about,"Inc., is the parent company of Mailinglists.com",high,Verified by WebFetch. Broker is itself the parent of Mailinglists.com; not a parent of the broker.
+institute-for-police-conduct,none,,,https://www.policeconduct.org/legal-notice/privacy/,Affiliates include our parent company,low,Generic parent boilerplate.
+jun-productions,parent,Verve,,https://jungroup.com/privacy-policy,our parent company Verve and its subsidiaries,medium,"Domain jungroup.com (Jun Group) differs from broker name Jun Productions; parent given only as ""Verve"" in snippet."
+leadloft,none,,,https://www.leadloft.com/user-agreements/privacy-policy,integral part of LeadLoft,low,Boilerplate.
+live-data-technologies,operator_only,,"Live Data Technologies, Inc.",https://www.livedatatech.com/legals,"Live Data Technologies, Inc Legals",medium,Copyright line.
+malvern-media,none,,,https://www.malvernmedia.com/privacy-policy,information with our parent company,low,Parent unnamed.
+my-lead-hawk,operator_only,,"My Lead Hawk, LLC",https://meadleybrothers.com/privacy,"operated by My Lead Hawk, LLC",high,Domain meadleybrothers.com differs but text names the broker.
+one-model,none,,,https://www.onemodel.co/about,acquired by SuccessFactors and SAP,low,Founder bio.
+outkeep,operator_only,,Outkeep,https://outkeep.com/privacy-policy/,owned or operated by Outkeep,medium,Corporate form not given.
+pacific-east-research,operator_only,,"PacificEast Research, Inc.",https://www.pacificeast.com/privacy-policy/,"IDICIA.com, a division of PacificEast Research",medium,"IDICIA is a division of PacificEast, not the other way round."
+peopleconnect,none,,,https://peopleconnect.us/privacy-policy/,websites not operated by PeopleConnect,low,Negative statement about third parties.
+possiblenow,operator_only,,PossibleNOW,https://www.possiblenow.com/,PossibleNOW | 4400 River Green Parkway,medium,Footer line; acquired-by row is noise.
+qurium-solutions,none,,,https://supplier.io/about,acquired by Supplier.io,low,Bio on supplier.io; domain does not name Qurium.
+reach-marketing,none,,,https://reachmarketing.com/about/,"acquired by Infogoup, NKA Data Axle",low,"Company-history timeline entry, not ownership of this broker."
+resonate,none,,,https://www.resonate.com/privacy-policy/,information with our parent company,low,Parent unnamed.
+revenue-roll,none,,,https://meettie.com/privacy-policy,Affiliates include our parent company,low,Generic parent boilerplate; domain meettie.com does not name Revenue Roll.
+scout-data,operator_only,,Scout Data Inc.,https://scoutdata.com/privacy,Scout Data is operated by Scout Data Inc.,high,
+skipsmasher,none,,,https://www.skipsmasher.com/privacy.aspx,"parent company , subsidiaries or affiliates",low,Generic parent boilerplate.
+solar-connect,none,,,https://americanroofers.org/privacy-policy/,"owned and operated by BlueFire Leads, LLC",low,"Domain americanroofers.org names BlueFire Leads, LLC, not Solar Connect."
+sterling-data,operator_only,,Sterling Data Company LLC,http://sterling.ai/privacy-policy/,owned and operated by Sterling Data Company LLC,high,
+torus-voter-systems,operator_only,,"Torus Voter Systems, Inc.",https://torusvotersystems.com/privacy-policy,"operated by Torus Voter Systems, Inc.",high,
+truth-now,none,,,https://www.inmatesearcher.com/privacy-policy/,"operated by Automattic, Inc.",low,Vendor noise; domain inmatesearcher.com does not name Truth Now.
+venntel,operator_only,,Venntel,https://www.venntel.com/privacy-policy,Venntel - All Rights Reserved,medium,Copyright line; corporate form not given.
+warmly,operator_only,,"Warmly, Inc.",https://www.warmly.ai/p/privacy-policy,"Warmly, Inc. Terms Privacy",medium,Copyright line.
+zerotoone-ai,operator_only,,ZeroToOne.AI Inc.,https://www.zerotoone.ai/privacy-policy,operated by ZeroToOne.AI Inc.,high,

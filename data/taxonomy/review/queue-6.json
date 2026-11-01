@@ -1,0 +1,586 @@
+[
+ {
+  "broker_id": "advisortarget",
+  "name": "AdvisorTarget, LLC",
+  "other_names": [
+   "AdvisorTarget, LLC",
+   "Advisortarget, LLC"
+  ],
+  "domains": [
+   "finsum.com"
+  ],
+  "page_urls": [
+   "https://finsum.com/about-us",
+   "https://finsum.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Domain shows a financial news site; data business not shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Publishes financial news summaries; news publishing fits no listed category, and the name differs from the company."
+  }
+ },
+ {
+  "broker_id": "amplemarket",
+  "name": "Amplemarket",
+  "other_names": [
+   "Amplemarket",
+   "Tagis Inc",
+   "Tagis, Inc."
+  ],
+  "domains": [
+   "amplemarket.com"
+  ],
+  "page_urls": [
+   "https://www.amplemarket.com/about",
+   "https://www.amplemarket.com/",
+   "https://www.amplemarket.com/legal/privacy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "AI sales platform with B2B prospect data."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sales engagement software with AI lead-finding and B2B data for sales teams."
+  }
+ },
+ {
+  "broker_id": "atmospherik",
+  "name": "ATMOSPHERIK INC.",
+  "other_names": [
+   "ATMOSPHERIK INC."
+  ],
+  "domains": [
+   "atmospherik.ai"
+  ],
+  "page_urls": [
+   "https://atmospherik.ai/",
+   "https://atmospherik.ai/privacy"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "AI performance marketing system run on clients behalf."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "AI performance-marketing system run for clients, mainly a software and campaign service."
+  }
+ },
+ {
+  "broker_id": "best-pick-reports",
+  "name": "Best Pick Reports, LLC",
+  "other_names": [
+   "Best Pick Reports, LLC"
+  ],
+  "domains": [
+   "bestpickreports.com"
+  ],
+  "page_urls": [
+   "https://www.bestpickreports.com/content/about-us",
+   "https://www.bestpickreports.com/",
+   "https://www.bestpickreports.com/content/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Home service provider guide; no data product shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Home-service provider guide and directory; no data-broker business is shown."
+  }
+ },
+ {
+  "broker_id": "bv-insights",
+  "name": "BV Insights LLC",
+  "other_names": [
+   "BV Insights LLC"
+  ],
+  "domains": [
+   "big-village.com"
+  ],
+  "page_urls": [
+   "https://big-village.com/about/",
+   "https://big-village.com/",
+   "https://big-village.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Market and opinion research firm selling insights to brands."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Market research and insights consultancy; no listed category fits exactly."
+  }
+ },
+ {
+  "broker_id": "civic-element",
+  "name": "Civic Element LLC",
+  "other_names": [
+   "Civic Element LLC"
+  ],
+  "domains": [
+   "civicelement.com"
+  ],
+  "page_urls": [
+   "https://www.civicelement.com/about",
+   "https://www.civicelement.com/",
+   "https://www.civicelement.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Voter audience data for campaigns and advocacy groups."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Political voter data services that build and deliver audiences for campaigns and advocacy groups."
+  }
+ },
+ {
+  "broker_id": "cortera",
+  "name": "Cortera, Inc.",
+  "other_names": [
+   "Cortera, Inc.",
+   "Reis Inc."
+  ],
+  "domains": [
+   "cortera.com",
+   "moodysanalytics.com"
+  ],
+  "page_urls": [
+   "https://www.moodys.com/web/en/us/capabilities/company-reference-data/data-applications/trade-credit.html#pulse"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Trade credit data on businesses, now offered under Moody's."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Only excerpt is a moodys.com page, a domain not listed for this company."
+  }
+ },
+ {
+  "broker_id": "dataskip",
+  "name": "Dataskip",
+  "other_names": [
+   "Dataskip"
+  ],
+  "domains": [
+   "dataskip.io"
+  ],
+  "page_urls": [
+   "https://dataskip.io/about",
+   "https://dataskip.io/",
+   "https://dataskip.io/privacy"
+  ],
+  "reader_a": {
+   "label": "people-search",
+   "reason": "Skip tracing: turns property addresses into owner phones and emails for business clients."
+  },
+  "reader_b": {
+   "label": "property",
+   "reason": "Turns property addresses into owner contact data for real estate, trades and collections customers."
+  }
+ },
+ {
+  "broker_id": "direct-marketing-solutions",
+  "name": "DIRECT MARKETING SOLUTIONS Inc",
+  "other_names": [
+   "DIRECT MARKETING SOLUTIONS Inc",
+   "Direct Marketing Solutions, Inc."
+  ],
+  "domains": [
+   "teamdms.com"
+  ],
+  "page_urls": [
+   "https://teamdms.com/about",
+   "https://teamdms.com/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Direct mail and data-driven marketing campaigns."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Direct mail production and campaign services agency; print and fulfilment, not a data product."
+  }
+ },
+ {
+  "broker_id": "dresden-direct",
+  "name": "Dresden Direct inc.",
+  "other_names": [
+   "Dresden Direct Inc.",
+   "Dresden Direct inc.",
+   "Dresden Direct, Inc.",
+   "Dresdendirect"
+  ],
+  "domains": [
+   "dreesdendirect.com",
+   "dresdendirect.com"
+  ],
+  "page_urls": [
+   "https://dresdendirect.com/",
+   "https://dresdendirect.com/privacy-statement/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts too thin or not clearly this company business."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Self-described data aggregator serving data brokers; the specific data product is not shown."
+  }
+ },
+ {
+  "broker_id": "evorra",
+  "name": "Evorra Ltd",
+  "other_names": [
+   "Evorra Ltd"
+  ],
+  "domains": [
+   "evorra.com"
+  ],
+  "page_urls": [
+   "https://evorra.com/",
+   "https://evorra.com/privacy-data-policies/product-privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Audience intelligence platform reconciling signals from data providers."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Builds audience profiles and segments from partner data for advertisers and agencies."
+  }
+ },
+ {
+  "broker_id": "fifty-technology",
+  "name": "Fifty Technology Ltd",
+  "other_names": [
+   "Fifty Technology Limited",
+   "Fifty Technology Ltd"
+  ],
+  "domains": [
+   "fifty.io"
+  ],
+  "page_urls": [
+   "https://fifty.io/",
+   "https://fifty.io/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Media and audience insight services; data sold is not clearly shown."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Media activation and audience-data technology; ad buying implied, not stated outright."
+  }
+ },
+ {
+  "broker_id": "graph8",
+  "name": "Graph8 Inc.",
+  "other_names": [
+   "Graph8 Inc."
+  ],
+  "domains": [
+   "graph8.com"
+  ],
+  "page_urls": [
+   "https://graph8.com/about/",
+   "https://graph8.com/",
+   "https://graph8.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "AI sales platform with a searchable contact and company database."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sales software platform (sequencer, CRM, dialer) that also includes a contact database."
+  }
+ },
+ {
+  "broker_id": "juicebox-app",
+  "name": "Juicebox App, Inc.",
+  "other_names": [
+   "Juicebox App, Inc."
+  ],
+  "domains": [
+   "juicebox.ai"
+  ],
+  "page_urls": [
+   "https://juicebox.ai/about",
+   "https://juicebox.ai/",
+   "https://juicebox.ai/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "AI recruiting platform for sourcing candidates."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "AI recruiting software searching candidate profiles for recruiters; not a consumer people-search."
+  }
+ },
+ {
+  "broker_id": "leadpost",
+  "name": "LeadPost LLC",
+  "other_names": [
+   "LEADPOST LLC",
+   "LeadPost LLC",
+   "Leadpost LLC",
+   "Leadpost, LLC"
+  ],
+  "domains": [
+   "leadpost.com"
+  ],
+  "page_urls": [
+   "https://leadpost.com/",
+   "https://leadpost.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Identifies website visitors and sells leads and enrichment."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Identifies website visitors for retargeting and sells B2C and B2B leads from them."
+  }
+ },
+ {
+  "broker_id": "locatesmarter",
+  "name": "Locatesmarter LLC",
+  "other_names": [
+   "Locatesmarter LLC",
+   "Locatesmarter, LLC"
+  ],
+  "domains": [
+   "locatesmarter.com"
+  ],
+  "page_urls": [
+   "https://locatesmarter.com/about-locatesmarter/",
+   "https://locatesmarter.com/",
+   "https://locatesmarter.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Contact, locate and append data for debt collectors, auto finance and screening clients."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Collections, screening and skip-tracing data lines shown; no single main business is clear."
+  }
+ },
+ {
+  "broker_id": "mch",
+  "name": "Mch, Inc.",
+  "other_names": [
+   "MCH Inc",
+   "MCH Inc.",
+   "MCH Strategic Data",
+   "Mch, Inc."
+  ],
+  "domains": [
+   "mchdata.com"
+  ],
+  "page_urls": [
+   "https://www.mchdata.com/about",
+   "https://www.mchdata.com/",
+   "https://www.mchdata.com/about/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Marketing lists of education and government professionals, with email and data services."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells marketing data lists and email data services for education and government audiences."
+  }
+ },
+ {
+  "broker_id": "nachal",
+  "name": "Nachal Inc.",
+  "other_names": [
+   "NACHAL INC.",
+   "Nachal Inc."
+  ],
+  "domains": [
+   "getliminal.com"
+  ],
+  "page_urls": [
+   "https://getliminal.com/about",
+   "https://getliminal.com/",
+   "https://getliminal.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts show only site navigation for an automotive marketing assistant; business not clear."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing software (CDP, MAP) for automotive marketers; excerpts show no direct data sales."
+  }
+ },
+ {
+  "broker_id": "oracle-america",
+  "name": "Oracle America Inc",
+  "other_names": [
+   "Oracle America Inc",
+   "Oracle America, Inc.",
+   "Oracle Data Cloud"
+  ],
+  "domains": [
+   "oracle.com"
+  ],
+  "page_urls": [
+   "https://www.oracle.com/corporate/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Cloud database and applications vendor."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Corporate overview of a general software company; no excerpt shows a data-broker business."
+  }
+ },
+ {
+  "broker_id": "propbot",
+  "name": "Propbot LLC",
+  "other_names": [
+   "Propbot LLC"
+  ],
+  "domains": [
+   "propbotusa.com"
+  ],
+  "page_urls": [
+   "https://propbotusa.com/about"
+  ],
+  "reader_a": {
+   "label": "property",
+   "reason": "Sells pre-foreclosure leads and notices; only a page title is shown."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Excerpt is a page title only; it describes selling pre-foreclosure leads and foreclosure notices."
+  }
+ },
+ {
+  "broker_id": "remodeling-com",
+  "name": "Remodeling.com, LLC",
+  "other_names": [
+   "Azar LLC",
+   "REMODELING.COM LLC",
+   "Remodeling.Com, LLC",
+   "Remodeling.com, LLC"
+  ],
+  "domains": [
+   "remodeling.com"
+  ],
+  "page_urls": [
+   "https://remodeling.com/about-us/",
+   "https://remodeling.com/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Matches homeowners with remodeling contractors; earns fees on placements."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Consumer directory matching homeowners with remodeling contractors for placement fees."
+  }
+ },
+ {
+  "broker_id": "segerdahl-d-b-a-sg360",
+  "name": "The Segerdahl LLC d/b/a sg360\u00b0",
+  "other_names": [
+   "SG360",
+   "The Segerdahl LLC",
+   "The Segerdahl LLC d/b/a sg360\u00b0"
+  ],
+  "domains": [
+   "sg360.com"
+  ],
+  "page_urls": [
+   "https://sg360.com/",
+   "https://sg360.com/do-not-sell-my-info/",
+   "https://sg360.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Direct mail marketing agency; excerpts do not show lists or data being sold."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Direct-mail marketing agency for B2C brands; no data category fits the shown service."
+  }
+ },
+ {
+  "broker_id": "staircase",
+  "name": "Staircase, Inc.",
+  "other_names": [
+   "Staircase, Inc."
+  ],
+  "domains": [
+   "staircase.co"
+  ],
+  "page_urls": [
+   "https://www.staircase.co/"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Mortgage data and verification platform for lenders, covering credit, income and property."
+  },
+  "reader_b": {
+   "label": "property",
+   "reason": "Property, mortgage and tax data products for lenders; focus is collateral and valuation."
+  }
+ },
+ {
+  "broker_id": "tiplinks",
+  "name": "Tiplinks Inc",
+  "other_names": [
+   "Tiplinks Inc"
+  ],
+  "domains": [
+   "fetcher.ai"
+  ],
+  "page_urls": [
+   "https://fetcher.ai/about",
+   "https://fetcher.ai/",
+   "https://fetcher.ai/privacy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Candidate sourcing platform for recruiters."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Recruiting software that sources and screens candidate profiles for recruiters and staffing firms."
+  }
+ },
+ {
+  "broker_id": "vintory",
+  "name": "Vintory, LLC",
+  "other_names": [
+   "Vintory, LLC"
+  ],
+  "domains": [
+   "vintory.com"
+  ],
+  "page_urls": [
+   "https://vintory.com/",
+   "https://vintory.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "property",
+   "reason": "Sells vacation rental owner contact data and marketing tools to property managers."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells vacation rental owner lead lists and marketing campaigns for rental managers."
+  }
+ }
+]

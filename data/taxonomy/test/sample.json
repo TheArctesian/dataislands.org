@@ -1,0 +1,273 @@
+[
+ {
+  "broker_id": "whitepages",
+  "stratum": "hinted",
+  "hints": [
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "upcell",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "multimedia-lists",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "whoodle",
+  "stratum": "no_page",
+  "hints": []
+ },
+ {
+  "broker_id": "data-axle",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "veraset",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "graze-social-pbc",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "grata",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "zeotap-gmbh",
+  "stratum": "no_page",
+  "hints": []
+ },
+ {
+  "broker_id": "intelius",
+  "stratum": "hinted",
+  "hints": [
+   "background_check"
+  ]
+ },
+ {
+  "broker_id": "dun-and-bradstreet",
+  "stratum": "hinted",
+  "hints": [
+   "risk_mitigation"
+  ]
+ },
+ {
+  "broker_id": "exact-match-marketing",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "great-lakes-list",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "onfocus-sas",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "fastpeoplesearch",
+  "stratum": "hinted",
+  "hints": [
+   "background_check",
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "komodo-health",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "id5-technology",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "truthfinder",
+  "stratum": "hinted",
+  "hints": [
+   "background_check"
+  ]
+ },
+ {
+  "broker_id": "localblox",
+  "stratum": "no_page",
+  "hints": []
+ },
+ {
+  "broker_id": "occulytics",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "healthcare",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "radaris",
+  "stratum": "hinted",
+  "hints": [
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "property-reach-l-p",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "infopay",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "mylife",
+  "stratum": "hinted",
+  "hints": [
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "swipejobs",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "book-your-data",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "app-science",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "lead-me-media",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "vertify",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "hgonline",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "tauxbe-data",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "us-data",
+  "stratum": "no_page",
+  "hints": []
+ },
+ {
+  "broker_id": "data-partners",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "peekyou",
+  "stratum": "hinted",
+  "hints": [
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "towerdata",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "klarifi",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "solar-connect",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "fair-screen",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "adeptid",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "innovis-data-solutions",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "peoplefinders",
+  "stratum": "hinted",
+  "hints": [
+   "people_search"
+  ]
+ },
+ {
+  "broker_id": "ventiveiq",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "cic-mortgage-credit",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "indiemark",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "all-global-resources",
+  "stratum": "no_page",
+  "hints": []
+ },
+ {
+  "broker_id": "site-impact",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "webbula",
+  "stratum": "page",
+  "hints": []
+ },
+ {
+  "broker_id": "oracle-america",
+  "stratum": "hinted",
+  "hints": [
+   "identity_graph"
+  ]
+ },
+ {
+  "broker_id": "tunnl",
+  "stratum": "page",
+  "hints": []
+ }
+]

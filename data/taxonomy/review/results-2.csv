@@ -1,0 +1,27 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_opened,evidence_quote,names_broker,note
+4eyes-ai,unclear,,low,https://www.delivr.ai/,true,,false,"Listed page is delivr.ai, never names 4EYES AI; listed domain redirects there, unconfirmed."
+altair-data-resources,credit-financial,marketing-audiences,medium,https://altairdata.com/,true,"Daily-updated tri-bureau credit data from Experian, TransUnion, and Equifax",false,"Sells credit and consumer marketing data; page says Altair Data Solutions, not Resources."
+anteriad,marketing-audiences,b2b-contacts,medium,https://anteriad.com/about-us,true,global full-funnel B2B marketing and data solutions provider,true,"B2B marketing, audience data and demand generation services."
+azira,location,,medium,https://www.azira.com/about,true,Azira is the location intelligence platform built for today's data-driven teams,true,Location intelligence from mobile signals; sale of device data implied.
+boardroom-insiders,unclear,,low,https://altrata.com/boardroom-insiders-is-now-altrata,true,,true,"Page names it but only says executive intelligence, folded into Altrata; buyers not shown. Listed domain redirects."
+catchlight-insights,unclear,,low,https://catchlight.ai/about,true,,true,Data and AI platform for financial advisors; what data is sold is not stated.
+clay-labs,other-data-businesses,b2b-contacts,medium,https://www.clay.com/about,true,"People are combining our data, agents, signals, and workflows in hundreds of ways",true,"Go-to-market software platform combining data enrichment, AI agents and workflows for sales."
+crosswalk-technologies,unclear,,low,https://www.crosswalknyc.com/privacy-policy-1,true,,true,Opted-in digital panel licensing aggregated audience products; buyers and category unclear. Privacy policy only.
+dealerdirect,unclear,,low,https://www.forddirect.com/about,true,,false,"Page is FordDirect, serving Ford dealers with data-driven tools; does not name DealerDirect; product unclear."
+disqus,unclear,,low,https://disqus.com/about-us/,true,,true,Pages show only title and engagement claim; business not stated.
+edvisors-network,other-data-businesses,,medium,https://www.edvisors.com/about/,true,Edvisors receives compensation from lenders that appear on this site.,true,College financing guide website paid by listed student lenders (lead referral publisher).
+experian-marketing-solutions,unclear,,low,https://www.experian.com/privacy/us-consumer-data-privacy-policy,true,,true,Policy names this unit but no products; Experian home page shows only consumer credit.
+finthrive-healthcare,other-data-businesses,health,medium,https://finthrive.com/why-finthrive,true,"end-to-end platform that drives profitability, compliance and accuracy",true,Revenue cycle management software and services for hospitals and healthcare providers.
+here-north-america,other-data-businesses,location,medium,https://www.here.com/about,true,We make a unified live map designed for every moving vehicle,true,"Digital mapping and map data for automakers, logistics and mobility; not device location data."
+knowwho,other-data-businesses,,high,https://kw1.knowwho.com/,true,"Contact data, photos, and bios for elected officials and hired staff",true,Government official and staff contact directories for advocacy and public sector; not businesses.
+lifesight,other-data-businesses,,high,https://lifesight.io/about-us,true,Lifesight brings causal measurement and AI-powered work together around a simple purpose,true,"Marketing measurement, mix modeling and budget planning software."
+lucid,unclear,,low,https://www.cint.com/,true,,false,"Page is Cint; names only a Lucid Measurement product, not this company. Listed domain redirects."
+merkle,unclear,,low,https://www.merkle.com/,true,,true,"Page lists customer experience and marketing capabilities; what it sells is inferred, not stated."
+nyne-ai,marketing-audiences,,medium,https://nyne.ai/about-us/,true,Nyne.ai is an intent engine,true,Sells buyer-intent leads from public signals; other data licensing not checked.
+phantom-data,marketing-audiences,property,high,https://app.phantomdata.io/,true,Targeted homeowner lists with available phone numbers and emails.,true,Sells homeowner prospect lists with contacts to marketers.
+purecars-technologies,other-data-businesses,adtech-identity,medium,https://www.purecars.com/about,true,PureCars is a technology company built specifically for automotive retail.,true,"Marketing technology and advertising services for car dealerships, including customer data platform."
+rich-media,unclear,,low,https://richmediallc.com/,true,,true,"Digital marketing services (email, direct mail); no data sale shown."
+service-1st-information-solutions,credit-financial,fraud-identity-verification,medium,https://www.srv1st.com/about,true,Service 1st works in synergy with your loan operations team,true,Mortgage verification and credit reporting for lenders; page footer says Service First.
+step2success-marketing,unclear,,low,https://s2smarketing.com/,true,,true,Seminar and prospecting marketing services for financial advisors; no data product shown.
+towerdata,unclear,,low,https://atdata.com/,true,,false,"Page is AtData (email identity intelligence), does not name Towerdata; listed domain redirects there."
+wisdom-media,unclear,,low,https://wisdommediagroupllc.com/,true,,true,"Cleveland digital marketing agency (lead generation, SEO); no data business shown."

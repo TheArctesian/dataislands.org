@@ -1,0 +1,26 @@
+{
+  "extends": "$app/tsconfig",
+  "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    "types": [
+      "node",
+      "$app/types"
+    ]
+  },
+  "include": [
+    "src",
+    "test",
+    "*"
+  ],
+  "exclude": [
+    "src/service-worker",
+    "src/islands/preview-screenshots"
+  ]
+}

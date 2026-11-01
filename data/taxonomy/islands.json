@@ -1,0 +1,87 @@
+[
+  {
+    "id": "people-search",
+    "name": "People search",
+    "test": "Sells or shows profiles of named individuals to the public: lookups by name, phone, address or email.",
+    "boundary": "Consumer-facing lookups belong here even if the site also advertises background checks. Reports sold to employers or landlords go to employment and tenant screening."
+  },
+  {
+    "id": "marketing-audiences",
+    "name": "Marketing and audiences",
+    "test": "Sells consumer lists, audience segments, lead data or direct-mail data for advertising and marketing, or runs a marketing agency or direct-mail service that buys or handles such data.",
+    "boundary": "Sells the data itself: lists, segments, leads, appends."
+  },
+  {
+    "id": "adtech-identity",
+    "name": "Ad tech and identity graphs",
+    "test": "Runs ad platforms, exchanges, data management platforms, or matches people across devices and identifiers.",
+    "boundary": "Sells technology for buying ads or resolving identity. If it mainly sells segments, use marketing and audiences, with this as secondary."
+  },
+  {
+    "id": "location",
+    "name": "Location",
+    "test": "Main product is precise location or mobility data from devices."
+  },
+  {
+    "id": "credit-financial",
+    "name": "Credit and financial",
+    "test": "Credit bureaus, consumer financial data and lending data."
+  },
+  {
+    "id": "fraud-identity-verification",
+    "name": "Fraud and ID verification",
+    "test": "Checks identity or scores fraud and risk for businesses and agencies.",
+    "boundary": "The buyer is deciding whether to trust a person or transaction. Identity matching for advertising belongs in ad tech."
+  },
+  {
+    "id": "employment-screening",
+    "name": "Employment and tenant screening",
+    "test": "Background checks on workers or tenants, for employers and landlords."
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "test": "Main product is health, patient, pharmacy or healthcare-provider data."
+  },
+  {
+    "id": "insurance-auto",
+    "name": "Insurance and auto",
+    "test": "Insurance risk data, driving and vehicle data, or auto industry data."
+  },
+  {
+    "id": "property",
+    "name": "Property",
+    "test": "Real estate, homeowner, mortgage or property records."
+  },
+  {
+    "id": "b2b-contacts",
+    "name": "B2B contacts",
+    "test": "Sells data on businesses and the people who work at them, for sales and recruiting, including sales-prospecting software built on contact data."
+  },
+  {
+    "id": "investor-web",
+    "name": "Investor and web data",
+    "test": "Alternative data for investors, web traffic panels, market intelligence or scraped web data."
+  },
+  {
+    "id": "breach-security",
+    "name": "Breach and security data",
+    "test": "Main product is breached credentials or threat intelligence built on exposed personal data."
+  },
+  {
+    "id": "political-voter",
+    "name": "Political and voter data",
+    "test": "Main product is voter files, political audiences, or campaign data and analytics."
+  },
+  {
+    "id": "workforce-talent",
+    "name": "Workforce and talent data",
+    "test": "Software or data about workers and job candidates for HR and recruiting, other than background checks.",
+    "boundary": "Background checks go to employment and tenant screening. Contact data sold to sales teams goes to B2B contacts."
+  },
+  {
+    "id": "data-role-unclear",
+    "name": "Data role unclear",
+    "test": "The company's business is clear from its pages, but it fits no category above and they do not show how personal data figures in it. Use unclear, not this, when the business itself is not shown."
+  }
+]

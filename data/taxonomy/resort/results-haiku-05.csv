@@ -1,0 +1,11 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+vanguard-ai,political-voter,,high,https://electhq.net/,campaign management platform built specifically for local and state-level candidates,"Campaign management platform with voter data, outreach and canvassing tools for candidates."
+veeva-systems,health,,medium,https://www.veeva.com/,Capture patient data,Life-sciences cloud software; clinical products capture patient and site data.
+vendelux,b2b-contacts,,medium,https://vendelux.com/about,"turn in-person events into a measurable, scalable growth channel",Event-marketing platform capturing and segmenting attendee leads for B2B sales and marketing teams.
+vertify,unclear,,low,,,Excerpts are navigation menus naming RevOps services; no plain statement of main business.
+victory-waves,political-voter,adtech-identity,high,https://www.victorywaves.com/about,"builds modern, data-driven tools that help campaigns and civic organizations connect with voters",Voter file access and political ad tools for campaigns and civic groups; sells Meta political ad targeting.
+vintory,marketing-audiences,,high,https://vintory.com/,Find the vacation rental owners in your market.,Sells owner contact lists and lead data to vacation rental managers for marketing campaigns.
+warmly,b2b-contacts,adtech-identity,high,https://www.warmly.ai/,Verified emails+direct dials,"Sales-intelligence platform selling verified emails and direct dials, plus website visitor identification."
+wealthfeed,data-role-unclear,,medium,https://www.wealthfeed.com/,The end-to-end AI growth engine for advisors.,Marketing and outreach software for financial advisors; no listed category fits the main business.
+west-publishing,unclear,,low,,,"Excerpts are Thomson Reuters parent-company pages, not evidence of West Publishing's own business."
+zoom-communications,data-role-unclear,,medium,https://www.zoom.com/,One platform to connect,Video meetings and communications software; no listed category fits and personal data role is not shown.

@@ -1,0 +1,190 @@
+[
+ {
+  "broker_id": "boardex",
+  "broker": "Boardex LLC",
+  "other_names": [
+   "BOARDEX LLC",
+   "Boardex",
+   "Boardex LLC"
+  ],
+  "domains": [
+   "boardex.com"
+  ],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com",
+  "current_date": null
+ },
+ {
+  "broker_id": "boardroom-insiders",
+  "broker": "Boardroom Insiders, Inc.",
+  "other_names": [
+   "BOARDROOM INSIDERS Inc",
+   "Boardroom Insiders",
+   "Boardroom Insiders, Inc."
+  ],
+  "domains": [
+   "boardroominsiders.com"
+  ],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com/boardroom-insiders-is-now-altrata",
+  "current_date": null
+ },
+ {
+  "broker_id": "boardrooom-insiders",
+  "broker": "Boardrooom Insiders Inc.",
+  "other_names": [
+   "Boardrooom Insiders Inc."
+  ],
+  "domains": [],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com/boardroom-insiders-is-now-altrata",
+  "current_date": null
+ },
+ {
+  "broker_id": "relationship-science",
+  "broker": "Relationship Science",
+  "other_names": [
+   "Relationship Science",
+   "THE DEAL LLC"
+  ],
+  "domains": [
+   "relsci.com"
+  ],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com/boardroom-insiders-is-now-altrata",
+  "current_date": null
+ },
+ {
+  "broker_id": "wealth-x",
+  "broker": "Wealth-X",
+  "other_names": [
+   "WEALTH-X LLC",
+   "Wealth-X",
+   "Wealth-X LLC"
+  ],
+  "domains": [
+   "wealthx.com"
+  ],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com/boardroom-insiders-is-now-altrata",
+  "current_date": null
+ },
+ {
+  "broker_id": "wealthengine",
+  "broker": "Wealthengine, Inc.",
+  "other_names": [
+   "WEALTHENGINE Inc",
+   "Wealthengine",
+   "Wealthengine Inc.",
+   "Wealthengine, Inc."
+  ],
+  "domains": [
+   "wealthengine.com"
+  ],
+  "candidate_owner": "Delinian",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://altrata.com",
+  "current_date": null
+ },
+ {
+  "broker_id": "west-publishing",
+  "broker": "West Publishing Corp",
+  "other_names": [
+   "West Publishing Corp",
+   "West Publishing Corporation"
+  ],
+  "domains": [
+   "thomsonreuters.com"
+  ],
+  "candidate_owner": "Thomson Reuters",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://en.wikipedia.org/wiki/West_(publisher)",
+  "current_date": null
+ },
+ {
+  "broker_id": "west-publising",
+  "broker": "WEST PUBLISING CORPORATION",
+  "other_names": [
+   "WEST PUBLISING CORPORATION"
+  ],
+  "domains": [],
+  "candidate_owner": "Thomson Reuters",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://en.wikipedia.org/wiki/West_(publisher)",
+  "current_date": null
+ },
+ {
+  "broker_id": "throtle",
+  "broker": "THROTLE Inc",
+  "other_names": [
+   "THROTLE Inc",
+   "Throtle",
+   "Throtle, Inc",
+   "Throtle, Inc."
+  ],
+  "domains": [
+   "throtle.io"
+  ],
+  "candidate_owner": "IQVIA Holdings Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/ex-2111231202510xk.htm",
+  "current_date": "2026-02-17"
+ },
+ {
+  "broker_id": "ipreo",
+  "broker": "Ipreo",
+  "other_names": [
+   "Ipreo"
+  ],
+  "domains": [
+   "ipreo.com"
+  ],
+  "candidate_owner": "S&P Global Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm",
+  "current_date": "2026-02-11"
+ }
+]

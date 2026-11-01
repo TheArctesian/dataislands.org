@@ -1,0 +1,54 @@
+broker_id,label,verdict,better_label,evidence_seen,note
+disco-technology,adtech-identity,correct,,The commerce media platform that monetizes the full transaction.,"Footer says Disco, Inc., not Disco Technology Inc."
+place-exchange,adtech-identity,correct,,"seamlessly enables planning, targeting, execution, and measurement of OOH",Programmatic out-of-home ad platform; news item says Broadsign acquired it.
+beeswax,adtech-identity,correct,,a demand-side platform enabling buyers to deploy their proprietary data-based targeting models,
+cybba,adtech-identity,arguable,other-data-businesses,combines programmatic media execution with deep measurement and analytics consulting,"Reads as an agency that runs ads and consults, with its own DMP; no ad platform or exchange sold to others is shown."
+aggknowledge,b2b-contacts,correct,,revolutionizing the efficiency of knowledge networks and person-record management,"Enriches person records for expert networks, recruiters and sales teams."
+snovio,b2b-contacts,correct,,Find leads. Enrich them with emails & phone numbers.,
+convex-labs,b2b-contacts,correct,,"names, emails, and mobile numbers of key decision makers","Page gives only Convex, part of ServiceTitan, no LLC name. Property records are a plausible secondary."
+vertical-int,b2b-contacts,correct,,"Over a billion verified people, companies, and jobs records","Page does not name this broker entity, so the link is unconfirmed; label judged on the site's business. Enrich Layer home and about pages never mention Vertical Int; verify before publishing."
+spycloud,breach-security,correct,,uncovers hidden identity risks across your users' exposure,
+datax,credit-financial,correct,,specialty finance credit reporting agency (CRA),Now an Equifax company; fraud is one of three service lines.
+sbfe,credit-financial,correct,,a central repository for aggregating credit payment performance data,"Data is on small businesses, not consumers; fits lending data. Buyers are bureaus and partners."
+equifax-information-services,credit-financial,correct,,We monitor your Equifax credit report,Page is the consumer site and does not name the LLC.
+birchwood-credit-services,credit-financial,correct,,From merged credit reports to rapid rescoring,Mortgage lender credit reports; also property reports and a tenant reports login.
+iq-data-systems,employment-screening,correct,,order employment background checks and view FCRA-compliant results,"Page does not name this broker entity, so the link is unconfirmed; label judged on the site's business. Backgrounds Online never mentions IQ Data Systems."
+rent-risk,employment-screening,correct,,take the risk out of renting,
+equifax-workforce-solutions,employment-screening,arguable,credit-financial,a centralized automated service for Income and Employment Verification (VOE/VOI),"Summary names verifiers as Lenders/Government; use cases are mostly lending, with pre-hire verification one item among seven. Employers supply the data."
+data-facts,employment-screening,correct,,Trusted by employers since 1989,
+pipl,fraud-identity-verification,correct,,Fraud intelligence for enterprise risk decisions,
+lexisnexis-risk-solutions-fl,fraud-identity-verification,correct,,45 of the world's top 50 banks,"Weak evidence: one product-line page, names LexisNexis Risk Solutions Inc., not the FL entity, so main business of this entity is not shown."
+dallas-computer-services,fraud-identity-verification,arguable,other-data-businesses,"locate debtors, missing persons, heirs or assets","Page does not name this broker entity, so the link is unconfirmed; label judged on the site's business. DCS Information Systems sells investigative search to business and government, including law enforcement; locating people is not a trust decision and no investigative category exists. Not sold to the public, so not people-search."
+g2-bankruptcy-risk-solutions,fraud-identity-verification,correct,,The global leader in merchant risk intelligence for payments and digital commerce,"Page is G2 Risk Solutions (G2 Web Services, Inc.); bankruptcy risk is one product line. Risk scoring is mainly about merchants."
+medpro-systems,health,correct,,Trusted Data and Compliance Solutions for Life Sciences,
+definitive-healthcare,health,correct,,a data and analytics company focused on the business side of healthcare,
+healthwise-data,health,arguable,marketing-audiences,healthcare marketers can access 1200+ Healthwise Data audiences via LiveRamp,"Consumer lifestyle attributes and segments, not patient records; other buyers include pharma, payers and actuarial firms. Consider swapping primary and secondary."
+komodo-health,health,correct,,source of deidentified patient-level data,
+j-d-power,insurance-auto,could_not_check,,,WebFetch returned HTTP 403; no workaround tried.
+r-l-polk-and,insurance-auto,correct,,unified intelligence across the entire vehicle value chain,"Mobility Global page names Polk as a founding brand, not R.L. Polk & Co. as a current entity."
+iso-claims-services,insurance-auto,correct,,Leading source of information about insurance risk,"Page does not name this broker entity, so the link is unconfirmed; label judged on the site's business. Verisk home and about pages returned almost no text; only this tagline was seen."
+urban-science-applications,insurance-auto,correct,,"the only source of industry-wide, sales data in near real-time",
+ipsos,investor-web,correct,,one of the world's leading market research companies,"Fits only through the words market intelligence; survey and opinion research, no investor or web data shown."
+cb-information-services,investor-web,correct,,Predictive intelligence data. Double verified.,
+circana,investor-web,correct,,measure their market share,"Fits only through market intelligence; buyers are manufacturers and retailers, investors not mentioned."
+scraping-robot,investor-web,correct,,Data scraping is the gathering & organizing of information from the internet,Sells a scraping service/API rather than datasets; test says scraped web data.
+veraset,location,correct,,Billions of daily GPS pings worldwide,"Also MatchLink, linking devices to emails, IPs and households."
+complementics,location,arguable,adtech-identity,mobile advertising IDs linked to hashed emails and IP addresses,"Location is listed first, but six feeds get similar weight, including audience, identity and consumer data. Legal entity shown is ECONTEXT.AI LLC."
+venntel,location,correct,,a global geolocation intelligence and insights company,
+fog-data-science,location,correct,,transforms commercially available device location data into actionable intelligence,Investigative use for law enforcement and insurers; product is still location data.
+giant-partners,marketing-audiences,correct,,America's #1 Data Driven Marketing Agency,"Agency as much as data seller, but has a B2C and B2B Data page and custom audiences."
+redbird-direct,marketing-audiences,correct,,strategic planning and list acquisition for direct mail and email marketing,Thin page; may broker lists rather than own them.
+labels-and-lists,marketing-audiences,arguable,other-data-businesses,"the most trusted source for enhanced voter, consumer and constituent data","Page does not name this broker entity, so the link is unconfirmed; label judged on the site's business. L2 pages never say Labels & Lists. Voter file listed first, clients from Presidential campaigns to advocacy groups; a political category would fit better. Page now shows 260M consumer records, cited quote says 250M."
+usadata,marketing-audiences,correct,,turns data into targeting and targeting into revenue,
+gale,other-data-businesses,correct,,GALE IS THE LEADING PROVIDER OF RESEARCH AND LEARNING RESOURCES FOR LIBRARIES,"Page shows library publishing for academic, K-12 and public libraries, no sale of data on individuals. May not be a data broker business; an education category could hold it."
+m-and-r-strategic-services,other-data-businesses,correct,,We work with ambitious nonprofits,"Page shows a nonprofit fundraising and marketing agency, no list or data sales. May not be a data broker business; a professional services category could hold it."
+blackbaud,other-data-businesses,correct,,"the leading software for nonprofits, education and social impact teams","Page shows software, with data used inside products, no sale of data on individuals. May not be a data broker business; a nonprofit software category could hold it."
+grayhair-software,other-data-businesses,arguable,marketing-audiences,leading consumer and provider of postal data,"Address quality, NCOALink and mail tracking are close to direct-mail data, though no lists or sale of consumer data shown. A data business; a postal/address data category could hold it."
+social-catfish,people-search,correct,,a reverse lookup engine to verify identities,
+national-data-analytics,people-search,correct,,"billions of pieces of data from millions of national, state, and local public records","Footer names National Data Analytics, LLC."
+civil-data-research,people-search,correct,,"Uncover money issues, warrants, and arrests","Footer names Civil Data Research, LLC."
+intelius,people-search,correct,,does not provide consumer reports and is not a consumer reporting agency,"Footer names Intelius LLC; satellite site, powered by Intelius."
+property-reach-l-p,property,correct,,Lead search and Property data for 160M+ properties,"Page says PropertyReach, Inc., not Property Reach, L.P. Marketing secondary is fair."
+dealmachine-operations,property,correct,,a real estate data and outreach platform,"Owner contacts and direct mail suggest a marketing-audiences secondary, which is blank."
+united-one-resources,property,correct,,a real estate risk management service provider and NOT a lender,"Services to lenders (flood, title, appraisal) rather than data products; also lists Marketing Lists."
+xome,property,arguable,other-data-businesses,a leading real estate auction company and online real estate auction platform,Main business is an auction marketplace; no property data sale shown. Fits Property only by reading the test as any real estate business.

@@ -1,0 +1,51 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+whitepages,people-search,property,high,https://www.whitepages.com/about,Match a name to current contact info,"Sells name, phone and address lookups of individuals; also property owner data."
+upcell,b2b-contacts,,medium,https://www.upcell.io/about,vs ZoomInfo vs Apollo vs Cognism vs Lusha vs RocketReach,Sales prospecting and enrichment platform positioned against B2B contact vendors.
+multimedia-lists,marketing-audiences,,high,https://multimedialists.com/privacy-policy/,provides a range of data marketing and consumer analytics products,"Data marketing and list products for direct mail, email, online marketing."
+whoodle,unclear,,low,,,No page excerpts in packet.
+data-axle,marketing-audiences,b2b-contacts,high,https://www.data-axle.com/privacy-policy/,Privacy-first profiles of people with over 300 attributes.,"Consumer and business data, appends and campaign marketing services."
+veraset,location,,high,https://www.veraset.com/legal/do-not-sell-request#consumer-opt-out-do-not-sell-request,Billions of daily GPS pings worldwide,Sells device GPS mobility datasets.
+graze-social-pbc,unclear,,low,,,Social feed-building tools on Bluesky; no listed category fits.
+grata,investor-web,,medium,https://grata.com/legal/privacy-policy,Turn market signals into actionable deal lists,Private-company market intelligence for deal sourcing; could also read as B2B data.
+zeotap-gmbh,unclear,,low,,,No page excerpts in packet.
+intelius,people-search,,low,https://www.arrestrecordsearch.com/privacy-policy,"Our web sites include PeopleConnect.us, Classmates.com, Intelius.com and USSearch.com","Only network and domain names (arrest, criminal records) suggest public records lookup; no product text."
+dun-and-bradstreet,unclear,,low,,,No page excerpts in packet.
+exact-match-marketing,adtech-identity,b2b-contacts,low,https://exactmatchmarketing.com/privacy-policy,Website Visitor Identifier Enhanced Search ID B2B Data,Only a navigation menu: visitor identification and B2B data; thin.
+great-lakes-list,marketing-audiences,,low,https://greatlakeslists.com/privacy-policy,Great Lakes List Management,Only the name and title suggest list management; no product text.
+onfocus-sas,adtech-identity,,high,https://adagio.io,Demand Path Optimization for Web & App Publishers,Ad tech platform for publishers with open bidding.
+fastpeoplesearch,people-search,,high,https://www.fastpeoplesearch.com/privacy,NAME PHONE ADDRESS NEAR ME Close Free Search,"Free public search by name, phone and address. Zendesk excerpt ignored."
+komodo-health,health,,high,https://www.komodohealth.com/,source of deidentified patient-level data,Healthcare real-world patient-level data and analytics for life sciences.
+id5-technology,adtech-identity,,high,https://id5.io/about,"Personalization, measurement, and performance rely on a strong identity layer.",Identity layer connecting signals for digital advertising.
+truthfinder,unclear,,low,,,No page excerpts in packet.
+localblox,unclear,,low,,,No page excerpts in packet.
+occulytics,marketing-audiences,,medium,https://www.occulytics.com/privacy-policy,Hyper-Targeted Direct Mail List,"Lead scoring, direct mail lists and market intelligence for residential property marketers."
+healthcare,unclear,,low,,,Only a health insurance plans heading; business not shown.
+radaris,unclear,,low,,,Page is a court domain-transfer notice; business not shown.
+property-reach-l-p,property,marketing-audiences,high,https://www.propertyreach.com/privacy/,Property Owner Lookup Real Estate Lead Lists Skip Tracing,Property and owner data with lead lists and skip tracing for real estate users.
+infopay,people-search,,medium,https://recordsfinder.com/optout/,Marriage Records People Search Phone Lookup Police Records,Public records and people lookups on a related site; InfoPay page itself is generic.
+mylife,unclear,,low,,,No page excerpts in packet.
+swipejobs,unclear,,low,,,Jobs and staffing marketplace; no listed category fits.
+book-your-data,b2b-contacts,,high,https://www.bookyourdata.com,Direct Dials Phone numbers for people you want to call,"Sells business email lists, direct dials and enrichment for prospecting."
+app-science,adtech-identity,,high,https://www.appscience.ai/,Proprietary 80MM People-Based Household Graph,"Household graph for ad targeting, measurement and attribution."
+lead-me-media,unclear,,low,,,Privacy policy only; business not described.
+vertify,unclear,,low,,,RevOps data integration software; no listed category fits.
+hgonline,b2b-contacts,,high,https://www.tripwiredata.com/about,detects new businesses within days of appearing,Sells new-business leads to sellers such as agents and B2B sales teams.
+tauxbe-data,unclear,,low,,,About page is a template for another brand; business not shown.
+us-data,unclear,,low,,,No page excerpts in packet.
+data-partners,marketing-audiences,,medium,https://www.datapartners.com/donotsellmyinformation/,Solutions Broadband Agency Retail Movers Email Solutions B2C B2B,"Movers, homeowner and email data solutions for marketers; implied by menu and site names."
+peekyou,unclear,,low,,,Page is a court domain-transfer notice; business not shown.
+towerdata,adtech-identity,fraud-identity-verification,medium,https://atdata.com/privacy-policy/,Validate Identities Assess Identity Risk Resolve & Link Profiles,"Email-based identity resolution plus fraud risk; page is on atdata.com, not listed domain."
+klarifi,b2b-contacts,,medium,https://klarifi.io/privacy-policy,offers a wastewater market intelligence platform,Prospect intelligence for sales and marketing; could be read as market intelligence.
+solar-connect,marketing-audiences,,low,https://americanroofers.org/privacy-policy/,"owned and operated by BlueFire Leads, LLC",Lead generation sites implied by names; no product description.
+fair-screen,employment-screening,,high,https://fairscreen.com/privacy-policy/,more than 50 background check technical integrations with Applicant Tracking Systems,Background screening for employers and multi-family housing.
+adeptid,unclear,,low,,,Talent matching and healthcare staffing software; no listed category fits.
+innovis-data-solutions,credit-financial,fraud-identity-verification,high,https://innovis.com/privacy,Credit Report Dispute Resolution Fraud & Active Duty Alerts Block,Consumer credit reporting agency; business side offers fraud detection and KYC.
+peoplefinders,unclear,,low,,,No page excerpts in packet.
+ventiveiq,marketing-audiences,adtech-identity,high,https://ventiveiq.com,New Movers Property Mortgage New Home Owners Intent Signals,"Consumer data, audiences and appends for marketers; also sells identity graphs."
+cic-mortgage-credit,credit-financial,fraud-identity-verification,high,https://www.ciccredit.com/information-security-policy/,Credit Products Credit Reports Rapid Rescore Loanshield,Mortgage credit reports and scoring; also fraud and ID checks.
+indiemark,unclear,,low,,,"Email risk, enhancement and deliverability services; no category cleanly fits."
+all-global-resources,unclear,,low,,,No page excerpts in packet.
+site-impact,marketing-audiences,adtech-identity,medium,https://siteimpact.com/privacy-policy,Email Enhanced Audience Data,Data-driven marketing services and audience data; nav lists an identity graph.
+webbula,marketing-audiences,fraud-identity-verification,low,https://webbula.com/privacy-center/,Demographic Appends Behavioral Appends Appending Guide Programmatic Data,Email verification plus data appends and audience segments; main business unclear.
+oracle-america,unclear,,low,,,No page excerpts in packet.
+tunnl,marketing-audiences,,low,https://www.tunnldata.com/privacy-policy,Research Audiences Insights Activation Measurement,"Audience research, targeting and measurement platform; menu only."

@@ -1,0 +1,41 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+famous-birthdays,people-search,,medium,https://www.famousbirthdays.com/about/,"Celebrities are profiled in a simple, informative, and entertaining format",Public profile pages of named celebrities with name search; fits the shows-profiles test only.
+fanspoko,other-data-businesses,,high,https://www.fantasysportsknockout.com/,A cutthroat fantasy league where the lowest scoring teams get eliminated every week.,Fantasy sports game; the business fits no other category.
+faraday,marketing-audiences,,medium,https://faraday.ai/about,get the consumer data they need to engage every customer effectively,Sells consumer data points and file appends to brands via API; no ad buying shown.
+fastpeoplesearch,people-search,,high,https://www.fastpeoplesearch.com/privacy,NAME PHONE ADDRESS NEAR ME Close Free Search,"Site header offers searches by name, phone and address; privacy notice cites data products."
+fetch-rewards,other-data-businesses,,high,https://fetch.com/,Rewards App: Turn Receipts Into Gift Cards,Consumer rewards app for receipts and gift cards; fits no other category.
+fi-navigator,other-data-businesses,,medium,https://www.fi-navigator.com/about/,FI Navigator is the data and analytics platform,"Analytics platform for banks' strategy and performance; institution data, not consumer data."
+fideo-intelligence,fraud-identity-verification,,high,https://www.fideo.ai/,Identity and network intelligence for fraud prevention,Identity and fraud-prevention products sold to financial institutions and fintechs.
+fifty-technology,adtech-identity,,medium,https://fifty.io/,"technology-first media partner, delivering strategy, planning and activation","Media activation and audience-data technology; ad buying implied, not stated outright."
+findem,other-data-businesses,,medium,https://www.findem.ai/,AI People Intelligence for Hiring and Planning,AI recruiting and talent software holding candidate data; fits no other category.
+finthrive-healthcare,health,,medium,https://finthrive.com/,Healthcare Revenue Cycle Management Technology,Revenue-cycle software for hospitals and providers; patient and provider data focus implied.
+firmable,b2b-contacts,,high,https://firmable.ai/,"AI-native sales platform for US, Canada & APAC",Sales prospecting database of business contacts for sales teams.
+first-american-data-tree,unclear,,low,,,Only excerpt is parent First American's privacy page; no Data Tree business shown.
+first-direct,other-data-businesses,,medium,https://firstdirectmarketing.com/about-us/,Data-Driven Marketing Agency,"Marketing agency; excerpts show agency services, not a list or data product."
+first-movers-advantage,marketing-audiences,,high,https://www.fmadata.com/,Use our data to connect with best sales leads and target audiences,Sells homeowner and pre-mover lead lists and sales leads to marketers.
+first-orion,other-data-businesses,,high,https://firstorion.com/,Branded Calling & Caller ID Solutions,Branded caller-ID and call-protection software for businesses and carriers; fits no category.
+flashintel,unclear,,low,,,"Excerpts are from flashlabs.ai, not the listed flashintel.ai domain; no link shown."
+focus-usa,marketing-audiences,,high,https://www.focus-usa.com/,Targeted Mailing Lists,Sells targeted mailing lists and data enhancement for direct mail and email marketing.
+fog-data-science,location,,high,https://www.fogdatascience.com/about,transforms commercially available device location data into investigative intelligence,Sells device location data as investigative intelligence to public and private investigators.
+foo-monk,b2b-contacts,,medium,https://instantly.ai/,Sales Engagement and Lead Intelligence,Sales outreach software with a lead database; business contact data is a core product.
+forager-ai,b2b-contacts,,high,https://www.forager.ai/,B2B Contact Data API & Verified Mobile Numbers,"Sells verified B2B contact and people data via API, feeds and web app."
+forewarn,people-search,,medium,https://www.forewarn.com/,Using as little as an incoming phone number,"Phone-based identity and criminal-history lookups on named individuals, sold to professionals."
+four-corner-media,marketing-audiences,,medium,https://bennetandsons.com/,we connect you with trusted partners who simplify the job,Home-service quote sites that route consumer requests to partners; lead generation implied.
+fourleaf,marketing-audiences,,medium,https://www.fourleafdata.com/,identify new audiences based on intent and behavior,Audience and prospect identification from consumer behavior for marketers; segment delivery implied.
+foursquare-labs,location,,medium,https://foursquare.com/,Location Intelligence Platform,Location intelligence platform with place data and geofencing; device-data share not shown.
+fourthwall-media,adtech-identity,marketing-audiences,medium,https://www.fourthwall.tv/,"Build audiences from 1st, 2nd, and 3rd party data for activation & measurement.","Clean-room, audience and measurement technology for TV and digital advertising."
+fraiser,marketing-audiences,,high,https://www.fraiser.org/,The modern way to grassroots fundraise and acquire high-quality leads,Sells acquisition leads and supporter data to political campaigns and nonprofits.
+freepeoplesearch-com,people-search,,high,https://www.freepeoplesearch.com/privacy-policy/,Search Free People Search Reverse Address Lookup,Public name search and reverse address lookup site for individuals.
+freewheel-media,adtech-identity,,high,https://www.freewheel.com/about,"provides comprehensive media buying platforms for ad publishers, advertisers, and ad buyers","Programmatic media-buying software for publishers, advertisers and buyers."
+freshaddress,unclear,,low,,,"Excerpts are from atdata.com, not the listed freshaddress.com domain; no link shown."
+fullenrich,b2b-contacts,,high,https://fullenrich.com/,Find Emails & Phone Numbers for your prospects,Finds business emails and phone numbers for sales prospects via waterfall enrichment.
+fushia-media,marketing-audiences,,high,https://fushiamedia.com/,Enhance your database with over 600 demographic and behavioral attributes,Sells demographic and behavioral data attributes and analytics for marketers.
+fyllo,adtech-identity,marketing-audiences,high,https://hellofyllo.com/,Media Strategy & Activation to optimize your omnichannel advertising investment.,Contextual and audience targeting platform for advertisers; media activation.
+g2-bankruptcy-risk-solutions,fraud-identity-verification,,high,https://g2risksolutions.com/,The Leader in Risk Intelligence,"Risk monitoring, identity verification and bankruptcy-risk products for businesses and lenders."
+gale,other-data-businesses,,high,https://gale.com/,"Historical Archive, Educational & Library Resources",Library and education research publisher; fits no other category.
+general-information-solutions,unclear,,low,,,"Excerpts are from hireright.com, not the listed geninfo.com domain; no link shown."
+general-motors,unclear,,low,,,"Excerpts show an automaker; data sales appear only in privacy text, not as main business."
+getemails,b2b-contacts,adtech-identity,medium,https://rb2b.com/about,identifies the actual people and companies visiting your website,"Website visitor identification delivering names, emails and firmographics to sales tools."
+getvector,b2b-contacts,adtech-identity,medium,https://www.vector.co/,The contact-level ABM platform,Account-based marketing platform with contact-level research and targeted ad audiences.
+giant-partners,marketing-audiences,,high,https://giantpartners.com/,target proprietary B2C and B2B marketing databases,"Sells proprietary B2C and B2B marketing databases for mail, phone, email and ads."
+gigabite,b2b-contacts,,high,https://boam.ai/,managed data layer for food & beverage leaders,Managed verified business and contact data for sales teams.

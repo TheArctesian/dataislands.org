@@ -1,0 +1,426 @@
+[
+ {
+  "broker_id": "disco-technology",
+  "broker": "Disco Technology Inc",
+  "label": "adtech-identity",
+  "secondary": "",
+  "evidence_url": "https://disconetwork.com/about-us",
+  "evidence_quote": "Commerce Media Network for Post-Purchase & Beyond"
+ },
+ {
+  "broker_id": "place-exchange",
+  "broker": "Place Exchange, Inc.",
+  "label": "adtech-identity",
+  "secondary": "",
+  "evidence_url": "https://www.placeexchange.com/",
+  "evidence_quote": "Real Programmatic Out of Home"
+ },
+ {
+  "broker_id": "beeswax",
+  "broker": "Beeswax",
+  "label": "adtech-identity",
+  "secondary": "",
+  "evidence_url": "https://beeswax.com/about",
+  "evidence_quote": "Beeswax, a FreeWheel product, is a demand-side platform"
+ },
+ {
+  "broker_id": "cybba",
+  "broker": "Cybba Inc.",
+  "label": "adtech-identity",
+  "secondary": "",
+  "evidence_url": "https://cybba.com/",
+  "evidence_quote": "Cybba plans, activates, and measures across every digital channel."
+ },
+ {
+  "broker_id": "aggknowledge",
+  "broker": "AggKnowledge Inc.",
+  "label": "b2b-contacts",
+  "secondary": "",
+  "evidence_url": "https://www.aggknowledge.ai/",
+  "evidence_quote": "Lead Sourcing for Customers & Users or for Executive Movement"
+ },
+ {
+  "broker_id": "snovio",
+  "broker": "Snovio Inc",
+  "label": "b2b-contacts",
+  "secondary": "",
+  "evidence_url": "https://snov.io/",
+  "evidence_quote": "Collect high-potential leads with verified emails from our extensive database"
+ },
+ {
+  "broker_id": "convex-labs",
+  "broker": "Convex Labs LLC",
+  "label": "b2b-contacts",
+  "secondary": "",
+  "evidence_url": "https://www.convex.com/",
+  "evidence_quote": "Learn how Convex helps sales and marketing leaders accelerate revenue growth"
+ },
+ {
+  "broker_id": "vertical-int",
+  "broker": "Vertical Int, Inc.",
+  "label": "b2b-contacts",
+  "secondary": "",
+  "evidence_url": "https://enrichlayer.com/",
+  "evidence_quote": "Find verified contact information including email addresses and phone numbers for professionals worldwide"
+ },
+ {
+  "broker_id": "spycloud",
+  "broker": "SpyCloud Inc.",
+  "label": "breach-security",
+  "secondary": "",
+  "evidence_url": "https://spycloud.com/",
+  "evidence_quote": "Identity Threat Protection Powered by Recaptured Dark Web Data"
+ },
+ {
+  "broker_id": "datax",
+  "broker": "Datax, Ltd.",
+  "label": "credit-financial",
+  "secondary": "fraud-identity-verification",
+  "evidence_url": "https://dataxltd.com/",
+  "evidence_quote": "specialty finance credit reporting agency (CRA) and alternative data provider"
+ },
+ {
+  "broker_id": "sbfe",
+  "broker": "SBFE, LLC",
+  "label": "credit-financial",
+  "secondary": "",
+  "evidence_url": "https://www.sbfe.org/about-us",
+  "evidence_quote": "central repository for aggregating credit payment performance data"
+ },
+ {
+  "broker_id": "equifax-information-services",
+  "broker": "Equifax Information Services LLC",
+  "label": "credit-financial",
+  "secondary": "",
+  "evidence_url": "https://www.equifax.com/",
+  "evidence_quote": "Get a free copy of my Equifax credit report"
+ },
+ {
+  "broker_id": "birchwood-credit-services",
+  "broker": "Birchwood Credit Services Inc",
+  "label": "credit-financial",
+  "secondary": "",
+  "evidence_url": "https://www.birchwoodcreditservices.com/",
+  "evidence_quote": "choosing the right credit reporting partner can help you grow your business"
+ },
+ {
+  "broker_id": "iq-data-systems",
+  "broker": "IQ Data Systems, Inc.",
+  "label": "employment-screening",
+  "secondary": "",
+  "evidence_url": "https://backgroundsonline.com/",
+  "evidence_quote": "Employment Background Screening - Backgrounds Online"
+ },
+ {
+  "broker_id": "rent-risk",
+  "broker": "Rent Risk LLC",
+  "label": "employment-screening",
+  "secondary": "",
+  "evidence_url": "https://rentrisk.com/about/",
+  "evidence_quote": "Tenant Screening Enhanced Screening Lease Agreements Rent Payments"
+ },
+ {
+  "broker_id": "equifax-workforce-solutions",
+  "broker": "Equifax Workforce Solutions LLC",
+  "label": "employment-screening",
+  "secondary": "",
+  "evidence_url": "https://theworknumber.com/",
+  "evidence_quote": "Instantly verify employment and income"
+ },
+ {
+  "broker_id": "data-facts",
+  "broker": "Data Facts, Inc.",
+  "label": "employment-screening",
+  "secondary": "",
+  "evidence_url": "https://www.datafacts.com/",
+  "evidence_quote": "Trusted Background Screening Built for Better Hiring Decisions"
+ },
+ {
+  "broker_id": "pipl",
+  "broker": "Pipl, Inc.",
+  "label": "fraud-identity-verification",
+  "secondary": "",
+  "evidence_url": "https://pipl.com/",
+  "evidence_quote": "Fraud intelligence for enterprise risk decisions"
+ },
+ {
+  "broker_id": "lexisnexis-risk-solutions-fl",
+  "broker": "LexisNexis Risk Solutions FL Inc.",
+  "label": "fraud-identity-verification",
+  "secondary": "",
+  "evidence_url": "https://risk.lexisnexis.com/financial-services/financial-crime-compliance",
+  "evidence_quote": "Financial Crime Compliance & Risk Management Solutions"
+ },
+ {
+  "broker_id": "dallas-computer-services",
+  "broker": "Dallas Computer Services, Inc",
+  "label": "fraud-identity-verification",
+  "secondary": "",
+  "evidence_url": "https://www.dcsinfosys.com/",
+  "evidence_quote": "prevent and detect fraud, verify application information, and locate debtors"
+ },
+ {
+  "broker_id": "g2-bankruptcy-risk-solutions",
+  "broker": "G2 Bankruptcy Risk Solutions, Inc.",
+  "label": "fraud-identity-verification",
+  "secondary": "",
+  "evidence_url": "https://g2risksolutions.com/",
+  "evidence_quote": "The Leader in Risk Intelligence"
+ },
+ {
+  "broker_id": "medpro-systems",
+  "broker": "MedPro Systems, LLC",
+  "label": "health",
+  "secondary": "",
+  "evidence_url": "https://www.medprosystems.com/",
+  "evidence_quote": "trusted source of HCP and HCO identifying data"
+ },
+ {
+  "broker_id": "definitive-healthcare",
+  "broker": "Definitive Healthcare LLC",
+  "label": "health",
+  "secondary": "",
+  "evidence_url": "https://www.definitivehc.com/",
+  "evidence_quote": "Healthcare Data and Analytics"
+ },
+ {
+  "broker_id": "healthwise-data",
+  "broker": "HealthWise Data",
+  "label": "health",
+  "secondary": "marketing-audiences",
+  "evidence_url": "https://healthwisedata.com/",
+  "evidence_quote": "AI-Powered Consumer Healthcare Data"
+ },
+ {
+  "broker_id": "komodo-health",
+  "broker": "Komodo Health, Inc.",
+  "label": "health",
+  "secondary": "",
+  "evidence_url": "https://www.komodohealth.com/company/",
+  "evidence_quote": "most comprehensive and complete source of deidentified patient-level data"
+ },
+ {
+  "broker_id": "j-d-power",
+  "broker": "J.D. Power",
+  "label": "insurance-auto",
+  "secondary": "",
+  "evidence_url": "https://www.jdpower.com/",
+  "evidence_quote": "Data, Analytics & Insights For Auto-Related Decisions"
+ },
+ {
+  "broker_id": "r-l-polk-and",
+  "broker": "R.L. Polk & Co.",
+  "label": "insurance-auto",
+  "secondary": "",
+  "evidence_url": "https://www.mobilityglobal.com/en-us/about-us",
+  "evidence_quote": "unified intelligence across the entire vehicle value chain"
+ },
+ {
+  "broker_id": "iso-claims-services",
+  "broker": "ISO Claims Services, Inc.",
+  "label": "insurance-auto",
+  "secondary": "",
+  "evidence_url": "https://www.verisk.com/",
+  "evidence_quote": "Leading source of information about insurance risk"
+ },
+ {
+  "broker_id": "urban-science-applications",
+  "broker": "Urban Science Applications, Inc.",
+  "label": "insurance-auto",
+  "secondary": "",
+  "evidence_url": "https://www.urbanscience.com/",
+  "evidence_quote": "Uncover and activate dealer sales opportunities"
+ },
+ {
+  "broker_id": "ipsos",
+  "broker": "Ipsos",
+  "label": "investor-web",
+  "secondary": "",
+  "evidence_url": "https://www.ipsos.com/en",
+  "evidence_quote": "Ipsos is one of the world's leading market research companies."
+ },
+ {
+  "broker_id": "cb-information-services",
+  "broker": "CB Information Services, Inc.",
+  "label": "investor-web",
+  "secondary": "",
+  "evidence_url": "https://www.cbinsights.com/about/",
+  "evidence_quote": "Predictive AI web app for company discovery, analysis, and tracking"
+ },
+ {
+  "broker_id": "circana",
+  "broker": "Circana, LLC",
+  "label": "investor-web",
+  "secondary": "",
+  "evidence_url": "https://www.circana.com/",
+  "evidence_quote": "Market Research, Consumer Data, & Industry Analysis"
+ },
+ {
+  "broker_id": "scraping-robot",
+  "broker": "Scraping Robot, LLC",
+  "label": "investor-web",
+  "secondary": "",
+  "evidence_url": "https://scrapingrobot.com/about-us",
+  "evidence_quote": "Data scraping is the gathering & organizing of information from the internet"
+ },
+ {
+  "broker_id": "veraset",
+  "broker": "Veraset, LLC",
+  "label": "location",
+  "secondary": "",
+  "evidence_url": "https://www.veraset.com/",
+  "evidence_quote": "Billions of daily GPS pings worldwide"
+ },
+ {
+  "broker_id": "complementics",
+  "broker": "Complementics",
+  "label": "location",
+  "secondary": "",
+  "evidence_url": "https://complementics.com/",
+  "evidence_quote": "Location Data Feeds Device location events in one normalized feed"
+ },
+ {
+  "broker_id": "venntel",
+  "broker": "Venntel, Inc.",
+  "label": "location",
+  "secondary": "",
+  "evidence_url": "https://www.venntel.com/about",
+  "evidence_quote": "source of global human mobility analytics"
+ },
+ {
+  "broker_id": "fog-data-science",
+  "broker": "Fog Data science LLC",
+  "label": "location",
+  "secondary": "",
+  "evidence_url": "https://www.fogdatascience.com/",
+  "evidence_quote": "Device Location Intelligence & Investigative Analytics"
+ },
+ {
+  "broker_id": "giant-partners",
+  "broker": "Giant Partners, Inc.",
+  "label": "marketing-audiences",
+  "secondary": "",
+  "evidence_url": "https://giantpartners.com/",
+  "evidence_quote": "target proprietary B2C and B2B marketing databases"
+ },
+ {
+  "broker_id": "redbird-direct",
+  "broker": "Redbird Direct LLC",
+  "label": "marketing-audiences",
+  "secondary": "",
+  "evidence_url": "https://redbirddirect.com/",
+  "evidence_quote": "strategic planning and list acquisition for direct mail and email marketing"
+ },
+ {
+  "broker_id": "labels-and-lists",
+  "broker": "Labels & Lists, Inc",
+  "label": "marketing-audiences",
+  "secondary": "",
+  "evidence_url": "https://l2-data.com/",
+  "evidence_quote": "Tap into more than 250 million national consumer records"
+ },
+ {
+  "broker_id": "usadata",
+  "broker": "USADATA, Inc",
+  "label": "marketing-audiences",
+  "secondary": "",
+  "evidence_url": "https://www.usadata.com/",
+  "evidence_quote": "Order Consumer Lists Order Business Lists"
+ },
+ {
+  "broker_id": "gale",
+  "broker": "Gale",
+  "label": "other-data-businesses",
+  "secondary": "",
+  "evidence_url": "https://gale.com/about",
+  "evidence_quote": "GALE IS THE LEADING PROVIDER OF RESEARCH AND LEARNING RESOURCES FOR LIBRARIES"
+ },
+ {
+  "broker_id": "m-and-r-strategic-services",
+  "broker": "M&R Strategic Services, Inc.",
+  "label": "other-data-businesses",
+  "secondary": "",
+  "evidence_url": "https://www.mrss.com/who-we-are/",
+  "evidence_quote": "M+R is an experienced, talented team of fundraisers, marketers, communicators"
+ },
+ {
+  "broker_id": "blackbaud",
+  "broker": "Blackbaud, Inc",
+  "label": "other-data-businesses",
+  "secondary": "",
+  "evidence_url": "https://www.blackbaud.com/",
+  "evidence_quote": "Leading Software for Nonprofits and Education"
+ },
+ {
+  "broker_id": "grayhair-software",
+  "broker": "GrayHair Software LLC",
+  "label": "other-data-businesses",
+  "secondary": "",
+  "evidence_url": "https://grayhairsoftware.com/",
+  "evidence_quote": "Enterprise Postal Data Solutions"
+ },
+ {
+  "broker_id": "social-catfish",
+  "broker": "Social Catfish, LLC",
+  "label": "people-search",
+  "secondary": "",
+  "evidence_url": "https://socialcatfish.com/",
+  "evidence_quote": "People Search: Find Anyone Online by Name, Phone, or Photo"
+ },
+ {
+  "broker_id": "national-data-analytics",
+  "broker": "National Data Analytics, LLC",
+  "label": "people-search",
+  "secondary": "",
+  "evidence_url": "https://www.publicdatacheck.com/",
+  "evidence_quote": "Public Data Check: People, Property, Phone and Vehicle Records Search"
+ },
+ {
+  "broker_id": "civil-data-research",
+  "broker": "Civil Data Research, LLC",
+  "label": "people-search",
+  "secondary": "",
+  "evidence_url": "https://www.searchpublicrecords.com/",
+  "evidence_quote": "access the public record information you need"
+ },
+ {
+  "broker_id": "intelius",
+  "broker": "Intelius, LLC",
+  "label": "people-search",
+  "secondary": "",
+  "evidence_url": "https://www.arrestrecordsearch.com/",
+  "evidence_quote": "People Search, Background Checks & Phone Number Lookup"
+ },
+ {
+  "broker_id": "property-reach-l-p",
+  "broker": "Property Reach, L.P.",
+  "label": "property",
+  "secondary": "marketing-audiences",
+  "evidence_url": "https://www.propertyreach.com/",
+  "evidence_quote": "Property Data & Lead Search for Real Estate"
+ },
+ {
+  "broker_id": "dealmachine-operations",
+  "broker": "DealMachine Operations Inc.",
+  "label": "property",
+  "secondary": "",
+  "evidence_url": "https://dealmachine.com/about",
+  "evidence_quote": "DealMachine is a real estate data and outreach platform"
+ },
+ {
+  "broker_id": "united-one-resources",
+  "broker": "United One Resources, Inc.",
+  "label": "property",
+  "secondary": "",
+  "evidence_url": "https://unitedone.com/about/",
+  "evidence_quote": "real estate risk management service provider and NOT a lender"
+ },
+ {
+  "broker_id": "xome",
+  "broker": "Xome Inc.",
+  "label": "property",
+  "secondary": "",
+  "evidence_url": "https://www.xome.com/who-we-are",
+  "evidence_quote": "leading real estate auction company and online real estate auction platform"
+ }
+]

@@ -1,0 +1,41 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+venntel,location,,high,https://www.venntel.com/about,Venntel is a global geolocation intelligence and insights company,Sells precise location intelligence and mobility analytics derived from device data.
+ventiveiq,marketing-audiences,adtech-identity,high,https://ventiveiq.com/company/about-us/,Email Append Property Append By Identity Consumer Identity Graph,"Sells consumer data, appends and audience segments; identity graphs are secondary."
+veraset,location,,high,https://www.veraset.com/,Transform GPS signals into business intelligence,Sells GPS-derived mobility datasets and visit data.
+versium-analytics,marketing-audiences,,high,https://versium.com/,"Enrich datasets with demographics, consumer and business contact information",Sells enrichment datasets and appended contact data for marketers.
+vertical-int,b2b-contacts,,high,https://enrichlayer.com/about,Find verified contact information including email addresses and phone numbers for professionals worldwide,API product selling professional contact data and company data for sales outreach.
+vertify,other-data-businesses,,medium,https://vertify.com/about/,Vertify Platform Key Features Automation Integrations Data Orchestration Data Quality,RevOps software for CRM data and revenue operations; no data sale shown.
+vi-technologies,health,,medium,https://vi.co/about-vi/,Vi is productized AI for health enterprises,"Sells AI platforms to health enterprises; health focus stated, data sale implied."
+viant-us,adtech-identity,,high,https://www.viantinc.com/company/,Programmatic Advertising Technology Leader,Sells a programmatic advertising demand-side platform.
+victory-waves,other-data-businesses,,medium,https://www.victorywaves.com/about,"Victory Waves builds modern, data-driven tools that help campaigns",Political campaign software selling voter file access and ad targeting; no category fits.
+vintory,marketing-audiences,,high,https://vintory.com/,"Get owner names, emails, phones, and mailing addresses in minutes",Sells vacation rental owner lead lists and marketing campaigns for rental managers.
+visitiq,adtech-identity,,medium,https://visitiq.io/about-visitiq/,VisitIQ is an AI-driven marketing intelligence platform,Sells identity resolution and audience activation technology for marketers.
+vistar-media,adtech-identity,,high,https://www.vistarmedia.com/,"DSP, SSP & Ad Server","Sells out-of-home advertising technology: DSP, SSP and ad server."
+vistaview-realty-services,property,,high,https://vistaview.ai/privacy,operating a property and entity intelligence platform,Privacy page describes a property and entity intelligence platform; the about excerpt is unrelated.
+visual-visitor,b2b-contacts,adtech-identity,high,https://www.visualvisitor.com/about-us/,build the world's #1 sales intelligence platform,"Sales intelligence contact database, plus visitor identification for advertising."
+vizio-services,marketing-audiences,,medium,https://www.inscape.tv/about,Transforming the TV economy with unparalleled audience data,"Sells TV viewing audience data from ACR; marketing use implied, not stated as lists."
+walla-media,marketing-audiences,,medium,https://www.wallamedia.com/,Walla Media captures consumer intent signals from browsing behavior and email engagement,Sells consumer intent signals and email-based audience data for marketers.
+warmly,other-data-businesses,,medium,https://www.warmly.ai/,Autonomous Revenue Agents for B2B GTM,Sells B2B sales-automation software; data tools are features of the product.
+wealth-x,marketing-audiences,,medium,https://wealthx.com/,Reveal wealthy individuals connected to your existing customers,Sells wealthy-individual profiles and lead screening for sales and engagement.
+wealthengine,marketing-audiences,,high,https://wealthengine.com/about-us,provides advanced wealth identification and prospect research solutions,Sells prospect-research wealth profiles and segmentation for marketers and nonprofits.
+wealthfeed,other-data-businesses,,medium,https://www.wealthfeed.com/,The end-to-end AI growth engine for advisors,Sells AI growth software and marketing automation for financial advisors.
+webbula,marketing-audiences,,high,https://webbula.com/,Email Appending Demographic Appends Behavioral Appends,"Sells email appends, verification and audience segments for marketing."
+wednesday,b2b-contacts,,medium,https://wednes.day/,Wednesday is the data layer for skilled trades,Sells licensed-tradesperson contact data for contractor and staffing recruiting.
+west-publishing,other-data-businesses,,medium,https://www.thomsonreuters.com/en/about-us,Legal data & document management,Excerpts show legal research and AI software for law firms; no category fits.
+whitepages,people-search,,high,https://www.whitepages.com/,"Whitepages: People Search, Phone Numbers & Addresses",Consumer people-search and reverse phone and address lookups.
+wiland,marketing-audiences,,high,https://wiland.com/,Find large groups of highly qualified prospects who will buy from you today,Sells consumer spending-based audiences and enrichment data for marketers.
+windfall-data,marketing-audiences,,medium,https://www.windfall.com/,Enrich your customer data with critical insights,Sells data enrichment and wealth-screening insights for marketing and fundraising.
+wisdom-media,other-data-businesses,,medium,https://wisdommediagroupllc.com/,We are a cleveland Ohio Based Digital Marketing Company,Digital marketing agency offering lead generation services; no data sale shown.
+wiza,b2b-contacts,,high,https://wiza.co/,Find verified emails and phone numbers in seconds,Sells verified B2B contact emails and phone numbers for prospecting.
+worldwide-information,insurance-auto,,high,https://worldwideinformation.com/about,DPPA-Compliant Plate & VIN Lookup,Plate and VIN lookup service for vehicle records.
+wurl,adtech-identity,,high,https://www.wurl.com/,"Powering CTV distribution, monetization and advertising","Sells CTV ad targeting, monetization and distribution technology for streaming."
+x-mode-social,unclear,,low,,,Excerpt is for Outlogic LLC; no X-Mode Social business or link to it shown.
+xactus,credit-financial,fraud-identity-verification,medium,https://xactus.com/about/,committed to the continued transformation of the mortgage verification industry,"Mortgage verification platform covering credit, income, employment and fraud checks for lenders."
+xcelerated-data,marketing-audiences,insurance-auto,high,https://xcelerated.com/about-us/,Xcelerated Data is a primary provider of consumer data,"Sells consumer data, appends and new-mover records; automotive data is a product line."
+xome,property,,high,https://www.xome.com/who-we-are,is a leading real estate auction company,Real estate auction company and online platform for property sales.
+yobi-ventures,adtech-identity,marketing-audiences,medium,https://www.yobi.ai/,Yobi built the first foundation model broadly predictive of consumer intent,Sells behavioral AI and consumer-intent predictions for advertising and publishers.
+zeetogroup,marketing-audiences,adtech-identity,high,https://www.zeeto.io/about,Zeeto is a self-serve platform that assists companies in acquiring highly-qualified leads,Sells qualified consumer leads and matches them with ads for advertisers and publishers.
+zenleads,b2b-contacts,,high,https://www.apollo.io/,Apollo Data Access 240M contacts & 30M companies,Sales data platform with 240M contacts and 30M companies for GTM teams.
+zerotoone-ai,adtech-identity,marketing-audiences,medium,https://www.zerotoone.ai/,Enterprise AI Marketing Platform for Fortune 500 Brands,Predictive AI advertising platform selling audiences and media targeting to brands.
+zeta-global,adtech-identity,,medium,https://www.zetaglobal.com/about/,The Zeta Marketing Platform and our media solutions activate intelligence across customer acquisition,Marketing cloud and data platform with identity graph and media solutions for enterprises.
+ziff-davis,adtech-identity,,medium,https://www.fullcontact.com/our-team/,Resolve and enrich a person at the moment they interact,Subsidiary pages show identity resolution and email marketing software; parent business not shown.

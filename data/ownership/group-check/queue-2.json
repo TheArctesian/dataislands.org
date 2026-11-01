@@ -1,0 +1,204 @@
+[
+ {
+  "broker_id": "ansonia-credit-data",
+  "broker": "ANSONIA CREDIT DATA Inc",
+  "other_names": [
+   "ANSONIA CREDIT DATA Inc",
+   "Ansonia Credit Data, Inc."
+  ],
+  "domains": [
+   "ansoniacreditdata.com"
+  ],
+  "candidate_owner": "Equifax Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.freightwaves.com/news/ansonia-specializing-in-credit-data-for-trucking-and-logistics-acquired-by-equifax",
+  "current_date": "2020-07-28"
+ },
+ {
+  "broker_id": "datax",
+  "broker": "Datax, Ltd.",
+  "other_names": [
+   "DATAX LTD",
+   "Datax, Ltd."
+  ],
+  "domains": [
+   "dataxltd.com"
+  ],
+  "candidate_owner": "Equifax Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm",
+  "current_date": "2026-02-19"
+ },
+ {
+  "broker_id": "teletrack",
+  "broker": "Teletrack, LLC",
+  "other_names": [
+   "Teletrack, LLC"
+  ],
+  "domains": [
+   "teletrack.com"
+  ],
+  "candidate_owner": "Equifax Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm",
+  "current_date": "2026-02-19"
+ },
+ {
+  "broker_id": "cision",
+  "broker": "Cision",
+  "other_names": [
+   "CISION US Inc",
+   "Cision",
+   "Cision US Inc",
+   "Cision US Inc.",
+   "Cision US, Inc.",
+   "Cision Us, Inc"
+  ],
+  "domains": [
+   "cision.com"
+  ],
+  "candidate_owner": "Cision",
+  "is_owner_itself": true,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.brandwatch.com/blog/cision/",
+  "current_date": "2021-02-26"
+ },
+ {
+  "broker_id": "crimson-hexagon",
+  "broker": "Crimson Hexagon",
+  "other_names": [
+   "CRIMSON HEXAGON Inc",
+   "Crimson Hexagon",
+   "Crimson Hexagon, Inc",
+   "Crimson Hexagon, Inc.",
+   "Falcon.io US, Inc.",
+   "Runtime Collective LLC"
+  ],
+  "domains": [
+   "brandwatch.com"
+  ],
+  "candidate_owner": "Cision",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.brandwatch.com/blog/cision/",
+  "current_date": "2021-02-26"
+ },
+ {
+  "broker_id": "33-mile-radius",
+  "broker": "33 Mile Radius LLC",
+  "other_names": [
+   "33 MILE RADIUS LLC",
+   "33 Mile Radius LLC",
+   "33 Mile Radius, LLC"
+  ],
+  "domains": [
+   "33mileradius.com"
+  ],
+  "candidate_owner": "EverConnect",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.everconnect.com",
+  "current_date": "2026-10"
+ },
+ {
+  "broker_id": "remodeling-com",
+  "broker": "Remodeling.com, LLC",
+  "other_names": [
+   "Azar LLC",
+   "REMODELING.COM LLC",
+   "Remodeling.Com, LLC",
+   "Remodeling.com, LLC"
+  ],
+  "domains": [
+   "remodeling.com"
+  ],
+  "candidate_owner": "EverConnect",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.everconnect.com",
+  "current_date": "2026-10"
+ },
+ {
+  "broker_id": "forewarn",
+  "broker": "Forewarn, LLC",
+  "other_names": [
+   "FOREWARN LLC",
+   "FOREWARN, LLC",
+   "Forewarn, LLC"
+  ],
+  "domains": [
+   "forewarn.com"
+  ],
+  "candidate_owner": "red violet, Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "unverified_source"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/1720116/000095017025029184/rdvt-ex21_1.htm",
+  "current_date": "2025"
+ },
+ {
+  "broker_id": "interactive-data",
+  "broker": "Interactive Data, LLC",
+  "other_names": [
+   "INTERACTIVE DATA LLC",
+   "INTERACTIVE DATA, LLC",
+   "INTERACTIVE Data, LLC",
+   "Interactive Data, LLC"
+  ],
+  "domains": [
+   "ididata.com"
+  ],
+  "candidate_owner": "red violet, Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "unverified_source",
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://www.redviolet.com",
+  "current_date": null
+ },
+ {
+  "broker_id": "alesco",
+  "broker": "The Alesco Group LLC",
+  "other_names": [
+   "Response Solutions Group LLC",
+   "THE ALESCO GROUP LLC",
+   "The Alesco Group LLC",
+   "The Alesco Group, L.L.C.",
+   "The Alesco Group, LLC"
+  ],
+  "domains": [
+   "alescodata.com",
+   "responsesoulutionsllc.com"
+  ],
+  "candidate_owner": "Stirista, LLC",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.alescodata.com",
+  "current_date": "2026"
+ }
+]

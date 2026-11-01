@@ -1,0 +1,197 @@
+[
+ {
+  "broker_id": "atdata",
+  "broker": "AtData, LLC",
+  "other_names": [
+   "ATDATA LLC",
+   "AtData, LLC",
+   "Atdata LLC",
+   "Atdata, LLC"
+  ],
+  "domains": [
+   "atdata.com"
+  ],
+  "candidate_owner": "Experian plc",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "unverified_source"
+  ],
+  "current_source": "https://www.atdata.com/",
+  "current_date": "2026"
+ },
+ {
+  "broker_id": "audigent",
+  "broker": "Audigent",
+  "other_names": [
+   "Audigent",
+   "PREDICTIVE POP Inc",
+   "Predictive Pop, Inc."
+  ],
+  "domains": [
+   "audigent.com"
+  ],
+  "candidate_owner": "Experian plc",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "unverified_source",
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://audigent.com",
+  "current_date": null
+ },
+ {
+  "broker_id": "clarity-services",
+  "broker": "Clarity Services, Inc",
+  "other_names": [
+   "Clarity Services, Inc",
+   "Clarity Services, Inc."
+  ],
+  "domains": [
+   "clarityservices.com"
+  ],
+  "candidate_owner": "Experian plc",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.autoremarketing.com/financial-services/experian-acquires-clarity-services-launches-alternative-data-driven-solution",
+  "current_date": "2018-03-19"
+ },
+ {
+  "broker_id": "data-axle",
+  "broker": "Data Axle Inc.",
+  "other_names": [
+   "DATA AXLE Inc",
+   "Data Axle Inc.",
+   "Data Axle, Inc.",
+   "Lake Group Media, Inc."
+  ],
+  "domains": [
+   "data-axle.com"
+  ],
+  "candidate_owner": "Data Axle Inc.",
+  "is_owner_itself": true,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Data-Axle-Acquires-Lake-Group-Media-and-DonorBase-148761.aspx",
+  "current_date": "2021-09-01"
+ },
+ {
+  "broker_id": "donorbase",
+  "broker": "DonorBase, Inc.",
+  "other_names": [
+   "DonorBase, Inc.",
+   "Donorbase, Inc.",
+   "Donorbase, LLC"
+  ],
+  "domains": [
+   "dataaxlenonprofit.com",
+   "donorbase.com"
+  ],
+  "candidate_owner": "Data Axle Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Data-Axle-Acquires-Lake-Group-Media-and-DonorBase-148761.aspx",
+  "current_date": "2021-09-01"
+ },
+ {
+  "broker_id": "acuant",
+  "broker": "Acuant, Inc.",
+  "other_names": [
+   "Acuant, Inc."
+  ],
+  "domains": [
+   "acuant.com"
+  ],
+  "candidate_owner": "GB Group plc",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.securityweek.com/gbg-acquire-acuant-736-million-deal/",
+  "current_date": "2021-11-19"
+ },
+ {
+  "broker_id": "idology",
+  "broker": "Idology, Inc.",
+  "other_names": [
+   "Idology, Inc."
+  ],
+  "domains": [
+   "idology.com"
+  ],
+  "candidate_owner": "GB Group plc",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://www.securityweek.com/gbg-acquire-acuant-736-million-deal/",
+  "current_date": "2021-11-19"
+ },
+ {
+  "broker_id": "cengage-learning",
+  "broker": "CENGAGE LEARNING Inc",
+  "other_names": [
+   "CENGAGE LEARNING Inc",
+   "Cengage Learning, Inc."
+  ],
+  "domains": [
+   "cengage.com",
+   "cengagegroup.com"
+  ],
+  "candidate_owner": "Cengage Group",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.gale.com",
+  "current_date": "2026"
+ },
+ {
+  "broker_id": "cortera",
+  "broker": "Cortera, Inc.",
+  "other_names": [
+   "Cortera, Inc.",
+   "Reis Inc."
+  ],
+  "domains": [
+   "cortera.com",
+   "moodysanalytics.com"
+  ],
+  "candidate_owner": "Moody's Corporation",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "stale_evidence"
+  ],
+  "current_source": "https://ir.moodys.com/press-releases/news-details/2021/Moodys-Completes-Acquisition-of-Cortera/default.aspx",
+  "current_date": "2021-03-19"
+ },
+ {
+  "broker_id": "disqus",
+  "broker": "Disqus",
+  "other_names": [
+   "Disqus",
+   "Disqus, Inc."
+  ],
+  "domains": [
+   "disqus.com"
+  ],
+  "candidate_owner": "Zeta Global",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "stale_evidence"
+  ],
+  "current_source": "https://techcrunch.com/2017/12/05/zeta-global-acquires-commenting-service-disqus/amp",
+  "current_date": "2017-12-05"
+ }
+]

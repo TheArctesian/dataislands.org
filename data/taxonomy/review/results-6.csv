@@ -1,0 +1,26 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_opened,evidence_quote,names_broker,note
+advisortarget,other-data-businesses,,medium,https://finsum.com/about-us,true,FINSUM is the market leader in financial news summaries.,false,"Financial news summaries publisher; page does not name AdvisorTarget, on listed domain."
+amplemarket,other-data-businesses,b2b-contacts,medium,https://www.amplemarket.com/about,true,AI sales platform built by sellers for sellers,true,Sales software; data sales not stated on page.
+atmospherik,other-data-businesses,,medium,https://atmospherik.ai/,true,The service is new customer creation.,true,AI-run customer acquisition service for clients; no data or ad product stated.
+best-pick-reports,other-data-businesses,,high,https://www.bestpickreports.com/content/about-us,true,an annual guide featuring independently researched and recommended local home service providers,true,Publisher of home service provider guide and directory; no data sales shown.
+bv-insights,investor-web,,medium,https://big-village.com/about/,true,Big Village is a modern business intelligence partner,false,"Market research and business intelligence for brands; page names Big Village, listed domain."
+civic-element,marketing-audiences,,medium,https://www.civicelement.com/about,true,Civic Element is the dedicated data solutions company of Prompt.io,true,"Voter data for campaigns, unions and advocacy; audience type implied."
+cortera,unclear,,low,https://www.moodys.com/web/en/us/capabilities/company-reference-data/data-applications/trade-credit.html,true,,false,Moodys page names Cortera only in link URLs; not a listed domain.
+dataskip,property,,medium,https://dataskip.io/about,true,"DataSkip is a skip tracing and property data service based in Arizona, USA.",true,"Owner contact data from property addresses for investors, home services, collections; not public lookups."
+direct-marketing-solutions,other-data-businesses,,medium,https://teamdms.com/about,true,Direct marketing isn't just something we do; it's our DNA.,true,Direct mail and marketing campaign services agency; no data product shown.
+dresden-direct,unclear,,low,https://dresdendirect.com/,true,,true,Self-described data aggregator and service provider; actual data product not shown.
+evorra,marketing-audiences,adtech-identity,medium,https://evorra.com/,true,Evorra is the audience intelligence platform for performance,true,Builds audience profiles from provider data for custom audiences; platform versus segments is borderline.
+fifty-technology,unclear,,low,https://fifty.io/,true,,true,Audience intelligence and media planning; whether data or ad technology is sold unclear.
+graph8,other-data-businesses,b2b-contacts,medium,https://graph8.com/,true,"graph8 finds buyers, books meetings and helps your team close deals in one system.",true,AI sales platform with data and CRM; about page is a sister research brand.
+juicebox-app,other-data-businesses,,high,https://juicebox.ai/about,true,Juicebox is the AI Recruiting Platform that understands who you're looking for.,true,Recruiting software for talent teams.
+leadpost,adtech-identity,marketing-audiences,medium,https://leadpost.com/,true,LeadPost is the visitor intelligence platform,true,"Website visitor identification, enrichment and retargeting tools for marketers."
+locatesmarter,unclear,,low,https://locatesmarter.com/about-locatesmarter/,true,,true,"Data for collections, screening and investigations; no single main business."
+mch,marketing-audiences,b2b-contacts,medium,https://www.mchdata.com/about,true,a leading provider of data and technology solutions,true,"Marketing and contact lists for education, healthcare, government plus email services."
+nachal,other-data-businesses,,medium,https://getliminal.com/,true,"Advanced Customer Data Platform, Marketing Automation, and Audience Intelligence solutions",true,Automotive marketing software for dealerships; footer says Nachal Inc. dba Liminal.
+oracle-america,unclear,,low,https://www.oracle.com/corporate/,false,,false,Blocked: oracle.com corporate and home pages returned 403.
+propbot,property,marketing-audiences,medium,https://propbotusa.com/,true,"Same-day pre-foreclosure data, skip-traced, in your inbox",true,Subscription pre-foreclosure lead data for investors; about page returned 404.
+remodeling-com,marketing-audiences,,medium,https://remodeling.com/about-us/,true,Remodeling.com is your trusted source for fast and affordable home renovations and upgrades.,true,Matches homeowners with contractors and sells contractors leads; marketplace nature borderline.
+segerdahl-d-b-a-sg360,other-data-businesses,,medium,https://sg360.com/,true,"sg360° helps B2C marketers find your audience, reveal what makes them tick",true,Direct mail marketing agency; page does not offer lists for sale.
+staircase,unclear,,low,https://www.staircase.co/,true,,true,"Mortgage lending software, data and automation implied; main product not stated."
+tiplinks,other-data-businesses,,medium,https://fetcher.ai/,true,Sourcing candidates just got easier with Fetcher.,false,"AI recruiting software; page names Fetcher not Tiplinks, listed domain."
+vintory,other-data-businesses,marketing-audiences,medium,https://vintory.com/,true,The CRM and growth platform for vacation rental managers,true,CRM and marketing platform with owner database for rental managers.

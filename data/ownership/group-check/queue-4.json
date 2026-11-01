@@ -1,0 +1,180 @@
+[
+ {
+  "broker_id": "clickagy",
+  "broker": "Clickagy LLC",
+  "other_names": [
+   "CLICKAGY LLC",
+   "Clickagy",
+   "Clickagy LLC",
+   "Clickagy, LLC"
+  ],
+  "domains": [
+   "clickagy.com"
+  ],
+  "candidate_owner": "ZoomInfo Technologies Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm",
+  "current_date": "2026-02-12"
+ },
+ {
+  "broker_id": "datanyze",
+  "broker": "Datanyze LLC",
+  "other_names": [
+   "DATANYZE LLC",
+   "Datanyze",
+   "Datanyze Inc.",
+   "Datanyze LLC",
+   "Datanyze, LLC"
+  ],
+  "domains": [
+   "datanyze.com"
+  ],
+  "candidate_owner": "ZoomInfo Technologies Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm",
+  "current_date": "2026-02-12"
+ },
+ {
+  "broker_id": "zoominfo-technologies",
+  "broker": "ZoomInfo Technologies, LLC",
+  "other_names": [
+   "Discoverorg Data, LLC",
+   "ZOOMINFO TECHNOLOGIES LLC",
+   "ZoomInfo",
+   "ZoomInfo Technologies LLC",
+   "ZoomInfo Technologies, LLC",
+   "Zoominfo Technologies LLC"
+  ],
+  "domains": [
+   "zoominfo.com"
+  ],
+  "candidate_owner": "ZoomInfo Technologies Inc.",
+  "is_owner_itself": true,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm",
+  "current_date": "2026-02-12"
+ },
+ {
+  "broker_id": "cappex-com",
+  "broker": "Cappex.Com, LLC",
+  "other_names": [
+   "Cappex.Com, LLC",
+   "Cappex.com, LLC"
+  ],
+  "domains": [
+   "appily.com",
+   "cappex.com"
+  ],
+  "candidate_owner": "EAB Global, Inc.",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "stale_evidence"
+  ],
+  "current_source": "https://eab.com/about/newsroom/press/cappex-acquisition/",
+  "current_date": "2020-09-09"
+ },
+ {
+  "broker_id": "eab-global",
+  "broker": "EAB Global, Inc.",
+  "other_names": [
+   "EAB GLOBAL Inc",
+   "EAB Global, Inc",
+   "EAB Global, Inc.",
+   "Youvisit, LLC"
+  ],
+  "domains": [
+   "eab.com"
+  ],
+  "candidate_owner": "EAB Global, Inc.",
+  "is_owner_itself": true,
+  "why_flagged": [
+   "stale_evidence"
+  ],
+  "current_source": "https://eab.com/about/newsroom/press/cappex-acquisition/",
+  "current_date": "2020-09-09"
+ },
+ {
+  "broker_id": "informa",
+  "broker": "Informa Group Limited",
+  "other_names": [
+   "Informa Business Media Inc",
+   "Informa Group Limited",
+   "Informa USA Inc."
+  ],
+  "domains": [
+   "informa.com"
+  ],
+  "candidate_owner": "Informa PLC",
+  "is_owner_itself": true,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.ajbell.co.uk/news/articles/informa-completes-digital-businesses-tie-techtarget",
+  "current_date": "2024-12-03"
+ },
+ {
+  "broker_id": "techtarget",
+  "broker": "TechTarget, Inc",
+  "other_names": [
+   "TECHTARGET Inc",
+   "TechTarget, Inc",
+   "TechTarget, Inc.",
+   "Techtarget, Inc."
+  ],
+  "domains": [
+   "informatechtarget.com",
+   "techtarget.com"
+  ],
+  "candidate_owner": "Informa PLC",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence"
+  ],
+  "current_source": "https://www.ajbell.co.uk/news/articles/informa-completes-digital-businesses-tie-techtarget",
+  "current_date": "2024-12-03"
+ },
+ {
+  "broker_id": "homedata",
+  "broker": "Homedata",
+  "other_names": [
+   "Homedata"
+  ],
+  "domains": [
+   "homedata.com"
+  ],
+  "candidate_owner": "Deep Sync",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "medium_confidence",
+   "undated_evidence"
+  ],
+  "current_source": "https://deepsync.com/about",
+  "current_date": null
+ },
+ {
+  "broker_id": "id-analytics",
+  "broker": "ID Analytics, LLC",
+  "other_names": [
+   "ID Analytics LLC",
+   "ID Analytics, LLC"
+  ],
+  "domains": [
+   "idanalytics.com"
+  ],
+  "candidate_owner": "RELX PLC",
+  "is_owner_itself": false,
+  "why_flagged": [
+   "stale_evidence"
+  ],
+  "current_source": "https://risk.lexisnexis.com/about-us/press-room/press-release/20200131-id-analytics-close",
+  "current_date": "2020-01-31"
+ }
+]

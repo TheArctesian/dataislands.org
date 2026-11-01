@@ -1,0 +1,19 @@
+node_modules/
+data/raw/pages/
+.svelte-kit/
+build/
+.vercel/
+
+# Held out of the public repo: registrant contact details and records about named individuals.
+data/census/brokers.csv
+data/census/brokers.json
+data/raw/prc/
+data/raw/cppa/
+data/raw/incogwe/brokers.json
+reports/US data broker census gaps.md
+research_notes/US data broker census gaps/person_named_registrants.md
+data/census/parent-candidates.csv
+data/ownership/page-evidence.csv
+data/ownership/review/parent-queue.csv
+data/ownership/review/parent-results.csv
+__pycache__/

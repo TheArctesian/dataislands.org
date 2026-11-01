@@ -1,0 +1,41 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+jjgarrett-community-impact-printing,other-data-businesses,,high,https://ciprinting.com/about,a full-service commercial printing and mailing company,Commercial printing and direct-mail company; excerpts show no sale of personal data.
+jmr-media-consulting,unclear,,low,,,Excerpt is a tagline only; the data business is not shown.
+juicebox-app,other-data-businesses,b2b-contacts,high,https://juicebox.ai/about,Juicebox is the AI Recruiting Platform that understands who you’re looking for,AI recruiting software searching candidate profiles for recruiters; not a consumer people-search.
+jun-productions,adtech-identity,,high,https://jungroup.com/about-us,Jun Group is a technology company powering media campaigns for the best-known brands,Ad technology company running mobile-first advertising products for brands and publishers.
+kb-synergy,unclear,,low,,,Excerpts show a suspended-site notice and a privacy policy; no business description.
+key-marketing-advantage,marketing-audiences,,high,https://keymarketingadvantage.com/,List Brokerage Data Enhancement & Licensing,"Sells B2B and consumer lists, list rental and data licensing as core services."
+keyword-connects,marketing-audiences,,high,https://keywordconnects.com/about-us/,"specializes in using paid search to provide qualified, exclusive leads",Pay-for-performance company selling exclusive home-improvement leads to clients.
+klarifi,b2b-contacts,,medium,https://klarifi.io/,Wastewater market intelligence platform,"Sells wastewater facility data for sales prospecting; contact data implied, not stated."
+kloudend,other-data-businesses,,high,https://ipapi.co/about/,a leading IP Address Location service and Geolocation API provider,IP geolocation API sold to businesses; IP lookups are not device location data.
+knower-tech-usa,adtech-identity,marketing-audiences,high,https://knowertech.com/,Knower Tech bridges the gaps in the digital advertising market with inventive tech,Builds ad-buying and curation technology; also sells privacy-safe audience segments.
+knowledge-works,unclear,,low,,,Excerpt is an Equifax page for another company; this company's business is not shown.
+knowwho,other-data-businesses,,medium,https://kw1.knowwho.com/,Quickly connect with policymakers and staffers nationwide,Sells contact data on government officials and staffers for advocacy; not businesses.
+kochava,adtech-identity,,high,https://www.kochava.com/,Omnichannel measurement for advertisers and publishers,"Mobile attribution, measurement and ad-optimization technology for advertisers and publishers."
+koddi,adtech-identity,,high,https://koddi.com/about/,Ad Technology for Driving Revenue and Growth,Ad serving and SSP platforms for retail media sellers and buyers.
+komodo-health,health,,high,https://www.komodohealth.com/company/,source of deidentified patient-level data,Sells deidentified patient-level healthcare data and analytics to life sciences teams.
+kontext-data,unclear,,low,,,Excerpt is only the word Kontext; the business is not shown.
+kyber-health-data,unclear,,low,,,Excerpt is another firm's securities page; this company's business is not shown.
+l-s-mobile-apps,unclear,,low,,,Excerpt is only a page title; the business is not shown.
+labels-and-lists,marketing-audiences,,medium,https://l2-data.com/,Tap into more than 250 million national consumer records,Sells voter and consumer records and lists for targeting and campaigns.
+lead,marketing-audiences,,high,https://lead.co/,Real-time Insurance Leads Online,"Sells real-time insurance leads to agents, affiliates and partners."
+lead-enhance,marketing-audiences,,medium,https://www.lead-enhance.com/,Bridging the Gap in the Leads Marketplace,Vets and resells home-services lead sources between lead generators and buyers.
+lead-me-media,marketing-audiences,,medium,https://leadmemedia.com/,Lead Me Media specializes in permission-based acquisition email marketing,Email acquisition network with opt-in profiles; tailors and delivers lists to clients.
+lead411,b2b-contacts,,high,https://www.lead411.com/about/,Lead411 B2B Data Provider,"Sells B2B emails, direct dials and contact data for sales prospecting."
+leadcrunch,unclear,,low,,,Managed demand-generation service; sale of lead or contact data as main product not shown.
+leadership-connect,other-data-businesses,,medium,https://leadershipconnect.io/company/,Our flagship product for connecting with government,Subscription database of government officials and staff contacts for lobbying and contracting.
+leadiq,b2b-contacts,,high,https://privacy.leadiq.com/legal/privacy-policy,verify business and professional contact information,B2B contact database and prospecting tool for sales teams.
+leadloft,other-data-businesses,b2b-contacts,medium,https://www.leadloft.com/user-agreements/privacy-policy,LeadLoft is a data intelligence platform,"Sales-prospecting software with AI agents, email finder and a contact database."
+leadpost,adtech-identity,marketing-audiences,medium,https://leadpost.com/,Website Visitor Identification Solutions,Identifies website visitors for retargeting and sells B2C and B2B leads from them.
+leadspace,b2b-contacts,,high,https://www.leadspace.com/about-us,real-time data intelligence that helps B2B organizations identify the right buyers,B2B buyer and contact data intelligence for go-to-market and sales teams.
+leidos-digital-solutions,other-data-businesses,,high,https://intranetquorum.com/about/,Leidos provides innovative IT solutions to elected officials,IT software and voter-data tools sold to elected officials and government offices.
+lempire-talkus,other-data-businesses,b2b-contacts,medium,https://www.lemlist.com/,"Reach leads via email, LinkedIn, calls, WhatsApp, and SMS.",Outreach software bundling a 650M+ lead database and email finder.
+leverage-digital,marketing-audiences,,medium,https://leveragedigital.ai/privacy-policy/,"data analytics company that helps political, nonprofit, and mission-driven organizations","Predictive modeling to identify and target supporters, donors and prospects for campaigns."
+lexisnexis-risk-solutions-fl,fraud-identity-verification,,medium,https://risk.lexisnexis.com/financial-services/financial-crime-compliance,Financial Crime Compliance & Risk Management Solutions,"Identity verification, fraud and compliance screening products for businesses and agencies."
+lifesight,other-data-businesses,,medium,https://lifesight.io/,Agentic Marketing Measurement Platform,Marketing measurement and budget-planning software; fits no other category.
+lightbox-parent-l-p,property,,high,https://www.lightboxre.com:443/,CRE Data Analytics and Location Intelligence Platform,"Commercial real estate property, ownership and transaction data platform."
+lightcast,other-data-businesses,,high,https://lightcast.io/about,Lightcast provides the world's most comprehensive labor market intelligence.,"Labor-market and workforce data for education, employers and government; no category fits."
+lionshare-marketing,health,,medium,https://www.lionsharemarketing.com/,Healthcare Data Analytics and Marketing Automation,CRM and analytics software for healthcare organizations to market to patients and physicians.
+list-service-direct,marketing-audiences,,high,https://listservicedirect.com/about-lsdi/,"providers of mailing lists, marketing data, sales leads","Sells consumer, business and specialty mailing lists and marketing data."
+listkit,other-data-businesses,b2b-contacts,medium,https://www.listkit.io/about,ListKit combines a database of 977M+ triple-verified B2B contacts,Cold-email software bundling sending infrastructure with a 977M+ B2B contact database.
+listsonline-com,marketing-audiences,b2b-contacts,high,https://everleads.com/,We build and license professional and business audience files,Licenses professional and business audience files and contact segments from public records.

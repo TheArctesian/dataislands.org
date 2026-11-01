@@ -1,0 +1,3971 @@
+[
+ {
+  "id": "cppa",
+  "kind": "government_registry",
+  "url": "https://cppa.ca.gov/data_broker_registry/registry.csv",
+  "title": "California data broker registry",
+  "publisher": "California Privacy Protection Agency",
+  "asOf": "2026-10-30",
+  "licence": "Public record"
+ },
+ {
+  "id": "deletewe",
+  "kind": "open_source_dataset",
+  "url": "https://github.com/tfhumanity-org/deletewe",
+  "title": "deletewe broker catalogue, commit 2419caf",
+  "publisher": "tfhumanity-org",
+  "asOf": null,
+  "licence": "AGPL-3.0"
+ },
+ {
+  "id": "incogwe",
+  "kind": "open_source_dataset",
+  "url": "https://github.com/tfhumanity-org/incogwe",
+  "title": "incogwe broker seed, commit d1a2f5e",
+  "publisher": "tfhumanity-org",
+  "asOf": "2026-10-27",
+  "licence": "AGPL-3.0"
+ },
+ {
+  "id": "prc",
+  "kind": "research_database",
+  "url": "https://privacyrights.org/sites/default/files/2025-05/Data_Broker_Full_Registry_2025.xlsx.xlsx",
+  "title": "Data Broker Full Registry 2025 (California, Oregon, Texas and Vermont)",
+  "publisher": "Privacy Rights Clearinghouse",
+  "asOf": "2025-04",
+  "licence": "CC BY-NC-SA 4.0"
+ },
+ {
+  "id": "texas",
+  "kind": "government_registry",
+  "url": "https://texas-sos.appianportalsgov.com/data-broker-registry",
+  "title": "Texas data broker registry",
+  "publisher": "Texas Secretary of State",
+  "asOf": "2026-10-30",
+  "licence": "Public record"
+ },
+ {
+  "id": "web-0011fc74a67e",
+  "kind": "company_page",
+  "url": "https://kalibrate.com/insights/webinar/kalibrate-summit-2021/meet-esite-analytics",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-003989e2cfb6",
+  "kind": "press_release",
+  "url": "https://www.streetinsider.com/Press+Releases/Clearview+AI+Closes+%2430+Million+Series+B+Funding+Round/18717047.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0071d66f36bb",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000025/exhibit211subsidiarieslist.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-00c5a458209b",
+  "kind": "company_page",
+  "url": "https://www.realitydebtsolutions.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-00f324c07ed3",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001595974&type=10-K&dateb=&owner=include&count=40",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-00f64a38f4bb",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1059556/000105955624000017/mco-20231231xexx21.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0170889957cf",
+  "kind": "company_page",
+  "url": "https://pipl.com/privacy-center",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-01ae2d289a63",
+  "kind": "company_page",
+  "url": "https://www.biointelli.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0280ddd5d8c3",
+  "kind": "company_page",
+  "url": "https://www.coasttechnology.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-02c71d90480e",
+  "kind": "press_release",
+  "url": "https://www.businesswire.com/news/home/20201015005600/en/ZoomInfo-Acquires-Clickagy-to-Deliver-Streaming-Intent-Data",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-02f1baa80053",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1467373",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-02fe878c0bde",
+  "kind": "company_page",
+  "url": "https://cameo.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0389c073de8f",
+  "kind": "company_page",
+  "url": "https://www.hybridtheory.com/privacy-notice/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-04b2ce064e32",
+  "kind": "web_page",
+  "url": "https://www.spokeo.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-05a7e94e6870",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/806968/000162828026019643/exhibit81listofsubsidiarie.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-061c742bd6e2",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1784535/000178453526000008/prch-20251231xex211.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0666e0e29c3b",
+  "kind": "company_page",
+  "url": "https://alescodata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-06769c0fd13b",
+  "kind": "news",
+  "url": "https://adnews.com.au/news/t-mobile-acquires-vistar-media-and-blis",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-06bc40405b8c",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1861795",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-07121a23d245",
+  "kind": "company_page",
+  "url": "http://sterling.ai/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0713bb7ff70a",
+  "kind": "news",
+  "url": "https://israeldesks.com/?p=4150",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0742f3a43976",
+  "kind": "company_page",
+  "url": "https://www.predactiv.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-089d95810296",
+  "kind": "company_page",
+  "url": "https://www.placeexchange.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-08ba2488efe1",
+  "kind": "company_page",
+  "url": "https://www.modfxlabs.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-091fc45dc3cd",
+  "kind": "news",
+  "url": "https://globalventuring.com/blog/2020/04/23/h1-insights-series-a-funding/?format=md",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0a028966854b",
+  "kind": "company_page",
+  "url": "https://audigent.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0a397cfa5dc9",
+  "kind": "company_page",
+  "url": "https://www.t-mobile.com/advertising-solutions",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0a3fa59d3516",
+  "kind": "news",
+  "url": "https://mergr.com/company/eab/ownership",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0abf77a2404b",
+  "kind": "web_page",
+  "url": "https://www.erepublic.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0ae9bffcfd9d",
+  "kind": "company_page",
+  "url": "https://leadershipconnect.io/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0b20d92d5449",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1470129",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0bb031070a70",
+  "kind": "company_page",
+  "url": "https://180bytwo.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0d0c7e2ae1c4",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1158172",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0d74d1847fa0",
+  "kind": "company_page",
+  "url": "https://www.pulsepoint.com/legal/platform-privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0df62a7afff7",
+  "kind": "company_page",
+  "url": "https://www.growbots.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0dfce034134e",
+  "kind": "press_release",
+  "url": "https://prnewswire.com/news-releases/connatix-and-jw-player-merge-to-create-the-industrys-largest-video-technology-and-monetization-platform-302271377.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0e2feb45935a",
+  "kind": "news",
+  "url": "https://www.biznesradar.pl/a/24776",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0e34c5d5ade2",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1478242",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0f987da55271",
+  "kind": "company_page",
+  "url": "https://www.clarityservices.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-0fffb028c012",
+  "kind": "company_page",
+  "url": "https://affordable-health-insurance-plans.org/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-100fabf48218",
+  "kind": "company_page",
+  "url": "https://www.resonate.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1042500358c5",
+  "kind": "company_page",
+  "url": "https://www.pacificeast.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-10ac65f5ef72",
+  "kind": "web_page",
+  "url": "https://www.vericast.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-118e417608e1",
+  "kind": "web_page",
+  "url": "https://www.porchgroupmedia.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1261725f39af",
+  "kind": "company_page",
+  "url": "https://www.maxmind.com/en/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-137548d7f05a",
+  "kind": "press_release",
+  "url": "https://www.vestarcapital.com/vestar-capital-partners-closes-1-2-billion-continuation-vehicle-for-circana/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-13bb11015559",
+  "kind": "web_page",
+  "url": "https://www.unitedstatesbackgroundchecks.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-13c5122a59d3",
+  "kind": "news",
+  "url": "https://oemcapital.com/2014/06/genstar-capital-llc-acquired-asset-international-inc/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-13c9cf38095c",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1057352",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-14b4d175e95a",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1859285/000114036124031658/ny20031827x3_ex99-1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-15b9338d731e",
+  "kind": "company_page",
+  "url": "https://responseamerica.net/privacy_dec.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1680412400b8",
+  "kind": "company_page",
+  "url": "https://www.pmg.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-17b328ae1fbd",
+  "kind": "press_release",
+  "url": "https://www.epsilon.com/us/about-us/pressroom/lotame-acquisition",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-180828f253f6",
+  "kind": "company_page",
+  "url": "https://www.autoweb.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-187e811bc514",
+  "kind": "news",
+  "url": "https://builtin.com/articles/zeta-global-to-acquire-liveintent-20241015",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-188989186bf7",
+  "kind": "company_page",
+  "url": "https://www.mogean.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1a69cbae3145",
+  "kind": "company_page",
+  "url": "https://www.postie.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1bb96d7cf8d4",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1552033/000155203326000012/exhibit21subsidiarieslist2.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1cd888d99cbd",
+  "kind": "company_page",
+  "url": "https://www.data-management.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1d2c8ff82970",
+  "kind": "news",
+  "url": "https://www.plunkettresearch.com/?p=1877552",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1d4fa7ee7d8e",
+  "kind": "web_page",
+  "url": "https://www.alescodata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1e725abe02eb",
+  "kind": "company_page",
+  "url": "https://mchdata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1f104cc3404a",
+  "kind": "company_page",
+  "url": "https://www.attomdata.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1f9312579f74",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1280058",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-1ff3493b7bef",
+  "kind": "company_page",
+  "url": "https://revenuebase.ai",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2029aa224666",
+  "kind": "company_page",
+  "url": "https://www.popacta.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2046e2066b6b",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1454938/000145493826000015/exhibit211-202510xk.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-20bb7f50f8b4",
+  "kind": "press_release",
+  "url": "https://www.businesswire.com/news/home/20251031093375/en",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2172815e7362",
+  "kind": "company_page",
+  "url": "https://www.vector.co/opt-out",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-21d55d14718f",
+  "kind": "company_page",
+  "url": "https://altrata.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2251175eecda",
+  "kind": "company_page",
+  "url": "https://donorbureau.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-25125f2c20d8",
+  "kind": "company_page",
+  "url": "https://matchbookdata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-262afc9ca12a",
+  "kind": "company_page",
+  "url": "https://www.dtn.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-262d645f5eaa",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1751008",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-267657736b73",
+  "kind": "company_page",
+  "url": "https://reachmarketing.com/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-26c1bd298921",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1158172/000115817224000012/scor-20231231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-26f8990efd14",
+  "kind": "press_release",
+  "url": "https://www.businesswire.com/news/home/20231017340794/en/NCR-Voyix-Corporation-Debuts-Following-the-Spin-off-of-ATM-focused-Business",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-273e142ed2bf",
+  "kind": "company_page",
+  "url": "https://www.diligent.com/legal/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-278330a18be5",
+  "kind": "company_page",
+  "url": "https://www.livedatatech.com/legals",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-27918d1b3730",
+  "kind": "news",
+  "url": "https://www.wlrk.com/recent-matters/nielsen-in-its-16-billion-acquisition-by-a-consortium-led-by-elliott-and-brookfield/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2937d67b4e90",
+  "kind": "company_page",
+  "url": "https://www.bbdirect.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2aad7e558748",
+  "kind": "company_page",
+  "url": "https://www.cognism.com/about-us",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2d7224ee169a",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1828791",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2d96d9e6c714",
+  "kind": "web_page",
+  "url": "https://www.geninfo.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2e09ab7ef722",
+  "kind": "web_page",
+  "url": "https://altrata.com/boardroom-insiders-is-now-altrata",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2ee986591d11",
+  "kind": "company_page",
+  "url": "https://www.inflection.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2f0344b8c95b",
+  "kind": "company_page",
+  "url": "https://optimalfusion.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2f8957c701ca",
+  "kind": "company_page",
+  "url": "https://www.plug-industries.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-2fbfed648c08",
+  "kind": "company_page",
+  "url": "https://www.propertyradar.com/team",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3155c0ae793b",
+  "kind": "company_page",
+  "url": "https://www.publicrecordsnow.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-327ec1d1a262",
+  "kind": "company_page",
+  "url": "https://machintel.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-329200fa2833",
+  "kind": "news",
+  "url": "https://www.research-live.com/article/news/dun_and_bradstreet_acquires_eyeota_and_netwise/id/5091742",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-32c3f272ff03",
+  "kind": "company_page",
+  "url": "https://www.policeconduct.org/legal-notice/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-32fd1ae813a8",
+  "kind": "company_page",
+  "url": "https://www.dynata.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-330736e669f6",
+  "kind": "company_page",
+  "url": "https://www.prodpro.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-335091ecb4af",
+  "kind": "company_page",
+  "url": "https://grata.com/legal/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-339e9ed0617b",
+  "kind": "web_page",
+  "url": "https://www.investmentexecutive.com/news/industry/deutsche-borse-acquires-control-of-iss/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-33bd3df457c0",
+  "kind": "company_page",
+  "url": "https://www.telephonelists.biz/privacy-policy-of-telephonelists-biz",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-34f1ac8cad0f",
+  "kind": "company_page",
+  "url": "https://www.proximaplatform.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-36229e36ae8b",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1422930",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-368ef3623f99",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/zi-ex211x20260212.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-38288f46ddc2",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1842731",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-383d566f14bc",
+  "kind": "web_page",
+  "url": "https://www.autoremarketing.com/financial-services/experian-acquires-clarity-services-launches-alternative-data-driven-solution",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-39071d385a37",
+  "kind": "news",
+  "url": "https://onmsft.com/?p=76977",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3980e6fc4cfb",
+  "kind": "news",
+  "url": "https://siliconangle.com/?p=759976",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-39905558dbfc",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1666071/000166607126000010/cdlx-20251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-39f3cf6cab08",
+  "kind": "news",
+  "url": "https://www.research-live.com/article/news/dentsu-group-takes-100-ownership-of-merkle/id/5067792",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-39f4591d0dd4",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026009136/mco-20251231xexx21.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3a212c57cc49",
+  "kind": "company_page",
+  "url": "https://www.semasio.com/legal/semasio-privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3c2ec4ede019",
+  "kind": "company_page",
+  "url": "https://emailmovers.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3cefebb9ff7e",
+  "kind": "company_page",
+  "url": "https://www.venntel.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3d0f856e42f2",
+  "kind": "company_page",
+  "url": "https://supplier.io/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3e704b7bc929",
+  "kind": "press_release",
+  "url": "https://www.summitpartners.com/news/postpilot-lands-strategic-investment-from-summit-partners-and-klaviyo-founders",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3ec46723aa41",
+  "kind": "web_page",
+  "url": "https://www.freightwaves.com/news/ansonia-specializing-in-credit-data-for-trucking-and-logistics-acquired-by-equifax",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-3f72aa29cd93",
+  "kind": "company_page",
+  "url": "https://www.propertyreach.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-405228ae25a9",
+  "kind": "company_page",
+  "url": "https://beeswax.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-423732d0c621",
+  "kind": "web_page",
+  "url": "https://risk.lexisnexis.com/about-us/press-room/press-release/20200131-id-analytics-close",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-429875772721",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001481792&type=10-K",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-42a3a827e9cb",
+  "kind": "web_page",
+  "url": "https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-42bb22af5fd4",
+  "kind": "press_release",
+  "url": "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-completes-preqin-acquisition",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-42f643a5df00",
+  "kind": "company_page",
+  "url": "https://www.attomdata.com/about-us/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4450480e103a",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824225000045/ex-2111231202410xk.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-45305640bc89",
+  "kind": "web_page",
+  "url": "https://redact.dev/data-brokers/privaterecords-net",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-479882a8198c",
+  "kind": "company_page",
+  "url": "https://www.traackr.com/legal/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-47efa9e166c2",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1764046",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-48d775963814",
+  "kind": "company_page",
+  "url": "https://www.plungedigital.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4940a3af6db2",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001289419/000128941916000294/morn_10qx09302016.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4a272e7ace15",
+  "kind": "company_page",
+  "url": "https://dealmachine.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4a9d5026bd35",
+  "kind": "press_release",
+  "url": "https://customerthink.com/?p=1063611",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4bb5e7749d05",
+  "kind": "company_page",
+  "url": "https://revoptimal.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4c931cca891e",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1794515",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4ccdc625450c",
+  "kind": "company_page",
+  "url": "https://www.bestpickreports.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4d63c4f27283",
+  "kind": "company_page",
+  "url": "https://plexuss.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4d7ed1c12d56",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=733269",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4dde6685965e",
+  "kind": "company_page",
+  "url": "https://m1-data.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4df2a065b68f",
+  "kind": "company_page",
+  "url": "https://openpeoplesearch.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4e275d94a970",
+  "kind": "company_page",
+  "url": "https://www.plexuss.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4e35f03b7ff8",
+  "kind": "company_page",
+  "url": "https://inflection.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4e71caee6d8f",
+  "kind": "web_page",
+  "url": "https://www.coxautoinc.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4f9843e7a746",
+  "kind": "web_page",
+  "url": "https://www.evercommerce.com/?p=4676",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-4fe6b783b440",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/27996/000002799626000037/exhibit2111231202510k.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-501a97d10fd5",
+  "kind": "web_page",
+  "url": "https://www.experianplc.com/media/news/2020/experian-acquires-tapad/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-509e2867c806",
+  "kind": "company_page",
+  "url": "https://meettie.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-50b7af2306ca",
+  "kind": "company_page",
+  "url": "https://www.applecart.co/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-51ac06920be6",
+  "kind": "company_page",
+  "url": "https://catalist.us/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5294931caedb",
+  "kind": "web_page",
+  "url": "https://www.ajbell.co.uk/news/articles/informa-completes-digital-businesses-tie-techtarget",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-534cc1129b0a",
+  "kind": "company_page",
+  "url": "https://idmap.ai/privacy-policy.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5394bf2c556f",
+  "kind": "company_page",
+  "url": "https://americanroofers.org/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-54b9a3919667",
+  "kind": "web_page",
+  "url": "https://risk.lexisnexis.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-55bab8fa79b4",
+  "kind": "web_page",
+  "url": "https://marketing.verisk.com/?p=12353",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5604db186101",
+  "kind": "company_page",
+  "url": "https://www.upcell.io/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-56b19d6534f9",
+  "kind": "company_page",
+  "url": "https://leveragedigital.ai/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-58665edbce84",
+  "kind": "company_page",
+  "url": "https://www.messagedigital.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-58d67b03640b",
+  "kind": "company_page",
+  "url": "https://www.searchpublicrecords.com/help-center/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-599f0c67a504",
+  "kind": "company_page",
+  "url": "https://communityimpact.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5a2bdc8cdb4d",
+  "kind": "company_page",
+  "url": "https://www.cashmereai.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5abb27aa01a4",
+  "kind": "company_page",
+  "url": "https://www.seekout.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5aed470ccfef",
+  "kind": "company_page",
+  "url": "https://www.penlink.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5b0a4e5d9524",
+  "kind": "company_page",
+  "url": "https://outkeep.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5b2e37ae8b8b",
+  "kind": "company_page",
+  "url": "https://fullenrich.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5b726c46534b",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764046/000176404626000019/clvt-20251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5bc771e136c3",
+  "kind": "web_page",
+  "url": "https://deepsync.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5bd8a766704f",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1851003/000095017024115991/zeta-ex99_1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5c3d04c992e4",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1799208/000110465925082892/tm2524330d1_ex99-1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5ca20a33386f",
+  "kind": "company_page",
+  "url": "https://cybba.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5cd19482ee27",
+  "kind": "company_page",
+  "url": "https://www.zerotoone.ai/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5ceda7f0b33d",
+  "kind": "company_page",
+  "url": "https://g2risksolutions.com/about-us",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5d6f4d3220d5",
+  "kind": "web_page",
+  "url": "https://techcrunch.com/2025/01/13/gravy-analytics-data-broker-breach-trove-of-location-data-threatens-privacy-millions/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5dfbefcfa3dc",
+  "kind": "company_page",
+  "url": "https://astoriacompany.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5f6ccb22cbe6",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1720116/000095017025029184/rdvt-ex21_1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-5fb9374ec569",
+  "kind": "company_page",
+  "url": "https://peopleconnect.us/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-606c40c87614",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/733269/000073326924000018/ramp-20240331.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-60c441f704f3",
+  "kind": "company_page",
+  "url": "https://www.purecars.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-60f9579758bc",
+  "kind": "company_page",
+  "url": "https://anteriad.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-617e52bd0162",
+  "kind": "web_page",
+  "url": "https://altrata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-621986d25909",
+  "kind": "company_page",
+  "url": "https://infillion.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-623c457ab141",
+  "kind": "company_page",
+  "url": "https://www.melissa.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-62bf30d77898",
+  "kind": "web_page",
+  "url": "https://find-and-update.company-information.service.gov.uk/company/00874637/filing-history/MzU1MTE3NTE2OWFkaXF6a2N4/document?format=pdf&download=0",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-63ccb1716faa",
+  "kind": "company_page",
+  "url": "https://snov.io/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-64a2f20b695a",
+  "kind": "web_page",
+  "url": "https://www.medicaremarket.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-65376bf5408e",
+  "kind": "company_page",
+  "url": "https://birchwoodcreditservices.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-654f773219c5",
+  "kind": "news",
+  "url": "https://builtin.com/articles/nativo-life360-120m-acquisition-20251114",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-65b08e7e506f",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1393052",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-65e98f25fc9a",
+  "kind": "web_page",
+  "url": "https://ir.moodys.com/press-releases/news-details/2021/Moodys-Completes-Acquisition-of-Cortera/default.aspx",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-65ec67173a93",
+  "kind": "news",
+  "url": "https://www.governing.com/now/e-republic-joins-forces-with-leeds-equity-partners",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-66e2eca581bd",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1853145/000185314526000010/evcm-20251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-680f7fe57257",
+  "kind": "company_page",
+  "url": "https://www.podscribe.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-685e37f5a38b",
+  "kind": "company_page",
+  "url": "https://skydeo.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-689bc0cf6b96",
+  "kind": "news",
+  "url": "https://mergr.com/transaction/infillion-acquires-mediamath",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-69c8d955f3a4",
+  "kind": "company_page",
+  "url": "https://ripple-fx.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6a8a892af7db",
+  "kind": "web_page",
+  "url": "https://www.insurancequotes.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6acf591f9539",
+  "kind": "company_page",
+  "url": "https://www.melissa.com/company/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6b26223b4d42",
+  "kind": "company_page",
+  "url": "https://usmarketinggrp.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6d194a5adf28",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2018064",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6d7e03cb7c32",
+  "kind": "company_page",
+  "url": "https://www.digitalsegment.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6da8ad48dbe8",
+  "kind": "company_page",
+  "url": "https://azira.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6e0d46be4933",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1595974",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6ee1ead42d90",
+  "kind": "web_page",
+  "url": "https://www.hireright.com/company/newsroom/hireright-acquires-clearchecks-to-build-market-leading-background-screening",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-6f3e199d1b5d",
+  "kind": "company_page",
+  "url": "https://www.fogdatascience.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-700409de7f77",
+  "kind": "company_page",
+  "url": "https://www.clearview.ai/privacy-and-requests",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-718e1bc34fc9",
+  "kind": "news",
+  "url": "https://www.money.pl/gielda/wiadomosci/artykul/cloud-technologies-przejela-siec-reklamowa",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7266ee228dc2",
+  "kind": "company_page",
+  "url": "https://faraday.ai/legal",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-73209d3089a7",
+  "kind": "company_page",
+  "url": "https://craft.co/dstillery",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-740d5a57ece9",
+  "kind": "news",
+  "url": "https://www.morrisoncohen.com/insights/the-carlyle-group-acquires-claritas-from-nielsen",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-741d95801945",
+  "kind": "company_page",
+  "url": "https://scrapingrobot.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-752aaecc2940",
+  "kind": "company_page",
+  "url": "https://www.birchwoodcreditservices.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-75a7e455c877",
+  "kind": "company_page",
+  "url": "https://www.onemodel.co/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-75ec48897275",
+  "kind": "company_page",
+  "url": "https://exa.ai/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-76aff6b2c50b",
+  "kind": "company_page",
+  "url": "https://www.pipl.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7703e8094659",
+  "kind": "web_page",
+  "url": "https://techcrunch.com/2017/12/05/zeta-global-acquires-commenting-service-disqus/amp",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7753f3324f22",
+  "kind": "company_page",
+  "url": "https://www.lightboxre.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-780626073d39",
+  "kind": "web_page",
+  "url": "https://www.govtech.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-78a6d695941b",
+  "kind": "company_page",
+  "url": "https://www.datonics.com/privacy/technology-privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-78e07b9dbc48",
+  "kind": "company_page",
+  "url": "https://dpcoptout.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-794331e15ee1",
+  "kind": "company_page",
+  "url": "https://www.zeeto.io/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-79ebc4948b4a",
+  "kind": "company_page",
+  "url": "https://foursquare.com/legal/privacy-center/foursquare-privacy-policy-consumer-services/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-79f783883c4c",
+  "kind": "company_page",
+  "url": "https://app.phantomdata.io/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7a3ee7584fbd",
+  "kind": "press_release",
+  "url": "https://www.fenwick.com/insights/experience/fenwick-represents-common-room-in-53-million-financing",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7afe1e01e84f",
+  "kind": "news",
+  "url": "https://www.statnews.com/2022/07/28/top-iqvia-lawyer-declines-to-discuss-experian-relationship-but-pledges-privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7b98cebd7959",
+  "kind": "company_page",
+  "url": "https://www.studentclearinghouse.org/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7c59e6d928bd",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=929869",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7c711d8f17fc",
+  "kind": "company_page",
+  "url": "https://www.interseller.io/interseller-joins-greenhouse",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7d8d18634c40",
+  "kind": "company_page",
+  "url": "https://www.rrd.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7dfc9e2ff2f5",
+  "kind": "company_page",
+  "url": "https://www.polityinc.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7e4870278895",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-2025q4xexx21.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7e651472989e",
+  "kind": "company_page",
+  "url": "https://www.convex.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7f01e8ad343a",
+  "kind": "news",
+  "url": "https://pitchbook.com/profiles/company/112505-86",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-7f8c4a4bf0bc",
+  "kind": "web_page",
+  "url": "https://www.beenverified.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-80b01adca239",
+  "kind": "news",
+  "url": "https://www.research-live.com/article/news/wpp-merges-groupm-and-wunderman-thompson-data-units/id/5083132",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8118096a768c",
+  "kind": "press_release",
+  "url": "https://www.ta.com/news/clearlake-and-ta-associates-to-acquire-data-integrity-software-leader-precisely/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-81ce51b77f90",
+  "kind": "company_page",
+  "url": "https://marinusanalytics.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-820d0a9210f4",
+  "kind": "company_page",
+  "url": "https://fetch.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-822cc7a00b9f",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404655",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-83a350cc7207",
+  "kind": "company_page",
+  "url": "https://www.kidslivesafe.com/help-center/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8416dde53d8c",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/exhibit21allcorp123125.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8514f803965e",
+  "kind": "company_page",
+  "url": "https://sourcepathdigital.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-85881a89f478",
+  "kind": "company_page",
+  "url": "https://audienceacuity.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-87108996b588",
+  "kind": "company_page",
+  "url": "https://firstorion.com/legal",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8768eecd8f85",
+  "kind": "company_page",
+  "url": "https://www.zoom.com/en/about/?cms_guid=false",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8785966d8adc",
+  "kind": "company_page",
+  "url": "https://onspotdata.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-895c90124705",
+  "kind": "company_page",
+  "url": "https://coresignal.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-89f09b785cee",
+  "kind": "company_page",
+  "url": "https://path2response.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8a0c8dc8c099",
+  "kind": "web_page",
+  "url": "https://infutor.com/jornaya-infutor-join-forces-as-verisk-marketing-solutions/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8a97da03ac92",
+  "kind": "company_page",
+  "url": "https://www.socialgist.ai/privacy-and-terms",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8adbb329a9d9",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1552033",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8ae108799eb8",
+  "kind": "web_page",
+  "url": "https://www.brandwatch.com/blog/cision/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8af5bf459a06",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/exhibit21tofy2025formx2025.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8b3e838eff89",
+  "kind": "web_page",
+  "url": "https://www.deloitte.com/us/en/legal/privacy.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8b52a7b56b2e",
+  "kind": "company_page",
+  "url": "https://inchecksolutions.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8b617f0a54c0",
+  "kind": "web_page",
+  "url": "https://www.recordsfinder.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8b7720ebc4e0",
+  "kind": "web_page",
+  "url": "https://www.offlist.me/ca-broker/truth-now-llc",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8b8d91190a8f",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1851003",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8c079cd619d6",
+  "kind": "company_page",
+  "url": "https://www.pulsepoint.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8c144543fb03",
+  "kind": "news",
+  "url": "https://www.financierworldwide.com/fw-news/2023/1/3/bc-partners-to-acquire-madison-logic-from-clarion",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8cda539917a0",
+  "kind": "company_page",
+  "url": "https://audiencemix.net",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8d18084d48d5",
+  "kind": "company_page",
+  "url": "https://infofree.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8df7f8bd6b28",
+  "kind": "company_page",
+  "url": "https://www.milestonemarketingsolutions.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8e16d0b1df89",
+  "kind": "web_page",
+  "url": "https://www.fullcontact.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-8e40f0e2e9c9",
+  "kind": "company_page",
+  "url": "https://www.affinity.co/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-91eef5b3900e",
+  "kind": "company_page",
+  "url": "https://www.vistarmedia.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-93afdedb3cbf",
+  "kind": "news",
+  "url": "https://www.privsource.com/acquisitions/deal/O3S8aa",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-93e639ddcc1f",
+  "kind": "web_page",
+  "url": "https://www.backgroundchecks.com/company/newsroom",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-953e1c00d980",
+  "kind": "web_page",
+  "url": "https://www.gale.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9594f5c62b8c",
+  "kind": "company_page",
+  "url": "https://www.business.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-963e5b5f0553",
+  "kind": "company_page",
+  "url": "https://www.internetbrands.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9766b9f49afb",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/exhibit211-masterequifaxsu.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9902207a9e4e",
+  "kind": "news",
+  "url": "https://ca.marketscreener.com/quote/stock/BLACKSTONE-INC-60951400/news/Blackstone-Joins-Clearlake-and-Insight-in-Backing-Software-Maker-Diligent-31057493/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-996dcc3f6e29",
+  "kind": "company_page",
+  "url": "https://www.minerva.io",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-99a0c8def2f5",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1467858",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9a79f3d2a279",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1896752",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9a8158aaf34c",
+  "kind": "company_page",
+  "url": "https://www.dtn.com/external-privacy-statement/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9b164218e1a4",
+  "kind": "web_page",
+  "url": "https://lightcast.io/resources/blog/lightcast-acquires-rhetorik-to-expand-global-people-company-and-labor-market-inte",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9ce054808de7",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828791/000182879126000019/dsp-20251231xex211listofsu.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9d9f12e928a9",
+  "kind": "company_page",
+  "url": "https://meadleybrothers.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9dcd53514c87",
+  "kind": "company_page",
+  "url": "https://marketingarchitects.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9e49a3130d0d",
+  "kind": "news",
+  "url": "https://www.streetinsider.com/Corporate+News/Prudential+Financial+%28PRU%29+to+acquire+Assurance+IQ+for+%242.35+billion/15885353.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-9f3d8cb3b03a",
+  "kind": "news",
+  "url": "https://salestechstar.com/?p=171449",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a10244e9d06e",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666071",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a2d5152218e1",
+  "kind": "company_page",
+  "url": "https://sproutsocial.com/legal/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a369c56054d9",
+  "kind": "company_page",
+  "url": "https://oncoreleads.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a36e7bd3f7a8",
+  "kind": "company_page",
+  "url": "https://www.nextroll.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a3b25d0083a2",
+  "kind": "company_page",
+  "url": "https://www.vizio.com/en/terms/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a3b786ca84ec",
+  "kind": "company_page",
+  "url": "https://marketforcecorp.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a47df51d0e86",
+  "kind": "company_page",
+  "url": "https://app.qwoted.com/privacy_policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a5202f358309",
+  "kind": "company_page",
+  "url": "https://firstdirectmarketing.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a588bb320240",
+  "kind": "company_page",
+  "url": "https://mailinglists.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a5e0648a22fe",
+  "kind": "web_page",
+  "url": "https://www.privsource.com/acquisitions/deal/rJSWDA",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a65a69e18823",
+  "kind": "company_page",
+  "url": "https://www.maxmind.com/en/about-maxmind",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a6631a5df4d5",
+  "kind": "company_page",
+  "url": "https://policy.leadmemedia.com/PoliciesTermsConditions/privacypolicy.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a7502be04b69",
+  "kind": "company_page",
+  "url": "https://www.definitivehc.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a7997c9a09dc",
+  "kind": "news",
+  "url": "https://classaction.org/news/class-action-alleges-allstate-unlawfully-collects-sells-consumers-driving-behavior-data-through-third-party-apps",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-a9995fe5b01f",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1084048/000108404826000005/zd20251231ex-211.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-aa46c7c3646e",
+  "kind": "web_page",
+  "url": "https://www.deepsync.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-aa6c3e7f0b31",
+  "kind": "company_page",
+  "url": "https://www.publicrecordreports.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-aacdde06c0db",
+  "kind": "company_page",
+  "url": "https://www.skipsmasher.com/privacy.aspx",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-aad7a56e972c",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1799208/000179920823000012/dnb-20221231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-aae6fa4ea284",
+  "kind": "company_page",
+  "url": "https://leadsherpa.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ac69a1b1c8f8",
+  "kind": "company_page",
+  "url": "https://www.digitalmediasolutions.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ada6f2068966",
+  "kind": "press_release",
+  "url": "https://porchgroupmedia.com/?p=18346",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ae7ee03be418",
+  "kind": "web_page",
+  "url": "https://kalibrate.com/intalytics/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-af4519f11192",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000006/blkb-20251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b071aa16b57a",
+  "kind": "company_page",
+  "url": "https://www.teamdms.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b0e2685784cb",
+  "kind": "news",
+  "url": "https://aiproductivity.ai/news/nyne-raises-5m-seed-ai-agent-context/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b222f63829ea",
+  "kind": "news",
+  "url": "https://peprofessional.com/2025/09/clearlake-closes-take-private-dun-bradstreet/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b3281be49863",
+  "kind": "news",
+  "url": "https://www.404media.co/eskimi-2/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b3fc450d2cf4",
+  "kind": "company_page",
+  "url": "https://www.prospectbase.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b43604240451",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=27996",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b4dd6336c4e1",
+  "kind": "company_page",
+  "url": "https://www.audienceacuity.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b51b4ff83242",
+  "kind": "company_page",
+  "url": "https://torusvotersystems.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b549fe1d8fc1",
+  "kind": "company_page",
+  "url": "https://bigdbm.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b6a2ef28ef5c",
+  "kind": "company_page",
+  "url": "https://infocore.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b7b66642ee40",
+  "kind": "company_page",
+  "url": "https://growinglibraries.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-b9bcaf34e5b0",
+  "kind": "company_page",
+  "url": "https://www.privco.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bcc0ce5eb557",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/ex-2111231202510xk.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bd6ff2da3b0f",
+  "kind": "company_page",
+  "url": "https://www.buyerlink.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bd853237df1e",
+  "kind": "company_page",
+  "url": "https://civitech.io/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bdac8ba50588",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1794515/000162828020012759/zi-20200817.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-be2be50ac321",
+  "kind": "company_page",
+  "url": "https://www.edvisors.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-be96a3413959",
+  "kind": "company_page",
+  "url": "https://quadrant.io/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bed2c9bfd7f5",
+  "kind": "web_page",
+  "url": "https://www.platinumequity.com/our-company/cision/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bf55ee4573fe",
+  "kind": "company_page",
+  "url": "https://salesintel.io/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-bf77f7fcce71",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1849396/000117891326000712/exhibit_8-1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c06aaf03f398",
+  "kind": "government_report",
+  "url": "https://www.cdiaonline.org/wp-content/uploads/2021/12/Senator-Wyden-Letter-to-Chopra-on-Credit-Header.pdf",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c08f9cd8e9ba",
+  "kind": "company_page",
+  "url": "https://trueblueanalytics.org/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c0f69e95931c",
+  "kind": "company_page",
+  "url": "https://clients.backgroundsonline.com/policies/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c14f20fe6236",
+  "kind": "company_page",
+  "url": "https://www.audiense.com/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c1937100dba1",
+  "kind": "company_page",
+  "url": "https://bigdbm.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c1cbc34cd7a2",
+  "kind": "company_page",
+  "url": "https://www.beaconterritory.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c1f16360d584",
+  "kind": "company_page",
+  "url": "https://mailinglists.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c3a3ff457899",
+  "kind": "company_page",
+  "url": "https://www.atdata.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c435208aef7f",
+  "kind": "news",
+  "url": "https://mergr.com/company/iwave-information-systems/ownership",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c46bbd919920",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1764046/000176404626000019/ex211listofsubsidiaries.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c4c3d6b3000e",
+  "kind": "news",
+  "url": "https://www.sharecast.com/news/news-and-announcements/euromoney-to-buy-boardex-and-the-deal-for-873m--3636199.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c4ddbee1f14b",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1481792",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c534287dc711",
+  "kind": "company_page",
+  "url": "https://www.publicrecord.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c5548f30d1b1",
+  "kind": "press_release",
+  "url": "https://investor.equifax.com/news-events/press-releases/detail/180/equifax-acquires-datax-to-expand-credit-access-for-consumers",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c5b41f2d7362",
+  "kind": "news",
+  "url": "https://en.wikipedia.org/wiki/ChexSystems",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c5cf5cd459ce",
+  "kind": "company_page",
+  "url": "https://www.blackpearl.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c6000162418a",
+  "kind": "news",
+  "url": "https://www.mediapost.com/publications/article/370759/euromoney-institutional-investor-buys-data-company.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c6e7367ba348",
+  "kind": "company_page",
+  "url": "https://www.postalytics.com/llm-info/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c7428d160096",
+  "kind": "company_page",
+  "url": "https://www.informa.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c8bdb7b2fa0a",
+  "kind": "company_page",
+  "url": "https://scoutdata.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c8f29b6a56bb",
+  "kind": "company_page",
+  "url": "https://www.uplead.com/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-c96bb2860b54",
+  "kind": "news",
+  "url": "https://martechseries.com/sales-marketing/b2b-commerce/customer-acquisition/tinuiti-completes-acquisition-of-bliss-point-media-and-officially-launches-streaming-an-expanded-full-service-advertising-offering-streaming-linear-video/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ca0ddd5458c8",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1454938",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ca4325dc8a08",
+  "kind": "web_page",
+  "url": "https://www.lowenstein.com/news-insights/firm-news/lowenstein-represents-chatham-asset-management-sole-owner-of-rr-donnelley-sons-in-purchase-of-digital-print-and-marketing-businesses-from-vericast",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cb200c0b581c",
+  "kind": "company_page",
+  "url": "https://www.01advertising.com/legal/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cb79786a72f2",
+  "kind": "web_page",
+  "url": "https://www.offlist.me/ca-broker/solar-connect-llc",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cbdd496738f3",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1084048",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cc5ec7873a3b",
+  "kind": "company_page",
+  "url": "https://atlanticfox.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cc9648fe5b11",
+  "kind": "news",
+  "url": "https://discover.cretech.com/news/crexi-secures-11-million-series-a-investment-to-further-its-position-as-the-commercial-real-estate-industrys-most-active-technology-platform",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ccec2943f044",
+  "kind": "web_page",
+  "url": "https://mountaingate.com/ignite-visibility-partners-with-leading-marketing-technology-services-provider-everconnect-to-deepen-lead-generation-home-services-and-healthcare-capabilities/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ce5518ed7352",
+  "kind": "company_page",
+  "url": "https://inboundinsight.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-cf030a44521a",
+  "kind": "company_page",
+  "url": "https://www.dynata.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d00cb1ac87eb",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/ex21-12312025.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d0ddac82e4a9",
+  "kind": "web_page",
+  "url": "https://www.criminalrecords.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d0e66a61302b",
+  "kind": "company_page",
+  "url": "https://www.iss-stoxx.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d1229431711f",
+  "kind": "news",
+  "url": "https://www.clearygottlieb.com/news-and-insights/news-listing/bank-consortium-in-%2490-million-contribution-to-ews",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d15dfa21963d",
+  "kind": "news",
+  "url": "https://www.themiddlemarket.com/latest-news/apollo-invests-in-cengage-group",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d16b4201fb07",
+  "kind": "company_page",
+  "url": "https://www.publicinfoservices.com/help-center/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d200b1f02780",
+  "kind": "company_page",
+  "url": "https://malvernmedia.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d3f93152f4e1",
+  "kind": "company_page",
+  "url": "https://strategicdataintelligence.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d6391817361c",
+  "kind": "company_page",
+  "url": "https://www.reveliolabs.com/privacy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d6e529105b21",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526046646/hubs-ex21_1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d7b32dfa4cc3",
+  "kind": "web_page",
+  "url": "https://en.wikipedia.org/wiki/West_(publisher)",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d86269afbe0a",
+  "kind": "company_page",
+  "url": "https://www.redviolet.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d93212c7c459",
+  "kind": "company_page",
+  "url": "https://my.monitorbase.com/privacypolicy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d967b599f0c0",
+  "kind": "company_page",
+  "url": "https://leadflow.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d9d32eaa4b58",
+  "kind": "company_page",
+  "url": "https://partech.com/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-d9fe6502cf44",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-ex21_01.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-da16cb96bd3d",
+  "kind": "web_page",
+  "url": "https://eab.com/about/newsroom/press/cappex-acquisition/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-daaef768b9d4",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dafb0438877d",
+  "kind": "web_page",
+  "url": "https://www.offlist.me/ca-broker/mississippi-tornado-alley-llc",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dbb0d5e6c88b",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/27996/000002799614000013/exhibit2111231201310k.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dc066720e1dc",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/29989/000002998926000006/a2025q4exhibit21.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dcfe45b8c71a",
+  "kind": "company_page",
+  "url": "https://atmospherik.ai",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dd5919a22a1f",
+  "kind": "company_page",
+  "url": "https://www.inmatesearcher.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dd66a5d5919f",
+  "kind": "company_page",
+  "url": "https://agedleadstore.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dd74e801e125",
+  "kind": "company_page",
+  "url": "https://www.ipsos.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-de2763fb7d00",
+  "kind": "web_page",
+  "url": "https://cppa.ca.gov/data_broker_registry/registry.csv",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-df14aca861f4",
+  "kind": "web_page",
+  "url": "https://www.securityweek.com/gbg-acquire-acuant-736-million-deal/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-df82afeaf05d",
+  "kind": "press_release",
+  "url": "https://risk.lexisnexis.com/global/zh/about-us/press-room/press-release/20210217-merger-gl",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dfb8e1ae23e6",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1059556/000119312519048576/d679514d10k.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-dfef20fb3f99",
+  "kind": "press_release",
+  "url": "https://bbuc.brookfield.com/bbu/press-releases/brookfield-acquire-cdk-global-inc",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e10167030798",
+  "kind": "web_page",
+  "url": "https://www.cheaterslie.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e10f1989c8a5",
+  "kind": "company_page",
+  "url": "https://jungroup.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e1563c523b35",
+  "kind": "press_release",
+  "url": "https://www.streetinsider.com/PRNewswire/Gemspring+Capital+Acquires+ClearCompany/22180449.html",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e249884c0fc4",
+  "kind": "company_page",
+  "url": "https://www.privaterecords.net/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e2c414179d5d",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1811210",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e30ced6a1305",
+  "kind": "company_page",
+  "url": "https://www.digitalvikingmedia.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e3e43d247f76",
+  "kind": "company_page",
+  "url": "https://inmarket.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e4bcd771f8cb",
+  "kind": "web_page",
+  "url": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Data-Axle-Acquires-Lake-Group-Media-and-DonorBase-148761.aspx",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e6e5e382bd75",
+  "kind": "news",
+  "url": "https://salestechstar.com/sales-intelligence/leadiq-raises-30m-series-b-led-by-cathay-innovation-to-make-sales-teams-hyper-efficient/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e770dd0693ab",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1585521",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e7af21eaf81b",
+  "kind": "company_page",
+  "url": "https://www.connectedinvestors.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e83763bd7d35",
+  "kind": "news",
+  "url": "https://capstonepartners.com/transactions/capstone-partners-represents-edvisors-its-sale-college-loan-corporation",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e8c9f8246f11",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1576427/000157642726000014/exhibit211subsidiariesfy20.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-e9f586670eb4",
+  "kind": "web_page",
+  "url": "https://www.lighthouselist.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ea6d9733c992",
+  "kind": "company_page",
+  "url": "http://www.censia.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-eb0103ac1836",
+  "kind": "company_page",
+  "url": "https://www.mightyrep.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-eb0a60a8d650",
+  "kind": "company_page",
+  "url": "https://www.qualfon.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ecabfa0812ba",
+  "kind": "news",
+  "url": "https://www.builtinchicago.org/articles/civis-analytics-raises-30m-series-b-hiring",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ecc76fae859b",
+  "kind": "company_page",
+  "url": "https://m1-data.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ed265b31dad4",
+  "kind": "company_page",
+  "url": "https://www.disconetwork.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ed579613ec46",
+  "kind": "press_release",
+  "url": "https://www.placera.se/pressmeddelanden/forian-inc-announces-completion-of-tender-offer-and-closing-of-merger-20260515",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ed5d6cfc8898",
+  "kind": "company_page",
+  "url": "https://g2risksolutions.com/privacy-notice/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f012c193f0f9",
+  "kind": "company_page",
+  "url": "https://www.leadloft.com/user-agreements/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f14c1fa1d3d2",
+  "kind": "company_page",
+  "url": "https://madhive.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f183f222ec56",
+  "kind": "company_page",
+  "url": "https://www.warmly.ai/p/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f2119ae02fab",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?company=pubmatic&type=10-K&action=getcompany",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f2a48e0d55d0",
+  "kind": "company_page",
+  "url": "https://www.citydata.ai/privacy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f355ba0dafe9",
+  "kind": "company_page",
+  "url": "https://www.possiblenow.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f3a5a1318253",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos1022026ex21.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f4163ba7e80c",
+  "kind": "web_page",
+  "url": "https://www.verisk.com/company/newsroom/verisk-announces-sale-of-its-marketing-solutions-business-to-activeprospect/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f45ec4252705",
+  "kind": "company_page",
+  "url": "https://www.propbot.com/about",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f54d056d5341",
+  "kind": "company_page",
+  "url": "https://www.modigie.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f6452ce25e54",
+  "kind": "company_page",
+  "url": "https://www.emailindustries.com/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f6e2c2add78d",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1861795/000119312526076782/dh-ex21_1.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f73073d88a75",
+  "kind": "company_page",
+  "url": "https://outlogic.io/privacy-policy/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f7822946a7ae",
+  "kind": "company_page",
+  "url": "https://www.coxautoinc.com/about-us/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f787b543ad68",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1517375",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f7dc77041452",
+  "kind": "company_page",
+  "url": "https://www.malvernmedia.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f8e81f87e6e0",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735226000020/csgp-ex21120251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-f9311ab086be",
+  "kind": "company_page",
+  "url": "https://persistent.id/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fb3145f588ed",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000010/app-20251231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fb6ef55629a5",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1552033/000155203325000015/tru-20241231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fb710f593813",
+  "kind": "company_page",
+  "url": "https://alliantinsight.com/about/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fc3ffa1d4697",
+  "kind": "company_page",
+  "url": "https://www.becausal.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fc42a12d7bbb",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1861233",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fc48674d2766",
+  "kind": "sec_filing",
+  "url": "https://www.sec.gov/Archives/edgar/data/1059556/000105955625000025/mco-20241231.htm",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fcc3cc9552d2",
+  "kind": "news",
+  "url": "https://www.404media.co/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fd8ca4adf4e4",
+  "kind": "web_page",
+  "url": "https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fdedd5f7d57d",
+  "kind": "web_page",
+  "url": "https://www.everconnect.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-fe1f61c34fa8",
+  "kind": "web_page",
+  "url": "https://www.linuxjournal.com/",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ff8f63369cf7",
+  "kind": "company_page",
+  "url": "https://marketops.com",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ },
+ {
+  "id": "web-ffed1532d4d9",
+  "kind": "company_page",
+  "url": "https://www.attribits.com/privacy-policy",
+  "title": null,
+  "publisher": null,
+  "asOf": null,
+  "licence": null
+ }
+]

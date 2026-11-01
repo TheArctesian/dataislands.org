@@ -1,0 +1,625 @@
+[
+ {
+  "broker_id": "360-media-direct",
+  "name": "360 Media Direct",
+  "other_names": [
+   "360 Media Direct",
+   "Subdirect LLC"
+  ],
+  "domains": [
+   "360mediadirect.com",
+   "www360mediadirect.com"
+  ],
+  "page_urls": [
+   "https://360mediadirect.com/about/",
+   "https://360mediadirect.com/",
+   "https://360mediadirect.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Performance marketing and customer acquisition; data sales not shown."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Runs acquisition and distribution through a publisher network; ad-tech fit is inferred, not stated."
+  }
+ },
+ {
+  "broker_id": "aidentified",
+  "name": "Aidentified, Inc.",
+  "other_names": [
+   "AIDENTIFIED Inc",
+   "Aidentified LLC",
+   "Aidentified, Inc."
+  ],
+  "domains": [
+   "aidentified.com"
+  ],
+  "page_urls": [
+   "https://www.aidentified.com/about",
+   "https://www.aidentified.com/",
+   "https://www.aidentified.com/privacy--policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Prospect data platform for wealth managers."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Prospecting software that matches personal profiles for advisers; no listed data category fits."
+  }
+ },
+ {
+  "broker_id": "aniline",
+  "name": "Aniline, Inc.",
+  "other_names": [
+   "Aniline, Inc."
+  ],
+  "domains": [
+   "aniline.ai",
+   "salesassistiq.ai"
+  ],
+  "page_urls": [
+   "https://salesassistiq.ai/",
+   "https://salesassistiq.ai/about/",
+   "https://salesassistiq.ai/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sales intelligence product built on professional data and AI."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sales intelligence software that analyzes professional data for CRM and revenue teams."
+  }
+ },
+ {
+  "broker_id": "automotive-mastermind",
+  "name": "Automotive Mastermind",
+  "other_names": [
+   "Automotive Mastermind"
+  ],
+  "domains": [
+   "automotivemastermind.com"
+  ],
+  "page_urls": [
+   "https://automotivemastermind.com/about-us/index.html",
+   "https://automotivemastermind.com/",
+   "https://www.automotivemastermind.com/privacy-policy/index.html"
+  ],
+  "reader_a": {
+   "label": "insurance-auto",
+   "reason": "Dealership marketing software and data for automotive retail."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Software and marketing platform for car dealerships, not a data broker."
+  }
+ },
+ {
+  "broker_id": "black-pearl",
+  "name": "Black Pearl Group Limited",
+  "other_names": [
+   "BLACK PEARL GROUP LLC",
+   "Black Pearl Group Limited"
+  ],
+  "domains": [
+   "blackpearl.com"
+  ],
+  "page_urls": [
+   "https://www.blackpearl.com/about",
+   "https://www.blackpearl.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Describes AI sales marketing tools for small businesses; data product not specified."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sells AI sales and marketing software for small and medium businesses."
+  }
+ },
+ {
+  "broker_id": "catalist",
+  "name": "Catalist LLC",
+  "other_names": [
+   "CATALIST LLC",
+   "Catalist LLC",
+   "Catalist, LLC"
+  ],
+  "domains": [
+   "catalist.us"
+  ],
+  "page_urls": [
+   "https://catalist.us/",
+   "https://catalist.us/privacy-policy/",
+   "https://catalist.us/privacy-list/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Voter data and analytics for progressive campaigns and organizations."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Political voter database and analytics for progressive campaigns; no listed category fits exactly."
+  }
+ },
+ {
+  "broker_id": "civitech",
+  "name": "Civitech",
+  "other_names": [
+   "Civitech"
+  ],
+  "domains": [
+   "civitech.io"
+  ],
+  "page_urls": [
+   "https://civitech.io/about-us/",
+   "https://civitech.io/",
+   "https://civitech.io/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Voter data and outreach tools for campaigns."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Voter-registration software and proprietary voter data for political campaigns and nonprofits."
+  }
+ },
+ {
+  "broker_id": "crimson-hexagon",
+  "name": "Crimson Hexagon",
+  "other_names": [
+   "CRIMSON HEXAGON Inc",
+   "Crimson Hexagon",
+   "Crimson Hexagon, Inc",
+   "Crimson Hexagon, Inc.",
+   "Falcon.io US, Inc.",
+   "Runtime Collective LLC"
+  ],
+  "domains": [
+   "brandwatch.com"
+  ],
+  "page_urls": [
+   "https://www.brandwatch.com/company/about/",
+   "https://www.brandwatch.com/"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Social media and consumer intelligence analytics under the Brandwatch brand."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Social listening and consumer intelligence software sold to brands; no other category fits."
+  }
+ },
+ {
+  "broker_id": "datasys",
+  "name": "Datasys Group, Inc.",
+  "other_names": [
+   "DATASYS GROUP Inc",
+   "Datasys Group, Inc."
+  ],
+  "domains": [
+   "datasys.com"
+  ],
+  "page_urls": [
+   "https://datasys.com/about-us",
+   "https://datasys.com/",
+   "https://datasys.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Sells data products: identity linkage, intent and modeled audiences."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Identity graph and activation platform for enterprises; audience and data licensing also offered."
+  }
+ },
+ {
+  "broker_id": "displaylogix",
+  "name": "DisplayLogix LLC",
+  "other_names": [
+   "DisplayLogix LLC"
+  ],
+  "domains": [
+   "display-logix.com"
+  ],
+  "page_urls": [
+   "https://www.display-logix.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts too thin or not clearly this company business."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Digital advertising agency offering media buying and strategy; no category fits an agency."
+  }
+ },
+ {
+  "broker_id": "dun-and-bradstreet",
+  "name": "Dun and Bradstreet Inc.",
+  "other_names": [
+   "DUN & BRADSTREET Inc",
+   "Dun & Bradstreet Europe (formerly Bisnode)",
+   "Dun & Bradstreet Inc",
+   "Dun & Bradstreet, Inc",
+   "Dun & Bradstreet, Inc.",
+   "Dun and Bradstreet Inc."
+  ],
+  "domains": [
+   "dnb.com"
+  ],
+  "page_urls": [
+   "https://www.dnb.com/en-us/about.html",
+   "https://www.dnb.com/en-us/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sells verified business records and risk insight on companies."
+  },
+  "reader_b": {
+   "label": "credit-financial",
+   "reason": "Business credit and verified company data used for credit and risk decisions; consumer lending not shown."
+  }
+ },
+ {
+  "broker_id": "exa-labs",
+  "name": "Exa Labs Inc.",
+  "other_names": [
+   "Exa Labs Inc."
+  ],
+  "domains": [
+   "exa.ai"
+  ],
+  "page_urls": [
+   "https://exa.ai/about",
+   "https://exa.ai/",
+   "https://exa.ai/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Web search index and API for AI agents."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Search API software for AI developers and agents, not a data sale."
+  }
+ },
+ {
+  "broker_id": "findem",
+  "name": "Findem, Inc.",
+  "other_names": [
+   "Findem Inc",
+   "Findem, Inc."
+  ],
+  "domains": [
+   "findem.ai"
+  ],
+  "page_urls": [
+   "https://www.findem.ai/about-us",
+   "https://www.findem.ai/",
+   "https://trust.findem.ai/resources?s=n7l858orxkidow6l1kxp9&name=privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Talent data platform for recruiting and hiring."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "AI recruiting and talent software holding candidate data; fits no other category."
+  }
+ },
+ {
+  "broker_id": "h1-insights",
+  "name": "H1 Insights, Inc.",
+  "other_names": [
+   "H1 Insights Inc.",
+   "H1 Insights, Inc."
+  ],
+  "domains": [
+   "h1.co",
+   "h1insights.com"
+  ],
+  "page_urls": [
+   "https://h1.com/",
+   "https://h1.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "health",
+   "reason": "Healthcare professional and clinical trial data and software for life sciences."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts come from h1.com, not a listed domain, and nothing ties them to this company."
+  }
+ },
+ {
+  "broker_id": "klarifi",
+  "name": "Klarifi",
+  "other_names": [
+   "Klarifi",
+   "Klarifi ApS"
+  ],
+  "domains": [
+   "klarifi.io"
+  ],
+  "page_urls": [
+   "https://klarifi.io/about-us",
+   "https://klarifi.io/",
+   "https://klarifi.io/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Wastewater market intelligence platform for sales teams."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "Sells wastewater facility data for sales prospecting; contact data implied, not stated."
+  }
+ },
+ {
+  "broker_id": "lempire-talkus",
+  "name": "LEMPIRE (TALKUS)",
+  "other_names": [
+   "LEMPIRE (TALKUS)"
+  ],
+  "domains": [
+   "lemlist.com"
+  ],
+  "page_urls": [
+   "https://www.lemlist.com/",
+   "https://www.lemlist.com/legal/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Outbound sales platform with lead database and finders."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Outreach software bundling a 650M+ lead database and email finder."
+  }
+ },
+ {
+  "broker_id": "logictree",
+  "name": "LogicTree, Inc.",
+  "other_names": [
+   "LogicTree, Inc."
+  ],
+  "domains": [
+   "data247.com"
+  ],
+  "page_urls": [
+   "https://www.data247.com/",
+   "https://www.data247.com/privacy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Contact-data append, phone and email verification, carrier lookup and fraud detection services."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sells contact-data verification, carrier and DNC lookups, and appends to businesses; no category fits cleanly."
+  }
+ },
+ {
+  "broker_id": "melissa-data",
+  "name": "Melissa Data Corporation",
+  "other_names": [
+   "MELISSA DATA CORPORATION",
+   "Melissa Corporation",
+   "Melissa Data Corporation"
+  ],
+  "domains": [
+   "melissa.com"
+  ],
+  "page_urls": [
+   "https://www.melissa.com/",
+   "https://www.melissa.com/privacy-policy",
+   "https://www.melissa.com/privacy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Contact data quality, address verification, identity verification and marketing lists."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sells address, contact and identity data-quality verification software."
+  }
+ },
+ {
+  "broker_id": "neptune-ops",
+  "name": "Neptune Ops LLC",
+  "other_names": [
+   "Neptune Ops LLC"
+  ],
+  "domains": [
+   "neptuneops.com"
+  ],
+  "page_urls": [
+   "https://neptuneops.com/",
+   "https://neptuneaii.com/legal/privacy-policy",
+   "https://neptuneops.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Ad targeting, analytics and campaign management platform."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing analytics, campaign management and AI ad-targeting services; fits no listed category."
+  }
+ },
+ {
+  "broker_id": "pacific-east-research",
+  "name": "Pacific East Research Inc",
+  "other_names": [
+   "PACIFIC EAST RESEARCH Inc",
+   "Pacific East Research Inc",
+   "Pacificeast Research",
+   "Pacificeast Research Inc."
+  ],
+  "domains": [
+   "pacificeast.com"
+  ],
+  "page_urls": [
+   "https://www.pacificeast.com/who-we-are/",
+   "https://www.pacificeast.com/",
+   "https://www.pacificeast.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "PacificEast sells contact data enrichment and verification, plus branded caller ID."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Branded-call and data enrichment and verification services; no listed category fits cleanly."
+  }
+ },
+ {
+  "broker_id": "prospectbase-uk",
+  "name": "ProspectBase UK Limited",
+  "other_names": [
+   "ProspectBase UK Limited"
+  ],
+  "domains": [
+   "prospectbase.com"
+  ],
+  "page_urls": [
+   "https://www.prospectbase.com/about",
+   "https://www.prospectbase.com/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "B2B content syndication and account-based marketing services; data sales not clearly shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "B2B marketing services spanning content syndication, display ads and email; no data category fits."
+  }
+ },
+ {
+  "broker_id": "reveal-mobile",
+  "name": "Reveal Mobile, Inc.",
+  "other_names": [
+   "Reveal Mobile",
+   "Reveal Mobile Inc",
+   "Reveal Mobile, Inc."
+  ],
+  "domains": [
+   "revealmobile.com"
+  ],
+  "page_urls": [
+   "https://revealmobile.com/about",
+   "https://revealmobile.com/",
+   "https://revealmobile.com/privacy"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Out-of-home ad measurement platform built on location data."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Out-of-home ad measurement software; location data is an input, not the product sold."
+  }
+ },
+ {
+  "broker_id": "semasio-gmbh",
+  "name": "Semasio GmbH",
+  "other_names": [
+   "SEMASIO Inc",
+   "Semasio GmbH",
+   "Semasio, Inc."
+  ],
+  "domains": [
+   "semasio.com"
+  ],
+  "page_urls": [
+   "https://www.semasio.com/company/about",
+   "https://www.semasio.com/",
+   "https://www.semasio.com/legal/privacy-policies"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Audience and contextual targeting segments for advertisers."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Audience targeting, contextual and programmatic ad products, with audience sales as part."
+  }
+ },
+ {
+  "broker_id": "statara-solutions",
+  "name": "Statara Solutions LLC",
+  "other_names": [
+   "STATARA SOLUTIONS LLC",
+   "Statara Solutions LLC"
+  ],
+  "domains": [
+   "statara.com"
+  ],
+  "page_urls": [
+   "https://statara.com/about/",
+   "https://statara.com/",
+   "https://statara.com/privacy-policy-2/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Audience data, media and outreach firm for campaigns and associations."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Full-service polling, consulting and campaign firm; data is one part, fits no category."
+  }
+ },
+ {
+  "broker_id": "titan-locators",
+  "name": "Titan Locators",
+  "other_names": [
+   "Titan Locators"
+  ],
+  "domains": [
+   "secondchanceapartments.com"
+  ],
+  "page_urls": [
+   "https://secondchanceapartments.com/about-apartment-rental-agency/",
+   "https://secondchanceapartments.com/",
+   "https://secondchanceapartments.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Apartment locator service for renters."
+  },
+  "reader_b": {
+   "label": "property",
+   "reason": "Rental locator site matching renters to landlords; a real estate listing service, not a records seller."
+  }
+ },
+ {
+  "broker_id": "vizio-services",
+  "name": "VIZIO Services, LLC",
+  "other_names": [
+   "VIZIO Services, LLC"
+  ],
+  "domains": [
+   "inscape.tv",
+   "vizio.com"
+  ],
+  "page_urls": [
+   "https://www.inscape.tv/about",
+   "https://www.inscape.tv/",
+   "https://www.vizio.com/en/about-vizio"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Sells smart TV viewership data for measurement and audience analysis."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells TV viewing audience data from ACR; marketing use implied, not stated as lists."
+  }
+ }
+]

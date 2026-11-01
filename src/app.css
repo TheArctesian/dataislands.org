@@ -1,0 +1,54 @@
+/* Arial scaled to the web fonts' widths, so text does not rewrap when they arrive. */
+@font-face { font-family: "Atkinson Fallback"; src: local("Arial"); size-adjust: 98.8%; }
+@font-face { font-family: "Bricolage Fallback"; src: local("Arial"); font-weight: 700; size-adjust: 101.8%; }
+:root {
+  --sky: #8fcbe3;
+  --sky-low: #cfe9ee;
+  --cloud: #f6fbfb;
+  --ink: #14304a;
+  --muted: #47637a;
+  --sun: #f7c744;
+  --link: #0b5e8c;
+  --display: "Bricolage Grotesque Variable", "Bricolage Fallback", ui-sans-serif, sans-serif;
+  --motion-fast: 120ms;
+  --motion-travel: 220ms;
+  --motion-page: 300ms;
+  --motion-ease: cubic-bezier(.2, .7, .2, 1);
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { background: var(--sky); }
+body { margin: 0; min-height: 100dvh; background: linear-gradient(var(--sky), var(--sky-low) 90vh) fixed; color: var(--ink); font: 1.0625rem/1.55 "Atkinson Hyperlegible", "Atkinson Fallback", ui-sans-serif, sans-serif; }
+h1, h2 { font-family: var(--display); line-height: 1.05; font-weight: 700; }
+a { color: var(--link); }
+:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+.sheet { position: relative; z-index: 1; max-width: 46rem; padding: clamp(1.25rem, 4vw, 2.5rem); background: var(--cloud); border-radius: 0.4rem 2.5rem 2.5rem 2.5rem; }
+.sheet h1 { margin: 0 0 0.5rem; font-size: clamp(2rem, 5vw, 3.25rem); overflow-wrap: anywhere; }
+.sheet h2 { margin: 2rem 0 0.4rem; font-size: 1.4rem; }
+.sheet p { max-width: 65ch; }
+.muted { color: var(--muted); }
+
+::view-transition-group(*) { animation-duration: var(--motion-page); animation-timing-function: var(--motion-ease); }
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: var(--motion-fast); animation-timing-function: var(--motion-ease); }
+:root[data-island-travel] { --travel-origin: var(--travel-x, 50vw) var(--travel-y, 50vh); }
+:root[data-island-travel]::view-transition-old(root), :root[data-island-travel]::view-transition-new(root) { animation-duration: var(--motion-page); transform-origin: var(--travel-origin); }
+:root[data-island-travel="in"]::view-transition-old(root) { animation-name: travel-away-large; }
+:root[data-island-travel="in"]::view-transition-new(root) { animation-name: travel-arrive-small; }
+:root[data-island-travel="out"]::view-transition-old(root) { animation-name: travel-away-small; }
+:root[data-island-travel="out"]::view-transition-new(root) { animation-name: travel-arrive-large; }
+@keyframes travel-away-large { to { opacity: 0; transform: scale(1.3); } }
+@keyframes travel-arrive-small { from { opacity: 0; transform: scale(.92); } }
+@keyframes travel-away-small { to { opacity: 0; transform: scale(.92); } }
+@keyframes travel-arrive-large { from { opacity: 0; transform: scale(1.3); } }
+/* The chosen island travels on its own, and everything around it changes behind it. */
+:root[data-island-shared][data-island-travel]::view-transition-old(root) { animation: travel-fade-out var(--motion-fast) var(--motion-ease) both; transform: none; }
+:root[data-island-shared][data-island-travel]::view-transition-new(root) { animation: travel-fade-in var(--motion-page) var(--motion-ease) both; transform: none; }
+::view-transition-old(island-travel), ::view-transition-new(island-travel) { width: 100%; height: 100%; object-fit: contain; animation-duration: var(--motion-page); animation-timing-function: var(--motion-ease); }
+::view-transition-old(island-icons) { animation: travel-fade-out var(--motion-fast) var(--motion-ease) both; }
+::view-transition-new(island-icons) { animation: travel-fade-in var(--motion-fast) var(--motion-ease) 180ms both; }
+@keyframes travel-fade-out { to { opacity: 0; } }
+@keyframes travel-fade-in { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  :root[data-island-travel]::view-transition-old(root), :root[data-island-travel]::view-transition-new(root) { animation-duration: var(--motion-fast); animation-name: -ua-view-transition-fade-out; transform: none; }
+  :root[data-island-travel]::view-transition-new(root) { animation-name: -ua-view-transition-fade-in; }
+}

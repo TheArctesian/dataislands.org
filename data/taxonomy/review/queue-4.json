@@ -1,0 +1,618 @@
+[
+ {
+  "broker_id": "above-data",
+  "name": "Above Data, Inc.",
+  "other_names": [
+   "Above Data, Inc."
+  ],
+  "domains": [
+   "abovedata.io"
+  ],
+  "page_urls": [
+   "https://www.abovedata.io/",
+   "https://www.abovedata.io/privacy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Infrastructure described abstractly; product not clearly shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Software infrastructure that normalizes and governs consumer data; no list or ad-buying product is shown."
+  }
+ },
+ {
+  "broker_id": "aluum-d-b-a-gateway-data",
+  "name": "Aluum LLC d/b/a Gateway Data",
+  "other_names": [
+   "Aluum LLC d/b/a Gateway Data"
+  ],
+  "domains": [
+   "gatewaydata.io"
+  ],
+  "page_urls": [
+   "https://www.gatewaydata.io/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Alumni records database for university outreach and fundraising."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Alumni database software for university advancement and athletics departments."
+  }
+ },
+ {
+  "broker_id": "asl-marketing-a-deep-sync-property",
+  "name": "ASL Marketing, a Deep Sync Property",
+  "other_names": [
+   "ACCUDATA INTEGRATED Marketing, Inc.",
+   "ASL Marketing",
+   "ASL Marketing, a Deep Sync Property",
+   "AccuData Integrated Marketing, Inc.",
+   "Accudata Integrated Marketing",
+   "Accudata Integrated Marketing, Inc."
+  ],
+  "domains": [
+   "accudata.com",
+   "acculeads.com",
+   "aslmarketing.com",
+   "cisdirect.com",
+   "compactlists.com",
+   "deepsync.com"
+  ],
+  "page_urls": [
+   "https://deepsync.com/leadership"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Only a leadership page; business not stated plainly."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Identity signals, audiences and customer matching; the excerpt is a thin leadership page."
+  }
+ },
+ {
+  "broker_id": "bdo-gci",
+  "name": "BDO GCI, LLC",
+  "other_names": [
+   "BDO GCI, LLC",
+   "BDO Gci, LLC",
+   "BDO USA, LLP"
+  ],
+  "domains": [
+   "bdo.com"
+  ],
+  "page_urls": [
+   "https://www.bdo.com/about",
+   "https://www.bdo.com/",
+   "https://www.bdo.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts show an accounting and advisory firm, not a data business."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Accounting and advisory firm; the excerpt is for BDO USA and shows no data-broker business."
+  }
+ },
+ {
+  "broker_id": "business-com",
+  "name": "Business.Com",
+  "other_names": [
+   "Business.Com"
+  ],
+  "domains": [
+   "business.com"
+  ],
+  "page_urls": [
+   "https://www.business.com:443/about-us/",
+   "https://www.business.com:443/",
+   "https://www.business.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Software and services review publisher; no data product shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Reviews and guides for small-business software and services."
+  }
+ },
+ {
+  "broker_id": "censia",
+  "name": "Censia, Inc.",
+  "other_names": [
+   "Censia",
+   "Censia, Inc",
+   "Censia, Inc."
+  ],
+  "domains": [
+   "censia.com"
+  ],
+  "page_urls": [
+   "http://www.censia.com/about/",
+   "https://www.censia.com/",
+   "https://www.censia.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Talent intelligence and recruiting data platform for employers."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Workforce and talent-intelligence software for recruiting and HR teams."
+  }
+ },
+ {
+  "broker_id": "connatix-native-exchange",
+  "name": "Connatix Native Exchange Inc.",
+  "other_names": [
+   "Connatix Native Exchange Inc."
+  ],
+  "domains": [
+   "jwx.com"
+  ],
+  "page_urls": [
+   "https://jwx.com/about-us",
+   "https://jwx.com/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Page shows a video publishing and monetization platform, not a data seller."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Video monetization and advertising platform on packet domain jwx.com; page does not name the listed company."
+  }
+ },
+ {
+  "broker_id": "databaseusa-com",
+  "name": "Databaseusa.Com LLC",
+  "other_names": [
+   "Databaseusa",
+   "Databaseusa.Com LLC"
+  ],
+  "domains": [
+   "databaseusa.com"
+  ],
+  "page_urls": [
+   "https://databaseusa.com/index.php/404-page/",
+   "https://databaseusa.com/",
+   "https://databaseusa.com/index.php/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Sells mailing lists, email lists, and business and consumer databases."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "Sells business and executive databases, sales leads and mailing lists for sales and marketing."
+  }
+ },
+ {
+  "broker_id": "deep-root-analytics",
+  "name": "Deep Root Analytics, LLC",
+  "other_names": [
+   "Deep Root Analytics, LLC"
+  ],
+  "domains": [
+   "deeprootanalytics.com"
+  ],
+  "page_urls": [
+   "https://www.deeprootanalytics.com/",
+   "https://www.deeprootanalytics.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Voter data and targeting for political campaigns."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Political campaign voter-insight consulting; no listed category fits political data services."
+  }
+ },
+ {
+  "broker_id": "donorbureau",
+  "name": "DonorBureau LLC",
+  "other_names": [
+   "DonorBureau LLC"
+  ],
+  "domains": [
+   "donorbureau.com"
+  ],
+  "page_urls": [
+   "https://donorbureau.com/about",
+   "https://donorbureau.com/",
+   "https://donorbureau.com/california-privacy-rights"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Fundraising donor data and predictive analytics."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Predictive analytics and advocacy campaign services for nonprofits; no list product is shown."
+  }
+ },
+ {
+  "broker_id": "emailmovers",
+  "name": "Emailmovers Ltd",
+  "other_names": [
+   "Emailmovers Ltd"
+  ],
+  "domains": [
+   "emailmovers.com"
+  ],
+  "page_urls": [
+   "https://emailmovers.com/about-us/",
+   "https://emailmovers.com/",
+   "https://emailmovers.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sells business and consumer email data lists, mainly UK."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells UK business and consumer email lists plus data-cleansing services for marketers."
+  }
+ },
+ {
+  "broker_id": "famous-birthdays",
+  "name": "Famous Birthdays LLC",
+  "other_names": [
+   "Famous Birthdays LLC",
+   "Famous Birthdays, LLC"
+  ],
+  "domains": [
+   "famousbirthdays.com"
+  ],
+  "page_urls": [
+   "https://www.famousbirthdays.com/about/",
+   "https://www.famousbirthdays.com/",
+   "https://www.famousbirthdays.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Celebrity profile and trivia website."
+  },
+  "reader_b": {
+   "label": "people-search",
+   "reason": "Public profile pages of named celebrities with name search; fits the shows-profiles test only."
+  }
+ },
+ {
+  "broker_id": "forewarn",
+  "name": "Forewarn, LLC",
+  "other_names": [
+   "FOREWARN LLC",
+   "FOREWARN, LLC",
+   "Forewarn, LLC"
+  ],
+  "domains": [
+   "forewarn.com"
+  ],
+  "page_urls": [
+   "https://www.forewarn.com/"
+  ],
+  "reader_a": {
+   "label": "fraud-identity-verification",
+   "reason": "App verifies identity of a person from a phone number for professionals."
+  },
+  "reader_b": {
+   "label": "people-search",
+   "reason": "Phone-based identity and criminal-history lookups on named individuals, sold to professionals."
+  }
+ },
+ {
+  "broker_id": "infogroup",
+  "name": "Infogroup Inc.",
+  "other_names": [
+   "Infogroup Inc."
+  ],
+  "domains": [
+   "infogroup.com"
+  ],
+  "page_urls": [
+   "https://www.data-axle.com/about-us/",
+   "https://www.data-axle.com:443/",
+   "https://www.data-axle.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Licenses consumer and business data profiles for marketing."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts come from data-axle.com, which the packet does not tie to this company's name."
+  }
+ },
+ {
+  "broker_id": "leadership-connect",
+  "name": "Leadership Connect",
+  "other_names": [
+   "Leadership Connect"
+  ],
+  "domains": [
+   "leadershipconnect.io"
+  ],
+  "page_urls": [
+   "https://leadershipconnect.io/company/",
+   "https://leadershipconnect.io/",
+   "https://leadershipconnect.io/privacy-portal/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Contact data on government and policy personnel."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Subscription database of government officials and staff contacts for lobbying and contracting."
+  }
+ },
+ {
+  "broker_id": "listkit",
+  "name": "ListKit LLC",
+  "other_names": [
+   "ListKit LLC"
+  ],
+  "domains": [
+   "listkit.io"
+  ],
+  "page_urls": [
+   "https://www.listkit.io/about",
+   "https://www.listkit.io/",
+   "https://www.listkit.io/privacy"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Cold email platform with a B2B contact database."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Cold-email software bundling sending infrastructure with a 977M+ B2B contact database."
+  }
+ },
+ {
+  "broker_id": "machintel",
+  "name": "Machintel",
+  "other_names": [
+   "MACHINTEL Inc",
+   "Machintel",
+   "Machintel Inc."
+  ],
+  "domains": [
+   "machintel.com"
+  ],
+  "page_urls": [
+   "https://machintel.com/about-us/",
+   "https://machintel.com/",
+   "https://machintel.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "B2B demand and lead generation services including audience data."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "B2B demand-generation and marketing services firm; no data-sale category fits."
+  }
+ },
+ {
+  "broker_id": "mogean",
+  "name": "Mogean, Inc.",
+  "other_names": [
+   "Mogean, Inc",
+   "Mogean, Inc."
+  ],
+  "domains": [
+   "mogean.com"
+  ],
+  "page_urls": [
+   "https://www.mogean.com/",
+   "https://www.mogean.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "location",
+   "reason": "Places dataset and location-based out-of-home exposure measurement."
+  },
+  "reader_b": {
+   "label": "investor-web",
+   "reason": "Sells US places data and market analytics; some exposure measurement uses device location."
+  }
+ },
+ {
+  "broker_id": "on-hold-america",
+  "name": "On Hold-America, Inc.",
+  "other_names": [
+   "On Hold-America, Inc."
+  ],
+  "domains": [
+   "kycdata.com"
+  ],
+  "page_urls": [
+   "https://www.kycdata.com/",
+   "https://www.kycdata.com/privacy-policy-2/"
+  ],
+  "reader_a": {
+   "label": "property",
+   "reason": "Sells new homeowner and mortgage data for direct mail marketing."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells weekly new-homeowner and mortgage lead data for direct mail campaigns."
+  }
+ },
+ {
+  "broker_id": "postie",
+  "name": "Postie, Inc",
+  "other_names": [
+   "POSTIE Inc",
+   "Postie",
+   "Postie, Inc"
+  ],
+  "domains": [
+   "postie.com"
+  ],
+  "page_urls": [
+   "https://postie.com/about-us/",
+   "https://postie.com/",
+   "https://postie.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Direct mail platform with audience targeting, retargeting and measurement."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Direct mail and audience-activation services, including retargeting and lookalike audiences."
+  }
+ },
+ {
+  "broker_id": "reach-marketing",
+  "name": "Reach Marketing LLC",
+  "other_names": [
+   "Reach Marketing LLC"
+  ],
+  "domains": [
+   "reachmarketing.com"
+  ],
+  "page_urls": [
+   "https://reachmarketing.com/about/",
+   "https://reachmarketing.com/",
+   "https://reachmarketing.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "B2B lead generation, list building and email marketing agency."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "B2B lead-generation agency offering list building and sales-qualified leads."
+  }
+ },
+ {
+  "broker_id": "ror-partners",
+  "name": "ROR Partners, LLC",
+  "other_names": [
+   "ROR Partners, LLC"
+  ],
+  "domains": [
+   "rorpartners.com"
+  ],
+  "page_urls": [
+   "https://rorpartners.com/",
+   "https://rorpartners.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Fitness marketing agency; excerpts do not show a data product."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Performance marketing agency for fitness brands; no data category fits the shown service."
+  }
+ },
+ {
+  "broker_id": "slashdot-media",
+  "name": "Slashdot Media, LLC",
+  "other_names": [
+   "Slashdot Media, LLC"
+  ],
+  "domains": [
+   "linuxjournal.com",
+   "myrateplan.com",
+   "slashdot.org",
+   "slashdotmedia.com",
+   "sourceforge.net",
+   "voipreview.org"
+  ],
+  "page_urls": [
+   "https://www.linuxjournal.com/",
+   "https://www.myrateplan.com/about",
+   "https://www.myrateplan.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts show news and phone-plan comparison sites; its own business is not shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Runs tech news and phone-plan comparison websites; no data category fits."
+  }
+ },
+ {
+  "broker_id": "tax-credit",
+  "name": "Tax Credit Co., LLC",
+  "other_names": [
+   "Corporate Cost Control, Inc.",
+   "Employment Tax Servicing, LLC",
+   "Experian Employer Services, Inc.",
+   "Frontline Esolutions, LLC",
+   "Tax Credit Co., LLC"
+  ],
+  "domains": [
+   "experianverify.com"
+  ],
+  "page_urls": [
+   "https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify/about-us",
+   "https://www.experian.com/employer-services/products/verification-fulfillment/experian-verify"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Only an Experian page; unclear it shows this company's business."
+  },
+  "reader_b": {
+   "label": "employment-screening",
+   "reason": "Employment and income verification fulfillment for employers; a bot-check page was ignored."
+  }
+ },
+ {
+  "broker_id": "vi-technologies",
+  "name": "Vi Technologies, Inc.",
+  "other_names": [
+   "Vi Technologies, Inc."
+  ],
+  "domains": [
+   "vi.co"
+  ],
+  "page_urls": [
+   "https://vi.co/about-vi/",
+   "https://vi.co/",
+   "https://vi.co/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Sells AI platform to health and life sciences enterprises."
+  },
+  "reader_b": {
+   "label": "health",
+   "reason": "Sells AI platforms to health enterprises; health focus stated, data sale implied."
+  }
+ },
+ {
+  "broker_id": "zerotoone-ai",
+  "name": "ZeroToOne.AI Inc.",
+  "other_names": [
+   "ZeroToOne.AI Inc."
+  ],
+  "domains": [
+   "zerotoone.ai"
+  ],
+  "page_urls": [
+   "https://www.zerotoone.ai/",
+   "https://www.zerotoone.ai/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Predictive audience platform for brand advertising."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Predictive AI advertising platform selling audiences and media targeting to brands."
+  }
+ }
+]

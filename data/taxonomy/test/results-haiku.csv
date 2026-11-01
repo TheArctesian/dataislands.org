@@ -1,0 +1,51 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+whitepages,people-search,property,high,https://www.whitepages.com/about,People Search Reverse Phone Reverse Address,Sells people search and reverse phone or address lookups; property data is a listed product line.
+upcell,b2b-contacts,,medium,https://www.upcell.io/about,Platform Prospector Chrome extension Multi-vendor enrichment,Sales-prospecting platform with a Chrome extension and multi-vendor contact enrichment for B2B reps.
+multimedia-lists,marketing-audiences,,high,https://multimedialists.com/privacy-policy/,provides a range of data marketing and consumer analytics products,"Sells marketing lists, data appends and data licensing for direct mail and email marketers."
+whoodle,unclear,,low,,,"No excerpts; the name, domain and data types do not show what the company sells."
+data-axle,marketing-audiences,b2b-contacts,high,https://www.data-axle.com/privacy-policy/,Privacy-first profiles of people with over 300 attributes.,"Sells consumer profiles and business data for marketing, with acquisition email and data licensing."
+veraset,location,adtech-identity,high,https://www.veraset.com/legal/do-not-sell-request#consumer-opt-out-do-not-sell-request,Transform GPS signals into business intelligence,Sells mobility datasets built from billions of daily GPS pings; identity matching is a secondary line.
+graze-social-pbc,unclear,,medium,,,Sells feed-curation tools for Bluesky curators; no category covers this software business.
+grata,investor-web,,high,https://grata.com/legal/privacy-policy,Turn market signals into actionable deal lists,Sells company search and deal-sourcing market intelligence to private equity and investment banks.
+zeotap-gmbh,unclear,,low,,,No excerpts; the name and registry declarations do not show what the company sells.
+intelius,people-search,,medium,https://www.arrestrecordsearch.com/privacy-policy,"Our web sites include PeopleConnect.us, Classmates.com, Intelius.com and USSearch.com",Privacy policy names people-search and records sites; the excerpt does not state the product itself.
+dun-and-bradstreet,unclear,,low,,,No excerpts; registry data types alone do not establish the company's main product.
+exact-match-marketing,adtech-identity,b2b-contacts,medium,https://exactmatchmarketing.com/privacy-policy,Website Visitor Identifier Enhanced Search ID B2B Data,Navigation lists visitor identification and identity search as solutions; only nav text is shown.
+great-lakes-list,unclear,,low,,,Excerpts are only a heading; the name and data types do not establish the business.
+onfocus-sas,adtech-identity,,high,https://adagio.io,Demand Path Optimization for Web & App Publishers,Sells ad-tech demand path optimization and open bidding to web and app publishers.
+fastpeoplesearch,people-search,,high,https://www.fastpeoplesearch.com/privacy,NAME PHONE ADDRESS NEAR ME,"Search page offers name, phone and address lookups; the privacy notice covers its data products."
+komodo-health,health,,high,https://www.komodohealth.com/,Healthcare AI & Real-World Data Analytics for Life Sciences,Sells de-identified patient-level healthcare data and AI analytics to life sciences companies.
+id5-technology,adtech-identity,,high,https://id5.io/about,We elevate digital advertising through Adaptive Identity,Sells adaptive identity infrastructure used to connect audiences for digital advertising.
+truthfinder,unclear,,low,,,"Domains suggest records or background searches, but no excerpt states what the company sells."
+localblox,unclear,,low,,,No excerpts; the name and registry declarations do not show the business.
+occulytics,marketing-audiences,b2b-contacts,medium,https://www.occulytics.com/privacy-policy,Lead Gen Hyper-Targeted Direct Mail List,"Sells lead scoring, enrichment and direct-mail lists to sales and marketing teams."
+healthcare,unclear,,low,,,Excerpts are page titles only; a health-plan heading does not show a data business.
+radaris,unclear,,low,,,Excerpt is a court-ordered domain seizure notice that does not describe the products.
+property-reach-l-p,property,marketing-audiences,high,https://www.propertyreach.com/privacy/,Property Data Property Search Property Owner Lookup,Sells property owner and property data lookups; real estate lead lists and skip tracing are secondary.
+infopay,unclear,,low,,,"Court-records domains, but the company excerpt does not state products; an off-packet excerpt was not used."
+mylife,unclear,,low,,,No excerpts; a sensitive-data declaration alone does not show what the company sells.
+swipejobs,unclear,,medium,,,Sells a staffing and jobs-matching platform; no category covers recruiting marketplaces.
+book-your-data,b2b-contacts,marketing-audiences,high,https://www.bookyourdata.com,Buy Email List | Verified Business Email Marketing Database,Sells verified business email lists and direct dials for sales prospecting.
+app-science,adtech-identity,,high,https://www.appscience.ai/privacy-policy,"offers data analytics, attribution, measurement and ad targeting","Sells measurement, attribution and ad targeting for TV and mobile using a household identity graph."
+lead-me-media,unclear,,low,,,Privacy policy lists data categories only; the excerpt does not state the business.
+vertify,unclear,,medium,,,Sells RevOps automation and CRM data-orchestration software; no category covers revenue software.
+hgonline,b2b-contacts,,high,https://www.tripwiredata.com/about,detects new businesses within days of appearing,Sells new-business lead data for Texas to insurance agents and B2B sales teams.
+tauxbe-data,unclear,,low,,,About page is template boilerplate; the privacy statement does not say what services are sold.
+us-data,unclear,,low,,,No excerpts; the name and data types alone do not show the business.
+data-partners,marketing-audiences,b2b-contacts,medium,https://www.datapartners.com/privacy-policy/,Email Solutions B2C B2B,Navigation shows email solutions for consumers and businesses plus mover and homeowner marketing sites.
+peekyou,unclear,,low,,,Excerpt is a court-ordered domain update; it does not describe PeekYou's products.
+towerdata,fraud-identity-verification,adtech-identity,high,https://towerdata.com/privacy-policy/,Validate Identities Assess Identity Risk Resolve & Link Profiles,Core capabilities are identity validation and fraud-risk scoring; identity graphs and audiences are secondary.
+klarifi,b2b-contacts,,medium,https://klarifi.io/privacy-policy,to assist them in better sales and marketing to potential prospects,Sells wastewater facility data and market intelligence to help businesses reach sales prospects.
+solar-connect,unclear,,low,,,"Name and domains suggest lead generation, but the excerpts are generic privacy text."
+fair-screen,employment-screening,,high,https://fairscreen.com/privacy-policy/,FairScreen offers a comprehensive menu of over 100 service choices,"Sells background screening packages for employers, landlords and other clients."
+adeptid,unclear,,medium,,,Sells AI talent-matching and staffing software; no category covers recruiting software.
+innovis-data-solutions,credit-financial,fraud-identity-verification,high,https://innovis.com/privacy,Services Credit Report Security Freeze Dispute Resolution Fraud Alert,Consumer credit reports and freezes are the main services; business fraud and KYC products are secondary.
+peoplefinders,unclear,,low,,,No excerpts; the name and domains alone do not establish the business.
+ventiveiq,marketing-audiences,adtech-identity,high,https://ventiveiq.com,Curated Audiences Graph & Data Licensing Digital Activation,"Sells consumer audiences, data appends and data licensing to marketers; identity graphs are secondary."
+cic-mortgage-credit,credit-financial,,high,https://www.ciccredit.com/information-security-policy/,Credit Reports Rapid Rescore Loanshield Smart Select,"Navigation lists credit reports, rescore and mortgage credit products for lending clients."
+indiemark,fraud-identity-verification,marketing-audiences,medium,https://blackbox.email/privacy-policy,"a wide variety of risk assessment, data enhancements and analytic services","Provides email risk assessment, verification and data enhancement services to marketers and platforms."
+all-global-resources,unclear,,low,,,No excerpts; the name and domains alone do not show the business.
+site-impact,marketing-audiences,adtech-identity,medium,https://siteimpact.com/privacy-policy,Email Enhanced Audience Data Additional Services,Provides audience data and email enhancement services for marketers; an identity graph is also listed.
+webbula,marketing-audiences,,high,https://webbula.com/privacy-policy/,Email Appending Demographic Appends Behavioral Appends,"Sells data appends, audience segments and targeted-advertising data for marketers."
+oracle-america,unclear,,low,,,No excerpts; the name and registry declaration do not show which business is in scope.
+tunnl,adtech-identity,marketing-audiences,medium,https://www.tunnldata.com/privacy-policy,Everything you need in one closed-loop platform,"Sells audience, measurement and activation tools for advertising and stakeholder targeting."

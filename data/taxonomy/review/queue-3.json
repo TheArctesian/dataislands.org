@@ -1,0 +1,620 @@
+[
+ {
+  "broker_id": "5x5-us",
+  "name": "5x5 US, LLC",
+  "other_names": [
+   "5X5 US LLC",
+   "5X5 Us, LLC",
+   "5x5 US, LLC"
+  ],
+  "domains": [
+   "5x5coop.com",
+   "5x5data.com",
+   "join5x5.com"
+  ],
+  "page_urls": [
+   "https://5x5data.com/about/",
+   "https://5x5data.com/",
+   "https://5x5data.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Person, company and device linkage data co-op; mixed offering."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "B2B person and company data and validation for sales and recruiting; identity products are secondary."
+  }
+ },
+ {
+  "broker_id": "altrata",
+  "name": "Altrata, Inc.",
+  "other_names": [
+   "ALTRATA Inc",
+   "Altrata, Inc."
+  ],
+  "domains": [
+   "altrata.com"
+  ],
+  "page_urls": [
+   "https://altrata.com/about-us",
+   "https://altrata.com/",
+   "https://altrata.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Wealth intelligence on affluent individuals for fundraising, marketing and prospecting."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "Wealth intelligence and relationship mapping of business leaders and affluent individuals for organizations."
+  }
+ },
+ {
+  "broker_id": "aristotle-international",
+  "name": "Aristotle International, Inc.",
+  "other_names": [
+   "ARISTOTLE INTERNATIONAL Inc",
+   "Aristotle International Inc.",
+   "Aristotle International, Inc."
+  ],
+  "domains": [
+   "aristotle.com"
+  ],
+  "page_urls": [
+   "https://www.aristotle.com/about/",
+   "https://www.aristotle.com/",
+   "https://www.aristotle.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Political data, campaign software and consulting; mentions identity verification."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Political campaign software, compliance and consulting, plus political and consumer data."
+  }
+ },
+ {
+  "broker_id": "babel-street",
+  "name": "Babel Street, Inc.",
+  "other_names": [
+   "Babel Street, Inc."
+  ],
+  "domains": [
+   "babelstreet.com"
+  ],
+  "page_urls": [
+   "https://www.babelstreet.com/about-us",
+   "https://www.babelstreet.com/",
+   "https://www.babelstreet.com/privacy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Risk intelligence platform for governments; buyer type and data product not clearly in a category."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Sells risk intelligence and identity checks to governments and businesses."
+  }
+ },
+ {
+  "broker_id": "bushwick-growbots",
+  "name": "Bushwick Growbots LLC",
+  "other_names": [
+   "Bushwick Growbots LLC",
+   "Growbots Inc",
+   "Growbots Inc."
+  ],
+  "domains": [
+   "growbots.com"
+  ],
+  "page_urls": [
+   "https://www.growbots.com/about-us/",
+   "https://www.growbots.com/",
+   "https://www.growbots.com/privacy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sales prospecting database with outreach tools."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Outbound sales software with lead prospecting and an email finder."
+  }
+ },
+ {
+  "broker_id": "cbcinnovis",
+  "name": "Cbcinnovis, Inc.",
+  "other_names": [
+   "Cbcinnovis, Inc."
+  ],
+  "domains": [
+   "cbcinnovis.com"
+  ],
+  "page_urls": [
+   "https://www.factualdata.com/"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Mortgage credit report provider for lenders."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Only excerpt is on factualdata.com and never names Cbcinnovis; business not confirmed."
+  }
+ },
+ {
+  "broker_id": "collectors-datastore",
+  "name": "Collectors Datastore LLC",
+  "other_names": [
+   "Collectors Datastore LLC"
+  ],
+  "domains": [
+   "thecollectorsdatastore.com"
+  ],
+  "page_urls": [
+   "https://fanalyticsiq.com/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Fan consumer profiles and audience data marketplace."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Only excerpt is from fanalyticsiq.com, which does not name this company."
+  }
+ },
+ {
+  "broker_id": "crunchbase",
+  "name": "Crunchbase, Inc.",
+  "other_names": [
+   "Crunchbase",
+   "Crunchbase Inc",
+   "Crunchbase, Inc."
+  ],
+  "domains": [
+   "crunchbase.com"
+  ],
+  "page_urls": [
+   "https://www.crunchbase.com/",
+   "https://about.crunchbase.com/terms-of-service/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Private company intelligence database for investors and sales teams."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "Company data and predictive intelligence sold to sales teams and investors."
+  }
+ },
+ {
+  "broker_id": "decide-technologies",
+  "name": "Decide Technologies Inc.",
+  "other_names": [
+   "DECIDE TECHNOLOGIES Inc",
+   "Decide Technologies Inc.",
+   "Decide Technologies, Inc."
+  ],
+  "domains": [
+   "decide.co"
+  ],
+  "page_urls": [
+   "https://decide.co/about",
+   "https://decide.co/privacy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts too thin or not clearly this company business."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Performance advertising company; the excerpt is a title only, with no product detail."
+  }
+ },
+ {
+  "broker_id": "distribution-processing-center",
+  "name": "Distribution Processing Center LLC",
+  "other_names": [
+   "Distribution Processing Center LLC"
+  ],
+  "domains": [
+   "dpcoptout.com"
+  ],
+  "page_urls": [
+   "https://dpcoptout.com/",
+   "https://dpcoptout.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Targeted marketing services for insurance marketers; mail processing."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Third-party mail processor and Do Not Mail list manager for clients; no data sale is shown."
+  }
+ },
+ {
+  "broker_id": "elevar",
+  "name": "Elevar, LLC",
+  "other_names": [
+   "Elevar, LLC"
+  ],
+  "domains": [
+   "getelevar.com"
+  ],
+  "page_urls": [
+   "https://www.audiense.com/about/",
+   "https://www.audiense.com/",
+   "https://www.audiense.com/products/audiense-online/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Conversion tracking and targeting for e-commerce; evidence from a related brand page."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Only excerpts are another company's pages describing Elevar as a brand; its own business is not shown."
+  }
+ },
+ {
+  "broker_id": "factori-technologies",
+  "name": "Factori Technologies LLC",
+  "other_names": [
+   "Factori Technologies LLC",
+   "Factori Technologies Pte Ltd."
+  ],
+  "domains": [
+   "factori.ai"
+  ],
+  "page_urls": [
+   "https://factori.ai/",
+   "https://factori.ai/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Data marketplace with audience, mobility, people and places datasets."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Licenses place, business, mobility and people datasets via APIs; no single product dominates."
+  }
+ },
+ {
+  "broker_id": "first-direct",
+  "name": "First Direct, Inc.",
+  "other_names": [
+   "FIRST DIRECT Inc",
+   "First Direct, Inc",
+   "First Direct, Inc."
+  ],
+  "domains": [
+   "firstdirectmarketing.com",
+   "nationallistcounts.com"
+  ],
+  "page_urls": [
+   "https://firstdirectmarketing.com/",
+   "https://firstdirectmarketing.com/about-us/",
+   "https://compliance.firstdirectmarketing.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Marketing agency; sale of data or lists not shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing agency; excerpts show agency services, not a list or data product."
+  }
+ },
+ {
+  "broker_id": "hexasoft-development-sdn-bhd",
+  "name": "Hexasoft Development Sdn. Bhd.",
+  "other_names": [
+   "Hexasoft Development Sdn. Bhd."
+  ],
+  "domains": [
+   "ip2location.com"
+  ],
+  "page_urls": [
+   "https://www.ip2location.com/contact",
+   "https://www.ip2location.com/",
+   "https://www.ip2location.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "location",
+   "reason": "Sells IP geolocation and proxy databases for security, fraud and advertising uses."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sells IP geolocation and proxy-detection databases and web services."
+  }
+ },
+ {
+  "broker_id": "leadcrunch",
+  "name": "LeadCrunch",
+  "other_names": [
+   "LeadCrunch",
+   "Leadcrunch"
+  ],
+  "domains": [
+   "getrev.ai"
+  ],
+  "page_urls": [
+   "https://getrev.ai/about",
+   "https://getrev.ai/about-us",
+   "https://getrev.ai/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Managed B2B demand generation with audiences and leads."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Managed demand-generation service; sale of lead or contact data as main product not shown."
+  }
+ },
+ {
+  "broker_id": "lightcast",
+  "name": "Lightcast, LLC",
+  "other_names": [
+   "ECONOMIC MODELING LLC",
+   "Economic Modeling, LLC",
+   "Lightcast, LLC",
+   "Rhetorik Limited"
+  ],
+  "domains": [
+   "lightcast.io",
+   "rhetorik.com"
+  ],
+  "page_urls": [
+   "https://lightcast.io/about",
+   "https://lightcast.io/",
+   "https://rhetorik.com/cgi-sys/suspendedpage.cgi"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Labor market intelligence and analytics."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Labor-market and workforce data for education, employers and government; no category fits."
+  }
+ },
+ {
+  "broker_id": "lundquist-consulting",
+  "name": "Lundquist Consulting, Inc.",
+  "other_names": [
+   "Lundquist Consulting, Inc."
+  ],
+  "domains": [
+   "lciinc.com"
+  ],
+  "page_urls": [
+   "https://g2risksolutions.com/about-us",
+   "https://g2risksolutions.com:443/",
+   "https://g2risksolutions.com/privacy-notice/"
+  ],
+  "reader_a": {
+   "label": "fraud-identity-verification",
+   "reason": "Pages are from a redirected domain; merchant risk and identity verification services."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts are from g2risksolutions.com, not a listed domain of this company; business not shown."
+  }
+ },
+ {
+  "broker_id": "mobile-technology",
+  "name": "Mobile Technology Corporation",
+  "other_names": [
+   "Mobile Technology Corporation"
+  ],
+  "domains": [
+   "onspotdata.com"
+  ],
+  "page_urls": [
+   "https://www.onspotdata.com/about",
+   "https://www.onspotdata.com/",
+   "https://www.onspotdata.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "location",
+   "reason": "Location and point-of-interest data services, with audiences and a demand-side platform."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Analytics, attribution and DSP tools; device location data also feeds services."
+  }
+ },
+ {
+  "broker_id": "occulytics",
+  "name": "Occulytics Inc.",
+  "other_names": [
+   "Occulytics Inc."
+  ],
+  "domains": [
+   "occulytics.com"
+  ],
+  "page_urls": [
+   "https://www.occulytics.com/",
+   "https://www.occulytics.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Senior living market intelligence data and lead generation."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells senior-living leads, direct-mail lists and market intelligence for the sector."
+  }
+ },
+ {
+  "broker_id": "pmg-worldwide",
+  "name": "PMG Worldwide, LLC",
+  "other_names": [
+   "PMG Worldwide, LLC"
+  ],
+  "domains": [
+   "pmg.com"
+  ],
+  "page_urls": [
+   "https://www.pmg.com/about",
+   "https://www.pmg.com/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Marketing and advertising agency with a proprietary platform."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts describe a marketing agency network; no data-business activity is shown."
+  }
+ },
+ {
+  "broker_id": "randall-reilly",
+  "name": "Randall-Reilly, LLC",
+  "other_names": [
+   "Randall-Reilly, LLC",
+   "Stuart Mcnair"
+  ],
+  "domains": [
+   "fusable.com"
+  ],
+  "page_urls": [
+   "https://fusable.com/about-us/",
+   "https://fusable.com/",
+   "https://fusable.com/legal/website-terms-and-privacy-notice/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Equipment industry data products and media; only navigation text shown."
+  },
+  "reader_b": {
+   "label": "investor-web",
+   "reason": "Thin navigation text only; suggests equipment price and market intelligence data."
+  }
+ },
+ {
+  "broker_id": "riv-data",
+  "name": "Riv Data Corp",
+  "other_names": [
+   "Riv Data Corp",
+   "Riv Data Corp."
+  ],
+  "domains": [
+   "carpe.io"
+  ],
+  "page_urls": [
+   "https://carpe.io/about",
+   "https://carpe.io/",
+   "https://carpe.io/privacy"
+  ],
+  "reader_a": {
+   "label": "insurance-auto",
+   "reason": "Insurance claims and underwriting decision data platform with fraud signal products."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Insurance claims fraud-signal and investigation software sold to insurers."
+  }
+ },
+ {
+  "broker_id": "share-local-media",
+  "name": "Share Local Media, Inc.",
+  "other_names": [
+   "SHARE LOCAL MEDIA Inc",
+   "Share Local Media",
+   "Share Local Media, Inc",
+   "Share Local Media, Inc."
+  ],
+  "domains": [
+   "sharelocalmedia.com"
+  ],
+  "page_urls": [
+   "https://www.sharelocalmedia.com/about",
+   "https://www.sharelocalmedia.com/",
+   "https://www.sharelocalmedia.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Direct mail and out-of-home agency; no data product shown."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Direct-mail and out-of-home ad agency for e-commerce brands; no data category fits."
+  }
+ },
+ {
+  "broker_id": "subgraph",
+  "name": "Subgraph, Inc",
+  "other_names": [
+   "Subgraph, Inc",
+   "Subgraph, Inc."
+  ],
+  "domains": [
+   "subgraph.tech"
+  ],
+  "page_urls": [
+   "https://subgraph.tech/about-us",
+   "https://subgraph.tech/privacy-rights",
+   "https://subgraph.tech/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Recruiting-related platform suggested, but product is not clearly described."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Recruiting software platform; fits no data-broker category."
+  }
+ },
+ {
+  "broker_id": "tunnl",
+  "name": "Tunnl, LLC",
+  "other_names": [
+   "Tunnl, LLC"
+  ],
+  "domains": [
+   "tunnldata.com"
+  ],
+  "page_urls": [
+   "https://www.tunnldata.com/about-us",
+   "https://www.tunnldata.com/",
+   "https://www.tunnldata.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Audience intelligence and targeting platform."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Audience research and measurement software; no data-broker category fits."
+  }
+ },
+ {
+  "broker_id": "yobi-ventures",
+  "name": "Yobi Ventures, Inc.",
+  "other_names": [
+   "Yobi Ventures, Inc.",
+   "Yobi Ventures, LLC"
+  ],
+  "domains": [
+   "yobi.ai",
+   "yobi.ventures"
+  ],
+  "page_urls": [
+   "https://www.yobi.ai/about",
+   "https://www.yobi.ai/",
+   "https://www.yobi.ai/opt-out"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Predictive consumer intent audiences and data feeds for advertisers."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Sells behavioral AI and consumer-intent predictions for advertising and publishers."
+  }
+ }
+]

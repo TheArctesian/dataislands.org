@@ -1,0 +1,5 @@
+broker_id,primary,secondary,confidence,evidence_url,evidence_quote,reason
+zipstorm,b2b-contacts,employment-screening,high,https://www.seekout.com/about-us/,Find and engage candidates across 1B+ profiles and your ATS,SeekOut sells searchable candidate profiles to recruiters; also offers applicant screening.
+zoom-communications,other-data-businesses,,medium,https://www.zoom.com/,Meetings Chat Phone Mail & Calendar Scheduler Whiteboard,Communications and collaboration software company; no data sales shown.
+zoominfo-technologies,b2b-contacts,marketing-audiences,high,https://www.zoominfo.com/about,Company and contact database,Sells B2B company and contact database plus buyer intent for sales and marketing.
+zs-associates,other-data-businesses,,medium,https://www.zs.com/about,ZS is a management consulting and technology firm,Management consulting and technology firm; no data product shown.

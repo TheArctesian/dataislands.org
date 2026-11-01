@@ -1,0 +1,622 @@
+[
+ {
+  "broker_id": "4eyes-ai",
+  "name": "4EYES AI Inc",
+  "other_names": [
+   "4EYES AI Inc",
+   "4Eyes.Ai, Inc."
+  ],
+  "domains": [
+   "4-eyes.ai"
+  ],
+  "page_urls": [
+   "https://www.delivr.ai/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Identity resolution and person-level intent data, apparently for B2B."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpt is from delivr.ai, not the listed 4-eyes.ai domain; no business shown for this company."
+  }
+ },
+ {
+  "broker_id": "altair-data-resources",
+  "name": "Altair Data Resources, Inc",
+  "other_names": [
+   "ALTAIR DATA RESOURCES Inc",
+   "Altair Data Resources, Inc",
+   "Altair Data Resources, Inc."
+  ],
+  "domains": [
+   "altairdata.com"
+  ],
+  "page_urls": [
+   "https://altairdata.com/",
+   "https://altairdata.com/consumer-info/",
+   "https://altairdata.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Credit and consumer marketing data for lender targeting."
+  },
+  "reader_b": {
+   "label": "credit-financial",
+   "reason": "Sells tri-bureau credit data and consumer marketing data for lenders and marketers."
+  }
+ },
+ {
+  "broker_id": "anteriad",
+  "name": "Anteriad, LLC",
+  "other_names": [
+   "ANTERIAD LLC",
+   "Anteriad",
+   "Anteriad, LLC"
+  ],
+  "domains": [
+   "anteriad.com"
+  ],
+  "page_urls": [
+   "https://anteriad.com/about-us",
+   "https://anteriad.com/",
+   "https://anteriad.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "B2B marketing, audience identification and demand generation services."
+  },
+  "reader_b": {
+   "label": "b2b-contacts",
+   "reason": "B2B lead generation, audience identification and demand generation services for marketers."
+  }
+ },
+ {
+  "broker_id": "azira",
+  "name": "Azira, LLC",
+  "other_names": [
+   "AZIRA LLC",
+   "Azira",
+   "Azira LLC",
+   "Azira, LLC"
+  ],
+  "domains": [
+   "azira.com"
+  ],
+  "page_urls": [
+   "https://www.azira.com/about",
+   "https://www.azira.com/",
+   "https://www.azira.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "location",
+   "reason": "Describes itself as a location intelligence provider."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Location intelligence and ad products are named, but the main product is not clearly stated."
+  }
+ },
+ {
+  "broker_id": "boardroom-insiders",
+  "name": "Boardroom Insiders, Inc.",
+  "other_names": [
+   "BOARDROOM INSIDERS Inc",
+   "Boardroom Insiders",
+   "Boardroom Insiders, Inc."
+  ],
+  "domains": [
+   "boardroominsiders.com"
+  ],
+  "page_urls": [
+   "https://altrata.com/about-us",
+   "https://altrata.com/boardroom-insiders-is-now-altrata"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Executive profile intelligence, now merged into another platform."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts are from Altrata, which absorbed Boardroom Insiders; its own business is not shown."
+  }
+ },
+ {
+  "broker_id": "catchlight-insights",
+  "name": "Catchlight Insights LLC",
+  "other_names": [
+   "Catchlight Insights LLC"
+  ],
+  "domains": [
+   "catchlight.ai"
+  ],
+  "page_urls": [
+   "https://catchlight.ai/about",
+   "https://catchlight.ai/",
+   "https://catchlight.ai/privacy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts show a lead platform but not what data is sold."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Prospect-lead platform for financial firms; lead-selling model is implied, not stated."
+  }
+ },
+ {
+  "broker_id": "clay-labs",
+  "name": "Clay Labs, Inc.",
+  "other_names": [
+   "CLAY LABS LLC",
+   "Clay Labs LLC",
+   "Clay Labs, Inc",
+   "Clay Labs, Inc.",
+   "Clay Labs, LLC"
+  ],
+  "domains": [
+   "clay.com"
+  ],
+  "page_urls": [
+   "https://www.clay.com/about",
+   "https://www.clay.com/",
+   "https://privacy.clay.com/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Sales data enrichment platform aggregating B2B data providers."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Go-to-market data and enrichment software; secondary contact enrichment for sales teams."
+  }
+ },
+ {
+  "broker_id": "crosswalk-technologies",
+  "name": "Crosswalk Technologies Inc",
+  "other_names": [
+   "Crosswalk Technologies Inc"
+  ],
+  "domains": [
+   "crosswalknyc.com"
+  ],
+  "page_urls": [
+   "https://www.crosswalknyc.com/privacy-policy-1"
+  ],
+  "reader_a": {
+   "label": "investor-web",
+   "reason": "Runs a consented digital panel and licenses aggregated audience products."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Runs an opted-in consumer panel and licenses aggregated audience products to clients."
+  }
+ },
+ {
+  "broker_id": "dealerdirect",
+  "name": "DealerDirect LLC",
+  "other_names": [
+   "DEALERDIRECT LLC",
+   "DealerDirect LLC",
+   "Dealerdirect LLC"
+  ],
+  "domains": [
+   "forddirect.com"
+  ],
+  "page_urls": [
+   "https://www.forddirect.com/about",
+   "https://www.forddirect.com/",
+   "https://www.forddirect.com/privacy"
+  ],
+  "reader_a": {
+   "label": "insurance-auto",
+   "reason": "Automaker-backed data-driven tools and insights for Ford dealers."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Software and marketing services for Ford dealers; no data-broker product is shown."
+  }
+ },
+ {
+  "broker_id": "disqus",
+  "name": "Disqus",
+  "other_names": [
+   "Disqus",
+   "Disqus, Inc."
+  ],
+  "domains": [
+   "disqus.com"
+  ],
+  "page_urls": [
+   "https://disqus.com/about-us/",
+   "https://disqus.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts too thin or not clearly this company business."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Audience engagement and comment community software; the excerpt is a page title only."
+  }
+ },
+ {
+  "broker_id": "edvisors-network",
+  "name": "Edvisors Network, Inc.",
+  "other_names": [
+   "EDVISORS NETWORK Inc",
+   "Edvisors Fas, Inc.",
+   "Edvisors Network Inc",
+   "Edvisors Network, Inc."
+  ],
+  "domains": [
+   "edvisors.com"
+  ],
+  "page_urls": [
+   "https://www.edvisors.com/about/",
+   "https://www.edvisors.com/",
+   "https://www.edvisors.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Only scholarship articles shown; no data business evident."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Financial aid and scholarship content website; data sales not shown in excerpts."
+  }
+ },
+ {
+  "broker_id": "experian-marketing-solutions",
+  "name": "Experian Marketing Solutions, LLC",
+  "other_names": [
+   "EXPERIAN HEALTH Inc",
+   "EXPERIAN INFORMATION SOLUTIONS Inc",
+   "EXPERIAN MARKETING SOLUTIONS LLC",
+   "Experian Background Data, Inc.",
+   "Experian Data Corp",
+   "Experian Fraud Prevention Solutions, Inc."
+  ],
+  "domains": [
+   "experian.com",
+   "tapad.com"
+  ],
+  "page_urls": [
+   "https://www.experian.com/",
+   "https://consumerprivacy.experian.com/",
+   "https://www.experian.com/privacy/us-consumer-data-privacy-policy"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Excerpts show Experian credit pages, not this marketing unit."
+  },
+  "reader_b": {
+   "label": "credit-financial",
+   "reason": "Consumer credit reporting and scores; marketing data products are secondary."
+  }
+ },
+ {
+  "broker_id": "finthrive-healthcare",
+  "name": "FinThrive Healthcare, Inc.",
+  "other_names": [
+   "Equation Consulting LLC",
+   "Equation Consulting, LLC",
+   "FINTHRIVE HEALTHCARE Inc",
+   "FinThrive Healthcare, Inc.",
+   "Finthrive Healthcare, Inc.",
+   "TSG HOLDCO LLC"
+  ],
+  "domains": [
+   "finthrive.com",
+   "nthrive.com"
+  ],
+  "page_urls": [
+   "https://finthrive.com/why-finthrive",
+   "https://finthrive.com/",
+   "https://finthrive.com/privacy-policy-overview"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Revenue cycle software for hospitals and health systems."
+  },
+  "reader_b": {
+   "label": "health",
+   "reason": "Revenue-cycle software for hospitals and providers; patient and provider data focus implied."
+  }
+ },
+ {
+  "broker_id": "here-north-america",
+  "name": "HERE North America LLC",
+  "other_names": [
+   "HERE North America LLC"
+  ],
+  "domains": [
+   "here.com"
+  ],
+  "page_urls": [
+   "https://www.here.com:443/about",
+   "https://www.here.com:443/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Digital mapping company supplying automotive-grade maps to automakers and logistics firms."
+  },
+  "reader_b": {
+   "label": "location",
+   "reason": "Map and live location technology for automakers and fleets; mobility-focused."
+  }
+ },
+ {
+  "broker_id": "knowwho",
+  "name": "Knowwho",
+  "other_names": [
+   "Knowwho",
+   "Knowwho, Inc."
+  ],
+  "domains": [
+   "knowwho.com"
+  ],
+  "page_urls": [
+   "https://kw1.knowwho.com/",
+   "https://kw1.knowwho.com/service/privacy/"
+  ],
+  "reader_a": {
+   "label": "b2b-contacts",
+   "reason": "Contact data on government officials and staffers."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Sells contact data on government officials and staffers for advocacy; not businesses."
+  }
+ },
+ {
+  "broker_id": "lifesight",
+  "name": "Lifesight LLC",
+  "other_names": [
+   "Lifesight LLC"
+  ],
+  "domains": [
+   "lifesight.io"
+  ],
+  "page_urls": [
+   "https://lifesight.io/about-us",
+   "https://lifesight.io/",
+   "https://lifesight.io/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Marketing measurement and attribution software."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing measurement and budget-planning software; fits no other category."
+  }
+ },
+ {
+  "broker_id": "lucid",
+  "name": "Lucid Holdings, LLC",
+  "other_names": [
+   "Lucid Holdings, LLC"
+  ],
+  "domains": [
+   "luc.id"
+  ],
+  "page_urls": [
+   "https://www.cint.com/",
+   "https://www.cint.com/privacy-policy/",
+   "https://www.cint.com/legal/cint-usa-privacy-policy-2023_01/"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Survey respondent marketplace for market research, plus campaign measurement."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts come from cint.com, another company's site; this company's business is not shown."
+  }
+ },
+ {
+  "broker_id": "merkle",
+  "name": "Merkle Inc.",
+  "other_names": [
+   "Merkle Inc",
+   "Merkle Inc."
+  ],
+  "domains": [
+   "merkle.com",
+   "merkleinc.com"
+  ],
+  "page_urls": [
+   "https://www.merkle.com/",
+   "https://www.merkle.com/en/privacy-policy.html"
+  ],
+  "reader_a": {
+   "label": "other-data-businesses",
+   "reason": "Customer experience consulting and marketing agency within a media group."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Excerpts describe a parent group and vague capabilities; the business is not clearly shown."
+  }
+ },
+ {
+  "broker_id": "nyne-ai",
+  "name": "Nyne.ai Corp",
+  "other_names": [
+   "Nyne.ai Corp"
+  ],
+  "domains": [
+   "nyne.ai"
+  ],
+  "page_urls": [
+   "https://nyne.ai/about-us/",
+   "https://nyne.ai/",
+   "https://nyne.ai/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "marketing-audiences",
+   "reason": "Intent-based leads from public data; also licenses data to AI labs."
+  },
+  "reader_b": {
+   "label": "unclear",
+   "reason": "Describes both sales-intent leads and licensed AI training data; no single main business."
+  }
+ },
+ {
+  "broker_id": "phantom-data",
+  "name": "PHANTOM DATA LLC",
+  "other_names": [
+   "PHANTOM DATA LLC"
+  ],
+  "domains": [
+   "phantomdata.io"
+  ],
+  "page_urls": [
+   "https://app.phantomdata.io/"
+  ],
+  "reader_a": {
+   "label": "property",
+   "reason": "Sells homeowner and permit lists with phones and emails to home-service businesses."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Sells homeowner lists with phone numbers and emails for real estate and home-service marketers."
+  }
+ },
+ {
+  "broker_id": "purecars-technologies",
+  "name": "Purecars Technologies, LLC",
+  "other_names": [
+   "Purecars Technologies, LLC"
+  ],
+  "domains": [
+   "purecars.com"
+  ],
+  "page_urls": [
+   "https://www.purecars.com/about",
+   "https://www.purecars.com/",
+   "https://www.purecars.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "insurance-auto",
+   "reason": "Automotive dealer marketing platform with customer data mining and advertising."
+  },
+  "reader_b": {
+   "label": "adtech-identity",
+   "reason": "Automotive dealer marketing platform selling ads, a CDP and AI customer conversations."
+  }
+ },
+ {
+  "broker_id": "rich-media",
+  "name": "Rich Media LLC",
+  "other_names": [
+   "RICH MEDIA LLC",
+   "Rich Media LLC",
+   "Rich Media, LLC"
+  ],
+  "domains": [
+   "richmediallc.com"
+  ],
+  "page_urls": [
+   "https://richmediallc.com/",
+   "https://richmediallc.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Marketing services firm; excerpts do not show data or lists being sold."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Marketing consultancy and direct-mail services; no data category fits the shown business."
+  }
+ },
+ {
+  "broker_id": "service-1st-information-solutions",
+  "name": "Service 1St Information Solutions LLC",
+  "other_names": [
+   "Service 1St Information Solutions LLC"
+  ],
+  "domains": [
+   "srv1st.com"
+  ],
+  "page_urls": [
+   "https://www.srv1st.com/about",
+   "https://www.srv1st.com/",
+   "https://www.srv1st.com/privacy-policy"
+  ],
+  "reader_a": {
+   "label": "credit-financial",
+   "reason": "Mortgage credit reporting and verification services for lenders."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Loan verification services for lenders covering income, identity and credit reporting."
+  }
+ },
+ {
+  "broker_id": "step2success-marketing",
+  "name": "STEP2SUCCESS Marketing",
+  "other_names": [
+   "STEP2SUCCESS Marketing"
+  ],
+  "domains": [
+   "step2successmarketing.com"
+  ],
+  "page_urls": [
+   "https://s2smarketing.com/"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Financial advisor marketing consultancy; no data product shown."
+  },
+  "reader_b": {
+   "label": "marketing-audiences",
+   "reason": "Marketing programs for financial advisers, including mailing lists and protected territories."
+  }
+ },
+ {
+  "broker_id": "towerdata",
+  "name": "Towerdata, Inc.",
+  "other_names": [
+   "Towerdata, Inc.",
+   "Towerdata, LLC"
+  ],
+  "domains": [
+   "towerdata.com"
+  ],
+  "page_urls": [
+   "https://atdata.com/",
+   "https://atdata.com/privacy-policy/"
+  ],
+  "reader_a": {
+   "label": "adtech-identity",
+   "reason": "Email-based identity data for resolution, marketing and risk."
+  },
+  "reader_b": {
+   "label": "fraud-identity-verification",
+   "reason": "Email and identity validation and risk scoring for businesses; some identity-graph and data-licensing offerings."
+  }
+ },
+ {
+  "broker_id": "wisdom-media",
+  "name": "Wisdom Media Group LLC",
+  "other_names": [
+   "Wisdom Media Group LLC"
+  ],
+  "domains": [
+   "wisdommediagroupllc.com"
+  ],
+  "page_urls": [
+   "https://wisdommediagroupllc.com/",
+   "https://www.wisdommediagroupllc.com/privacy.php"
+  ],
+  "reader_a": {
+   "label": "unclear",
+   "reason": "Agency page does not show a data business."
+  },
+  "reader_b": {
+   "label": "other-data-businesses",
+   "reason": "Digital marketing agency offering lead generation services; no data sale shown."
+  }
+ }
+]

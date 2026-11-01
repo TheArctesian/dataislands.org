@@ -1,0 +1,238 @@
+{
+  "brokerIds": {
+    "lead-intelligence": "infutor-data-solutions"
+  },
+  "brokerNames": {
+    "Lead Intelligence Inc.": "infutor-data-solutions",
+    "Moody's Analytics Inc": "moody-s-analytics"
+  },
+  "companyNames": {
+    "OMNICOM GROUP INC.": "Omnicom Group Inc.",
+    "MOODYS CORP /DE/": "Moody's Corporation",
+    "EQUIFAX INC": "Equifax Inc.",
+    "ORACLE CORP": "Oracle Corporation",
+    "COMCAST CORP": "Comcast Corporation",
+    "ALLSTATE CORP": "The Allstate Corporation",
+    "BLACKBAUD INC": "Blackbaud, Inc.",
+    "CLARIVATE PLC": "Clarivate Plc",
+    "COMSCORE, INC.": "comScore, Inc.",
+    "COSTAR GROUP, INC.": "CoStar Group, Inc.",
+    "DELUXE CORP": "Deluxe Corporation",
+    "HUBSPOT INC": "HubSpot, Inc.",
+    "IQVIA HOLDINGS INC.": "IQVIA Holdings Inc.",
+    "MAGNITE, INC.": "Magnite, Inc.",
+    "MARRIOTT INTERNATIONAL INC /MD/": "Marriott International, Inc.",
+    "RELX PLC": "RELX PLC",
+    "SIMILARWEB LTD.": "Similarweb Ltd.",
+    "VEEVA SYSTEMS INC": "Veeva Systems Inc.",
+    "ZIFF DAVIS, INC.": "Ziff Davis, Inc."
+  },
+  "merges": {
+    "M02": {
+      "owners": [
+        {
+          "brokerId": "andrews-wharton",
+          "owner": "Stirista, LLC"
+        }
+      ],
+      "unconfirmedMembers": [
+        "lbdigitaldata.com",
+        "listconnection.net",
+        "magnetik.com",
+        "mediasourcesolutions.com"
+      ]
+    },
+    "M04": {
+      "owners": [
+        {
+          "brokerId": "asl-marketing-a-deep-sync-property",
+          "owner": "Deep Sync"
+        }
+      ]
+    },
+    "M05": {
+      "owners": [
+        {
+          "brokerId": "beenverified",
+          "owner": "The Lifetime Value Co. LLC"
+        }
+      ]
+    },
+    "M07": {
+      "owners": [
+        {
+          "brokerId": "careerbuilder-employment-screening",
+          "owner": "Accurate Background"
+        }
+      ],
+      "splitInto": [
+        "careerbuilder-employment-screening"
+      ]
+    },
+    "M08": {
+      "splitInto": [
+        "teletrack"
+      ],
+      "unconfirmedMembers": [
+        "Rental Property Solutions, LLC"
+      ]
+    },
+    "M09": {
+      "owners": [
+        {
+          "brokerId": "cortera",
+          "owner": "Moody's Corporation"
+        }
+      ]
+    },
+    "M11": {
+      "owners": [
+        {
+          "brokerId": "datamentors",
+          "owner": "Porch Group, Inc."
+        }
+      ]
+    },
+    "M12": {
+      "owners": [
+        {
+          "brokerId": "definitive-healthcare",
+          "owner": "Definitive Healthcare Corp."
+        }
+      ]
+    },
+    "M13": {
+      "owners": [
+        {
+          "brokerId": "deloitte-consulting",
+          "owner": "Deloitte US"
+        }
+      ]
+    },
+    "M15": {
+      "owners": [
+        {
+          "brokerId": "equifax-information-services",
+          "owner": "Equifax Inc."
+        }
+      ],
+      "unconfirmedMembers": [
+        "Compliance Data Center LLC",
+        "HD Information LLC",
+        "hygenicsdata.com",
+        "IntelliReal LLC"
+      ]
+    },
+    "M16": {
+      "owners": [
+        {
+          "brokerId": "experian-marketing-solutions",
+          "owner": "Experian plc"
+        }
+      ]
+    },
+    "M17": {
+      "brokerId": "fastpeoplesearch",
+      "splitInto": [
+        "family-tree-now"
+      ]
+    },
+    "M18": {
+      "owners": [
+        {
+          "brokerId": "hubspot",
+          "owner": "HubSpot, Inc."
+        }
+      ]
+    },
+    "M22": {
+      "brokerId": "infutor-data-solutions",
+      "owners": [
+        {
+          "brokerId": "infutor-data-solutions",
+          "owner": "ActiveProspect"
+        },
+        {
+          "brokerId": "iso-claims-services",
+          "owner": "Verisk Analytics",
+          "confidence": "medium"
+        }
+      ],
+      "splitInto": [
+        "iso-claims-services"
+      ]
+    },
+    "M23": {
+      "owners": [
+        {
+          "brokerId": "lexisnexis-risk-solutions-fl",
+          "owner": "RELX PLC"
+        }
+      ]
+    },
+    "M24": {
+      "owners": [
+        {
+          "brokerId": "lightcast",
+          "owner": "Lightcast, LLC"
+        }
+      ],
+      "unconfirmedMembers": [
+        "Economic Modeling LLC"
+      ]
+    },
+    "M26": {
+      "owners": [
+        {
+          "brokerId": "r-l-polk-and",
+          "owner": "S&P Global Inc."
+        }
+      ]
+    },
+    "M32": {
+      "owners": [
+        {
+          "brokerId": "trans-union",
+          "owner": "TransUnion"
+        }
+      ],
+      "unconfirmedMembers": [
+        "Ebureau, LLC"
+      ]
+    },
+    "M35": {
+      "owners": [
+        {
+          "brokerId": "ziff-davis",
+          "owner": "Ziff Davis, Inc."
+        }
+      ]
+    }
+  },
+  "rejectedClaims": [
+    {
+      "brokerId": "relationship-science",
+      "owner": "S&P Global Inc.",
+      "reason": "One-word match: an S&P exhibit line normalised to \"deal\" matched the alias THE DEAL LLC. That does not show S&P owns Relationship Science, whose own site names Altrata (parent review P08).",
+      "sourceUrl": "https://altrata.com/boardroom-insiders-is-now-altrata"
+    },
+    {
+      "brokerId": "infutor-data-solutions",
+      "owner": "Verisk Analytics",
+      "reason": "Superseded: Verisk announced the sale of Infutor and Jornaya to ActiveProspect on 2026-01-08 (merge review M22).",
+      "sourceUrl": "https://www.verisk.com/company/newsroom/verisk-announces-sale-of-its-marketing-solutions-business-to-activeprospect/"
+    },
+    {
+      "brokerId": "ruf-strategic-solutions",
+      "owner": "Verisk Analytics",
+      "reason": "Rests on the Infutor-to-Verisk link, which ended with the 2026 sale (merge review M22).",
+      "sourceUrl": "https://www.verisk.com/company/newsroom/verisk-announces-sale-of-its-marketing-solutions-business-to-activeprospect/"
+    },
+    {
+      "brokerId": "33-mile-radius",
+      "owner": "EverConnect",
+      "reason": "EverConnect is the immediate parent, not the top owner: EverCommerce sold it to Ignite Visibility on 2025-10-31.",
+      "sourceUrl": "https://www.evercommerce.com/?p=4676"
+    }
+  ]
+}

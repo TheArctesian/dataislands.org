@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Island Generator Preview</title>
+    <style>
+      :root {
+        --oat: #ece4d3;
+        --raised: #f4eee1;
+        --ink: #1c2215;
+        --muted: #55603f;
+        --accent: #93340d;
+        --hairline: rgb(28 34 21 / 16%);
+        color-scheme: light;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--oat);
+        color: var(--ink);
+        font: 14px/1.4 ui-sans-serif, -apple-system, "Segoe UI", sans-serif;
+      }
+      #stage {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        height: 100dvh;
+        pointer-events: none;
+      }
+      main {
+        position: relative;
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 20px 16px 40px;
+      }
+      h1 { margin: 0; font-size: 20px; font-weight: 650; letter-spacing: -0.01em; }
+      .note { margin: 2px 0 16px; color: var(--muted); }
+      form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px 20px;
+        align-items: end;
+        padding: 12px;
+        background: var(--raised);
+        border: 1px solid var(--hairline);
+        border-radius: 8px;
+      }
+      label { display: grid; gap: 4px; color: var(--muted); font-size: 12px; }
+      label.inline { display: flex; align-items: center; gap: 6px; min-height: 36px; color: var(--ink); font-size: 14px; }
+      input[type="number"], select, button {
+        min-height: 36px;
+        padding: 0 10px;
+        color: var(--ink);
+        font: inherit;
+        background: var(--oat);
+        border: 1px solid var(--hairline);
+        border-radius: 6px;
+      }
+      input[type="number"] { width: 130px; }
+      input[type="range"] { width: 200px; max-width: 100%; min-height: 36px; accent-color: var(--accent); }
+      button { cursor: pointer; }
+      :focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+      output { font-variant-numeric: tabular-nums; color: var(--ink); }
+      #readout { margin: 12px 0 16px; color: var(--muted); font-variant-numeric: tabular-nums; }
+      #grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+        gap: 12px;
+      }
+      .cell { margin: 0; min-width: 0; }
+      .view { aspect-ratio: 4 / 3; border: 1px solid var(--hairline); border-radius: 8px; }
+      figcaption { padding: 6px 2px 0; color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+    </style>
+  </head>
+  <body>
+    <canvas id="stage" aria-hidden="true"></canvas>
+    <main>
+      <h1>Island generator</h1>
+      <p class="note">Placeholder themes. Every island is generated in code from a seed, a size and a theme.</p>
+      <form onsubmit="return false">
+        <label>Seed <input id="seed" type="number" min="0" max="4294967295" step="1" value="1" /></label>
+        <button id="shuffle" type="button">Shuffle</button>
+        <label>Size <output id="size-value">mixed</output>
+          <input id="size" type="range" min="0" max="10" step="0.05" value="6" />
+        </label>
+        <label class="inline"><input id="size-mixed" type="checkbox" checked /> Mixed sizes</label>
+        <label>Theme
+          <select id="theme"><option value="mixed">Mixed</option></select>
+        </label>
+        <label class="inline"><input id="fit" type="checkbox" checked /> Fit each cell</label>
+      </form>
+      <p id="readout" aria-live="off"></p>
+      <section id="grid" aria-label="Generated islands"></section>
+    </main>
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

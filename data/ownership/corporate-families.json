@@ -1,0 +1,2327 @@
+[
+ {
+  "owner": {
+   "key": "2025 acquisition",
+   "name": "2025 Acquisition Company LLC",
+   "ticker": null,
+   "sources": [
+    "web-ed579613ec46"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "forian",
+    "broker": "Forian Holdings, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-ed579613ec46"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "accurate background",
+   "name": "Accurate Background",
+   "ticker": null,
+   "sources": [
+    "web-a5e0648a22fe"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "careerbuilder-employment-screening",
+    "broker": "Careerbuilder Employment Screening, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-a5e0648a22fe"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "activeprospect",
+   "name": "ActiveProspect",
+   "ticker": null,
+   "sources": [
+    "web-f4163ba7e80c"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "infutor-data-solutions",
+    "broker": "Infutor Data Solutions LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-f4163ba7e80c"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "all good media",
+   "name": "All Good Media, LLC",
+   "ticker": null,
+   "sources": [
+    "web-ffed1532d4d9"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "attribits",
+    "broker": "Attribits",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-ffed1532d4d9"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "appen",
+   "name": "Appen Limited",
+   "ticker": null,
+   "sources": [
+    "web-be96a3413959"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "quadrant-global-pte",
+    "broker": "Quadrant Global Pte. Ltd.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-be96a3413959"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "applovin",
+   "name": "AppLovin Corporation",
+   "ticker": {
+    "value": "APP",
+    "sources": [
+     "web-262d645f5eaa"
+    ]
+   },
+   "sources": [
+    "web-262d645f5eaa",
+    "web-fb3145f588ed"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "applovin",
+    "broker": "AppLovin Corporation",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-fb3145f588ed"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "bc partners",
+   "name": "BC Partners",
+   "ticker": null,
+   "sources": [
+    "web-8c144543fb03"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "madison-logic",
+    "broker": "Madison Logic, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8c144543fb03"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "blackpearl",
+   "name": "Blackpearl Group Limited",
+   "ticker": null,
+   "sources": [
+    "web-c5cf5cd459ce"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "black-pearl",
+    "broker": "Black Pearl Group Limited",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-c5cf5cd459ce"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "blackrock",
+   "name": "BlackRock, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-42bb22af5fd4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "preqin",
+    "broker": "Preqin Ltd",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-42bb22af5fd4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "broadsign",
+   "name": "Broadsign",
+   "ticker": null,
+   "sources": [
+    "web-089d95810296"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "place-exchange",
+    "broker": "Place Exchange, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-089d95810296"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "brookfield business partners l p",
+   "name": "Brookfield Business Partners L.P.",
+   "ticker": null,
+   "sources": [
+    "web-dfef20fb3f99"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "cdk-global",
+    "broker": "CDK Global, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-dfef20fb3f99"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "cardlytics",
+   "name": "Cardlytics, Inc.",
+   "ticker": {
+    "value": "CDLX",
+    "sources": [
+     "web-a10244e9d06e"
+    ]
+   },
+   "sources": [
+    "web-39905558dbfc",
+    "web-a10244e9d06e"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "bridg-a-division-of-cardlytics",
+    "broker": "Bridg, a division of Cardlytics, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-39905558dbfc"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "cengage",
+   "name": "Cengage Group",
+   "ticker": null,
+   "sources": [
+    "web-953e1c00d980"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "cengage-learning",
+    "broker": "CENGAGE LEARNING Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-953e1c00d980"
+    ]
+   },
+   {
+    "brokerId": "gale",
+    "broker": "Gale",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-953e1c00d980"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "chatham asset management",
+   "name": "Chatham Asset Management",
+   "ticker": null,
+   "sources": [
+    "web-ca4325dc8a08"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "r-r-donnelley-and-sons",
+    "broker": "R. R. Donnelley & Sons Company",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-ca4325dc8a08"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "checkr",
+   "name": "Checkr Group, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-2ee986591d11"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "inflection-com",
+    "broker": "Inflection.Com, Inc",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-2ee986591d11"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "clarivate",
+   "name": "Clarivate Plc",
+   "ticker": {
+    "value": "CLVT",
+    "sources": [
+     "web-c46bbd919920"
+    ]
+   },
+   "sources": [
+    "web-47efa9e166c2",
+    "web-c46bbd919920"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "clarivate",
+    "broker": "Clarivate",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-c46bbd919920"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "clearlake capital",
+   "name": "Clearlake Capital",
+   "ticker": null,
+   "sources": [
+    "web-5c3d04c992e4",
+    "web-b222f63829ea"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "dun-and-bradstreet",
+    "broker": "Dun and Bradstreet Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5c3d04c992e4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "clearlake capital group l p ta associates",
+   "name": "Clearlake Capital Group, L.P.; TA Associates",
+   "ticker": null,
+   "sources": [
+    "web-8118096a768c"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "precisely-software",
+    "broker": "Precisely Software Incorporated",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8118096a768c"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "comcast",
+   "name": "Comcast Corporation",
+   "ticker": {
+    "value": "CMCSA",
+    "sources": [
+     "web-d00cb1ac87eb"
+    ]
+   },
+   "sources": [
+    "web-d00cb1ac87eb"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "freewheel-media",
+    "broker": "FreeWheel Media Inc",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d00cb1ac87eb"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "costar",
+   "name": "CoStar Group, Inc.",
+   "ticker": {
+    "value": "CSGP",
+    "sources": [
+     "web-f8e81f87e6e0"
+    ]
+   },
+   "sources": [
+    "web-13c9cf38095c",
+    "web-f8e81f87e6e0"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "costar-realty-information",
+    "broker": "CoStar Realty Information, Inc.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-f8e81f87e6e0"
+    ]
+   },
+   {
+    "brokerId": "innovative-database-solutions",
+    "broker": "Innovative Database Solutions, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-f8e81f87e6e0"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "cotality",
+   "name": "Cotality",
+   "ticker": null,
+   "sources": [
+    "web-9766b9f49afb"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "corelogic-credco",
+    "broker": "Corelogic Credco, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-9766b9f49afb"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "cox enterprises",
+   "name": "Cox Enterprises, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-f7822946a7ae"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "cox-automotive",
+    "broker": "Cox Automotive, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-f7822946a7ae"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "criteo s a",
+   "name": "Criteo S.A.",
+   "ticker": {
+    "value": "CRTO",
+    "sources": [
+     "web-e8c9f8246f11"
+    ]
+   },
+   "sources": [
+    "web-e8c9f8246f11"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "criteo",
+    "broker": "Criteo Corp.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-e8c9f8246f11"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "data axle",
+   "name": "Data Axle Inc.",
+   "ticker": null,
+   "sources": [
+    "web-e4bcd771f8cb"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "data-axle",
+    "broker": "Data Axle Inc.",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-e4bcd771f8cb"
+    ]
+   },
+   {
+    "brokerId": "donorbase",
+    "broker": "DonorBase, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-e4bcd771f8cb"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "deep sync",
+   "name": "Deep Sync",
+   "ticker": null,
+   "sources": [
+    "web-5bc771e136c3",
+    "web-aa46c7c3646e"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "asl-marketing-a-deep-sync-property",
+    "broker": "ASL Marketing, a Deep Sync Property",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-5bc771e136c3",
+     "web-aa46c7c3646e"
+    ]
+   },
+   {
+    "brokerId": "homedata",
+    "broker": "Homedata",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5bc771e136c3"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "definitive healthcare",
+   "name": "Definitive Healthcare Corp.",
+   "ticker": {
+    "value": "DH",
+    "sources": [
+     "web-f6e2c2add78d"
+    ]
+   },
+   "sources": [
+    "web-06bc40405b8c",
+    "web-f6e2c2add78d"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "definitive-healthcare",
+    "broker": "Definitive Healthcare LLC",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-f6e2c2add78d"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "delinian",
+   "name": "Delinian",
+   "ticker": null,
+   "sources": [
+    "web-21d55d14718f",
+    "web-2e09ab7ef722",
+    "web-617e52bd0162"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "altrata",
+    "broker": "Altrata, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-21d55d14718f"
+    ]
+   },
+   {
+    "brokerId": "boardex",
+    "broker": "Boardex LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-617e52bd0162"
+    ]
+   },
+   {
+    "brokerId": "boardroom-insiders",
+    "broker": "Boardroom Insiders, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-2e09ab7ef722"
+    ]
+   },
+   {
+    "brokerId": "boardrooom-insiders",
+    "broker": "Boardrooom Insiders Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-2e09ab7ef722"
+    ]
+   },
+   {
+    "brokerId": "relationship-science",
+    "broker": "Relationship Science",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-2e09ab7ef722"
+    ]
+   },
+   {
+    "brokerId": "wealth-x",
+    "broker": "Wealth-X",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-2e09ab7ef722"
+    ]
+   },
+   {
+    "brokerId": "wealthengine",
+    "broker": "Wealthengine, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-617e52bd0162"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "deloitte us",
+   "name": "Deloitte US",
+   "ticker": null,
+   "sources": [
+    "web-8b3e838eff89"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "deloitte-consulting",
+    "broker": "Deloitte Consulting LLP",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8b3e838eff89"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "deluxe",
+   "name": "Deluxe Corporation",
+   "ticker": {
+    "value": "DLX",
+    "sources": [
+     "web-b43604240451"
+    ]
+   },
+   "sources": [
+    "web-4fe6b783b440",
+    "web-b43604240451",
+    "web-dbb0d5e6c88b"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "deluxe",
+    "broker": "Deluxe Corporation",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-4fe6b783b440",
+     "web-dbb0d5e6c88b"
+    ]
+   },
+   {
+    "brokerId": "deluxe-financial-services",
+    "broker": "Deluxe Financial Services, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-4fe6b783b440",
+     "web-dbb0d5e6c88b"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "dun and bradstreet",
+   "name": "Dun & Bradstreet",
+   "ticker": null,
+   "sources": [
+    "web-329200fa2833",
+    "web-aad7a56e972c"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "netwise-data",
+    "broker": "NetWise Data, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-aad7a56e972c"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "e republic",
+   "name": "e.Republic",
+   "ticker": null,
+   "sources": [
+    "web-0abf77a2404b"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "e-republic",
+    "broker": "e.Republic, LLC",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-0abf77a2404b"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "eab global",
+   "name": "EAB Global, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-da16cb96bd3d"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "cappex-com",
+    "broker": "Cappex.Com, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-da16cb96bd3d"
+    ]
+   },
+   {
+    "brokerId": "eab-global",
+    "broker": "EAB Global, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-da16cb96bd3d"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "equifax",
+   "name": "Equifax Inc.",
+   "ticker": {
+    "value": "EFX",
+    "sources": [
+     "web-9766b9f49afb"
+    ]
+   },
+   "sources": [
+    "web-0071d66f36bb",
+    "web-3ec46723aa41",
+    "web-9766b9f49afb",
+    "web-c5548f30d1b1"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "ansonia-credit-data",
+    "broker": "ANSONIA CREDIT DATA Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-3ec46723aa41"
+    ]
+   },
+   {
+    "brokerId": "datax",
+    "broker": "Datax, Ltd.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-9766b9f49afb",
+     "web-c5548f30d1b1"
+    ]
+   },
+   {
+    "brokerId": "equifax-canada",
+    "broker": "Equifax Canada Co.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-9766b9f49afb"
+    ]
+   },
+   {
+    "brokerId": "equifax-information-services",
+    "broker": "Equifax Information Services LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0071d66f36bb",
+     "web-9766b9f49afb"
+    ]
+   },
+   {
+    "brokerId": "equifax-workforce-solutions",
+    "broker": "Equifax Workforce Solutions LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0071d66f36bb",
+     "web-9766b9f49afb"
+    ]
+   },
+   {
+    "brokerId": "knowledge-works",
+    "broker": "Knowledge Works, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-9766b9f49afb"
+    ]
+   },
+   {
+    "brokerId": "teletrack",
+    "broker": "Teletrack, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-9766b9f49afb"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "experian",
+   "name": "Experian plc",
+   "ticker": null,
+   "sources": [
+    "web-0a028966854b",
+    "web-0f987da55271",
+    "web-383d566f14bc",
+    "web-42a3a827e9cb",
+    "web-501a97d10fd5",
+    "web-c3a3ff457899"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "atdata",
+    "broker": "AtData, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-c3a3ff457899"
+    ]
+   },
+   {
+    "brokerId": "audigent",
+    "broker": "Audigent",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0a028966854b"
+    ]
+   },
+   {
+    "brokerId": "clarity-services",
+    "broker": "Clarity Services, Inc",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0f987da55271",
+     "web-383d566f14bc"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "freewheel",
+   "name": "FreeWheel",
+   "ticker": null,
+   "sources": [
+    "web-405228ae25a9"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "beeswax",
+    "broker": "Beeswax",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-405228ae25a9"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "gb",
+   "name": "GB Group plc",
+   "ticker": null,
+   "sources": [
+    "web-df14aca861f4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "acuant",
+    "broker": "Acuant, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-df14aca861f4"
+    ]
+   },
+   {
+    "brokerId": "idology",
+    "broker": "Idology, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-df14aca861f4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "general atlantic and stone point capital",
+   "name": "General Atlantic and Stone Point Capital",
+   "ticker": null,
+   "sources": [
+    "web-14b4d175e95a"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "hireright",
+    "broker": "Hireright, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-14b4d175e95a"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "gravy analytics",
+   "name": "Gravy Analytics, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-fd8ca4adf4e4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "venntel",
+    "broker": "Venntel, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-fd8ca4adf4e4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "greenhouse",
+   "name": "Greenhouse",
+   "ticker": null,
+   "sources": [
+    "web-7c711d8f17fc"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "perf-labs",
+    "broker": "Perf Labs, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-7c711d8f17fc"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "hubspot",
+   "name": "HubSpot, Inc.",
+   "ticker": {
+    "value": "HUBS",
+    "sources": [
+     "web-822cc7a00b9f"
+    ]
+   },
+   "sources": [
+    "web-822cc7a00b9f",
+    "web-d6e529105b21"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "hubspot",
+    "broker": "HubSpot, Inc.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-d6e529105b21"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "ignite visibility",
+   "name": "Ignite Visibility",
+   "ticker": null,
+   "sources": [
+    "web-4f9843e7a746",
+    "web-66e2eca581bd",
+    "web-ccec2943f044",
+    "web-de2763fb7d00"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "33-mile-radius",
+    "broker": "33 Mile Radius LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-4f9843e7a746",
+     "web-66e2eca581bd",
+     "web-ccec2943f044"
+    ]
+   },
+   {
+    "brokerId": "remodeling-com",
+    "broker": "Remodeling.com, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-de2763fb7d00",
+     "web-fdedd5f7d57d"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "informa",
+   "name": "Informa PLC",
+   "ticker": null,
+   "sources": [
+    "web-5294931caedb"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "informa",
+    "broker": "Informa Group Limited",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-5294931caedb"
+    ]
+   },
+   {
+    "brokerId": "techtarget",
+    "broker": "TechTarget, Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5294931caedb"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "iqvia",
+   "name": "IQVIA Holdings Inc.",
+   "ticker": {
+    "value": "IQV",
+    "sources": [
+     "web-bcc0ce5eb557"
+    ]
+   },
+   "sources": [
+    "web-0e34c5d5ade2",
+    "web-4450480e103a",
+    "web-bcc0ce5eb557"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "iqvia-digital",
+    "broker": "IQVIA Digital Inc.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-4450480e103a",
+     "web-bcc0ce5eb557"
+    ]
+   },
+   {
+    "brokerId": "throtle",
+    "broker": "THROTLE Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-bcc0ce5eb557"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "iss stoxx gmbh",
+   "name": "ISS STOXX GmbH",
+   "ticker": null,
+   "sources": [
+    "web-d0e66a61302b"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "institutional-shareholder-services",
+    "broker": "Institutional Shareholder Services Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d0e66a61302b"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "kalibrate",
+   "name": "Kalibrate",
+   "ticker": null,
+   "sources": [
+    "web-0011fc74a67e",
+    "web-ae7ee03be418"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "intalytics",
+    "broker": "Intalytics, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-ae7ee03be418"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "leidos",
+   "name": "Leidos Holdings, Inc.",
+   "ticker": {
+    "value": "LDOS",
+    "sources": [
+     "web-f3a5a1318253"
+    ]
+   },
+   "sources": [
+    "web-f3a5a1318253"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "leidos-digital-solutions",
+    "broker": "Leidos Digital Solutions, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-f3a5a1318253"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "lightcast",
+   "name": "Lightcast, LLC",
+   "ticker": null,
+   "sources": [
+    "web-9b164218e1a4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "lightcast",
+    "broker": "Lightcast, LLC",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-9b164218e1a4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "liveramp",
+   "name": "LiveRamp Holdings, Inc.",
+   "ticker": {
+    "value": "RAMP",
+    "sources": [
+     "web-4d7ed1c12d56"
+    ]
+   },
+   "sources": [
+    "web-4d7ed1c12d56",
+    "web-606c40c87614"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "liveramp",
+    "broker": "LiveRamp Holdings, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-606c40c87614"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "magnite",
+   "name": "Magnite, Inc.",
+   "ticker": {
+    "value": "MGNI",
+    "sources": [
+     "web-6e0d46be4933"
+    ]
+   },
+   "sources": [
+    "web-00f324c07ed3",
+    "web-6e0d46be4933"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "magnite",
+    "broker": "Magnite Inc",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-00f324c07ed3"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "marriott international",
+   "name": "Marriott International, Inc.",
+   "ticker": {
+    "value": "MAR",
+    "sources": [
+     "web-7e4870278895"
+    ]
+   },
+   "sources": [
+    "web-7e4870278895"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "marriott-international",
+    "broker": "Marriott International, Inc.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-7e4870278895"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "meritb2b",
+   "name": "MeritB2B, LLC",
+   "ticker": null,
+   "sources": [
+    "web-0bb031070a70"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "180-by-two",
+    "broker": "180 By Two, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0bb031070a70"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "moodys",
+   "name": "Moody's Corporation",
+   "ticker": {
+    "value": "MCO",
+    "sources": [
+     "web-39f4591d0dd4"
+    ]
+   },
+   "sources": [
+    "web-00f64a38f4bb",
+    "web-39f4591d0dd4",
+    "web-65e98f25fc9a",
+    "web-dfb8e1ae23e6",
+    "web-fc48674d2766"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "acquire-media-u-s",
+    "broker": "Acquire Media U.S., LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-39f4591d0dd4"
+    ]
+   },
+   {
+    "brokerId": "cortera",
+    "broker": "Cortera, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-65e98f25fc9a",
+     "web-dfb8e1ae23e6"
+    ]
+   },
+   {
+    "brokerId": "moody-s",
+    "broker": "Moody's Corporation",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-39f4591d0dd4"
+    ]
+   },
+   {
+    "brokerId": "moody-s-analytics",
+    "broker": "Moody's Analytics Inc",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-39f4591d0dd4"
+    ]
+   },
+   {
+    "brokerId": "regulatory-datacorp",
+    "broker": "Regulatory Datacorp, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-39f4591d0dd4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "morningstar",
+   "name": "Morningstar, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-4940a3af6db2"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "pitchbook-data",
+    "broker": "PitchBook Data Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-4940a3af6db2"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "nexxen international",
+   "name": "Nexxen International Ltd.",
+   "ticker": {
+    "value": "NEXN",
+    "sources": [
+     "web-bf77f7fcce71"
+    ]
+   },
+   "sources": [
+    "web-bf77f7fcce71"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "nexxen",
+    "broker": "Nexxen Inc",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-bf77f7fcce71"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "omnicom",
+   "name": "Omnicom Group Inc.",
+   "ticker": {
+    "value": "OMC",
+    "sources": [
+     "web-dc066720e1dc"
+    ]
+   },
+   "sources": [
+    "web-dc066720e1dc"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "acxiom",
+    "broker": "Acxiom LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-dc066720e1dc"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "one planet",
+   "name": "One Planet Group",
+   "ticker": null,
+   "sources": [
+    "web-bd6ff2da3b0f"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "buyerlink",
+    "broker": "Buyerlink Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-bd6ff2da3b0f"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "oracle",
+   "name": "Oracle Corporation",
+   "ticker": {
+    "value": "ORCL",
+    "sources": [
+     "web-d9fe6502cf44"
+    ]
+   },
+   "sources": [
+    "web-d9fe6502cf44"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "oracle-america",
+    "broker": "Oracle America Inc",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d9fe6502cf44"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "platinum equity",
+   "name": "Platinum Equity",
+   "ticker": null,
+   "sources": [
+    "web-62bf30d77898",
+    "web-93afdedb3cbf",
+    "web-bed2c9bfd7f5",
+    "web-de2763fb7d00"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "cision",
+    "broker": "Cision",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-62bf30d77898",
+     "web-bed2c9bfd7f5"
+    ]
+   },
+   {
+    "brokerId": "crimson-hexagon",
+    "broker": "Crimson Hexagon",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8ae108799eb8",
+     "web-de2763fb7d00"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "porch",
+   "name": "Porch Group, Inc.",
+   "ticker": {
+    "value": "PRCH",
+    "sources": [
+     "web-061c742bd6e2"
+    ]
+   },
+   "sources": [
+    "web-061c742bd6e2",
+    "web-118e417608e1",
+    "web-ada6f2068966"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "datamentors",
+    "broker": "Datamentors LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-061c742bd6e2",
+     "web-118e417608e1",
+     "web-ada6f2068966"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "publicis groupe",
+   "name": "Publicis Groupe SA",
+   "ticker": null,
+   "sources": [
+    "web-17b328ae1fbd",
+    "web-1d2c8ff82970"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "lotame-solutions",
+    "broker": "Lotame Solutions, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-17b328ae1fbd"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "red violet",
+   "name": "red violet, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-5f6ccb22cbe6",
+    "web-d86269afbe0a"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "forewarn",
+    "broker": "Forewarn, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5f6ccb22cbe6"
+    ]
+   },
+   {
+    "brokerId": "interactive-data",
+    "broker": "Interactive Data, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d86269afbe0a"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "relx",
+   "name": "RELX PLC",
+   "ticker": {
+    "value": "RELX",
+    "sources": [
+     "web-7c59e6d928bd"
+    ]
+   },
+   "sources": [
+    "web-423732d0c621",
+    "web-54b9a3919667",
+    "web-7c59e6d928bd",
+    "web-df82afeaf05d"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "id-analytics",
+    "broker": "ID Analytics, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-423732d0c621"
+    ]
+   },
+   {
+    "brokerId": "lexisnexis-risk-solutions-fl",
+    "broker": "LexisNexis Risk Solutions FL Inc.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-423732d0c621",
+     "web-54b9a3919667",
+     "web-df82afeaf05d"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "s and p global",
+   "name": "S&P Global Inc.",
+   "ticker": {
+    "value": "SPGI",
+    "sources": [
+     "web-8af5bf459a06"
+    ]
+   },
+   "sources": [
+    "web-8af5bf459a06",
+    "web-daaef768b9d4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "crisil-irvena-us",
+    "broker": "Crisil Irvena US LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8af5bf459a06"
+    ]
+   },
+   {
+    "brokerId": "ihs-markit",
+    "broker": "IHS Markit",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8af5bf459a06"
+    ]
+   },
+   {
+    "brokerId": "ipreo",
+    "broker": "Ipreo",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8af5bf459a06"
+    ]
+   },
+   {
+    "brokerId": "r-l-polk-and",
+    "broker": "R.L. Polk & Co.",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-8af5bf459a06"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "samba tv",
+   "name": "Samba TV",
+   "ticker": null,
+   "sources": [
+    "web-3a212c57cc49"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "semasio-gmbh",
+    "broker": "Semasio GmbH",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-3a212c57cc49"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "service titan",
+   "name": "Service Titan, Inc.",
+   "ticker": null,
+   "sources": [
+    "web-7e651472989e"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "convex-labs",
+    "broker": "Convex Labs LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-7e651472989e"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "stirista",
+   "name": "Stirista, LLC",
+   "ticker": null,
+   "sources": [
+    "web-0666e0e29c3b",
+    "web-1d4fa7ee7d8e",
+    "web-4a9d5026bd35",
+    "web-e9f586670eb4"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "alesco",
+    "broker": "The Alesco Group LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0666e0e29c3b",
+     "web-1d4fa7ee7d8e"
+    ]
+   },
+   {
+    "brokerId": "andrews-wharton",
+    "broker": "ANDREWS WHARTON Inc",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-e9f586670eb4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "teads",
+   "name": "Teads Holding Co.",
+   "ticker": {
+    "value": "TEAD",
+    "sources": [
+     "web-ca0ddd5458c8"
+    ]
+   },
+   "sources": [
+    "web-2046e2066b6b",
+    "web-ca0ddd5458c8"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "teads",
+    "broker": "Teads Inc",
+    "status": "needs_check",
+    "isNamedOwner": true,
+    "sources": [
+     "web-2046e2066b6b"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "the allstate",
+   "name": "The Allstate Corporation",
+   "ticker": {
+    "value": "ALL",
+    "sources": [
+     "web-8416dde53d8c"
+    ]
+   },
+   "sources": [
+    "web-8416dde53d8c",
+    "web-a7997c9a09dc"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "arity-875",
+    "broker": "Arity 875, LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-8416dde53d8c"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "the lifetime value",
+   "name": "The Lifetime Value Co. LLC",
+   "ticker": null,
+   "sources": [
+    "web-7f8c4a4bf0bc"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "beenverified",
+    "broker": "BeenVerified, LLC and its subsidiaries and affiliates",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-7f8c4a4bf0bc"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "thomson reuters",
+   "name": "Thomson Reuters",
+   "ticker": null,
+   "sources": [
+    "web-d7b32dfa4cc3"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "west-publishing",
+    "broker": "West Publishing Corp",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d7b32dfa4cc3"
+    ]
+   },
+   {
+    "brokerId": "west-publising",
+    "broker": "WEST PUBLISING CORPORATION",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-d7b32dfa4cc3"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "tinuiti",
+   "name": "Tinuiti",
+   "ticker": null,
+   "sources": [
+    "web-c96bb2860b54"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "bliss-point-media",
+    "broker": "Bliss Point Media, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-c96bb2860b54"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "transunion",
+   "name": "TransUnion",
+   "ticker": {
+    "value": "TRU",
+    "sources": [
+     "web-1bb96d7cf8d4"
+    ]
+   },
+   "sources": [
+    "web-1bb96d7cf8d4",
+    "web-8adbb329a9d9",
+    "web-fb6ef55629a5"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "commerce-signals",
+    "broker": "Commerce Signals, Inc.",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-1bb96d7cf8d4"
+    ]
+   },
+   {
+    "brokerId": "trans-union",
+    "broker": "Trans Union LLC",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-1bb96d7cf8d4"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "unacast",
+   "name": "Unacast",
+   "ticker": null,
+   "sources": [
+    "web-5d6f4d3220d5"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "gravy-analytics",
+    "broker": "Gravy Analytics, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5d6f4d3220d5"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "verisk analytics",
+   "name": "Verisk Analytics",
+   "ticker": null,
+   "sources": [
+    "web-55bab8fa79b4",
+    "web-8a0c8dc8c099",
+    "web-f4163ba7e80c"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "iso-claims-services",
+    "broker": "ISO Claims Services, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-f4163ba7e80c"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "verve",
+   "name": "Verve",
+   "ticker": null,
+   "sources": [
+    "web-e10f1989c8a5"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "jun-productions",
+    "broker": "Jun Group Productions, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-e10f1989c8a5"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "viant technology",
+   "name": "Viant Technology Inc.",
+   "ticker": {
+    "value": "DSP",
+    "sources": [
+     "web-9ce054808de7"
+    ]
+   },
+   "sources": [
+    "web-2d7224ee169a",
+    "web-9ce054808de7"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "viant-us",
+    "broker": "Viant US LLC",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-9ce054808de7"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "walmart",
+   "name": "Walmart Inc.",
+   "ticker": null,
+   "sources": [
+    "web-a3b25d0083a2"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "vizio-services",
+    "broker": "VIZIO Services, LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-a3b25d0083a2"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "webmd health",
+   "name": "WebMD Health Corp.",
+   "ticker": null,
+   "sources": [
+    "web-0d74d1847fa0"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "pulsepoint",
+    "broker": "PulsePoint, Inc.",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-0d74d1847fa0"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "wpp",
+   "name": "WPP plc",
+   "ticker": {
+    "value": "WPP",
+    "sources": [
+     "web-05a7e94e6870"
+    ]
+   },
+   "sources": [
+    "web-05a7e94e6870",
+    "web-80b01adca239"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "choreograph",
+    "broker": "Choreograph LLC",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-05a7e94e6870"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "zeta global",
+   "name": "Zeta Global",
+   "ticker": {
+    "value": "ZETA",
+    "sources": [
+     "web-8b8d91190a8f"
+    ]
+   },
+   "sources": [
+    "web-187e811bc514",
+    "web-5bd8a766704f",
+    "web-7703e8094659",
+    "web-8b8d91190a8f"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "disqus",
+    "broker": "Disqus",
+    "status": "needs_check",
+    "isNamedOwner": false,
+    "sources": [
+     "web-7703e8094659"
+    ]
+   },
+   {
+    "brokerId": "liveintent",
+    "broker": "LiveIntent",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-5bd8a766704f"
+    ]
+   },
+   {
+    "brokerId": "zeta-global",
+    "broker": "Zeta Global",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-5bd8a766704f"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "ziff davis",
+   "name": "Ziff Davis, Inc.",
+   "ticker": {
+    "value": "ZD",
+    "sources": [
+     "web-a9995fe5b01f"
+    ]
+   },
+   "sources": [
+    "web-8e16d0b1df89",
+    "web-a9995fe5b01f",
+    "web-cbdd496738f3"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "ziff-davis",
+    "broker": "Ziff Davis LLC",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-8e16d0b1df89",
+     "web-a9995fe5b01f"
+    ]
+   }
+  ]
+ },
+ {
+  "owner": {
+   "key": "zoominfo technologies",
+   "name": "ZoomInfo Technologies Inc.",
+   "ticker": {
+    "value": "GTM",
+    "sources": [
+     "web-368ef3623f99"
+    ]
+   },
+   "sources": [
+    "web-02c71d90480e",
+    "web-368ef3623f99",
+    "web-4c931cca891e",
+    "web-bdac8ba50588"
+   ]
+  },
+  "members": [
+   {
+    "brokerId": "clickagy",
+    "broker": "Clickagy LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-368ef3623f99"
+    ]
+   },
+   {
+    "brokerId": "datanyze",
+    "broker": "Datanyze LLC",
+    "status": "ready",
+    "isNamedOwner": false,
+    "sources": [
+     "web-368ef3623f99",
+     "web-bdac8ba50588"
+    ]
+   },
+   {
+    "brokerId": "zoominfo-technologies",
+    "broker": "ZoomInfo Technologies, LLC",
+    "status": "ready",
+    "isNamedOwner": true,
+    "sources": [
+     "web-368ef3623f99"
+    ]
+   }
+  ]
+ }
+]

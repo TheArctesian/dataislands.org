@@ -52,7 +52,7 @@
   {#if shown}
     <div class="sheet panel">
       <form method="dialog"><button>Close</button></form>
-      <BrokerDetails broker={shown.broker} island={shown.island} sourceNames={shown.sourceNames} />
+      <BrokerDetails broker={shown.broker} island={shown.island} sources={shown.sources} />
     </div>
   {/if}
 </dialog>
@@ -71,7 +71,8 @@
   @starting-style { dialog[open]::backdrop { background: rgb(20 48 74 / 0%); } }
   .flight-sky { position: fixed; inset: 0 auto auto 0; width: 0; height: 0; margin: 0; padding: 0; border: 0; background: none; overflow: visible; pointer-events: none; }
   .panel { max-width: none; }
-  form { display: flex; justify-content: flex-end; }
+  form { position: absolute; top: clamp(1.25rem, 4vw, 2.5rem); right: clamp(1.25rem, 4vw, 2.5rem); z-index: 1; }
+  @media (min-width: 40rem) { .panel :global(header) { padding-right: 5.5rem; } }
   button { padding: 0.45rem 0.9rem; border: 2px solid var(--ink); border-radius: 0.3rem; background: #fff; color: var(--ink); font: inherit; font-weight: 700; cursor: pointer; transition: background-color var(--motion-fast) var(--motion-ease); }
   button:hover { background: var(--sun); }
   @media (prefers-reduced-motion: reduce) {

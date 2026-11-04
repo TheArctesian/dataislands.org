@@ -1,7 +1,8 @@
 <script lang="ts">
   import { onDestroy } from "svelte";
-  import { preloadData, pushState, replaceState } from "$app/navigation";
+  import { afterNavigate, goto, preloadData, pushState, replaceState } from "$app/navigation";
   import { page } from "$app/state";
+  import { mapAbove } from "#lib/atlas/islandTravel.ts";
   import { LatestRequest, prefersReducedMotion } from "#lib/atlas/motion.ts";
   import BrokerDialog from "#lib/components/BrokerDialog.svelte";
   import BrokerIcon from "#lib/components/BrokerIcon.svelte";
@@ -17,6 +18,18 @@
   let listHeight = $state<number | null>(null);
   const shown = $derived(brokers.filter((broker) => broker.name.toLowerCase().includes(query.trim().toLowerCase())));
   const requests = new LatestRequest<string>();
+  const map = $derived(mapAbove(page.route.id));
+  let cameFromMap = false;
+
+  afterNavigate(({ from }) => {
+    if (from) cameFromMap = from.url.pathname === map;
+  });
+
+  /** Going back when the map is the last page keeps its scroll, so the island lands where it left. */
+  function leaveToMap() {
+    if (cameFromMap) history.back();
+    else void goto(map);
+  }
 
   function cancelPending() {
     requests.cancel();
@@ -75,7 +88,7 @@
 </div>
 
 {#key island.slug}
-  <IslandScene slug={island.slug} {brokers} {position} {open} {pendingId} paused={!!page.state.selected} oninteract={cancelPending} />
+  <IslandScene slug={island.slug} {brokers} {position} {open} {pendingId} paused={!!page.state.selected} oninteract={cancelPending} mapName={map === "/owners" ? "owners" : "islands"} onleave={leaveToMap} />
 {/key}
 
 <section class="sheet">

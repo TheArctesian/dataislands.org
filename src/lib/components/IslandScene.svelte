@@ -4,12 +4,13 @@
   import type { IconLayout, IconSpots } from "#lib/atlas/IconSpots.ts";
   import { CriticalSpring, prefersReducedMotion } from "#lib/atlas/motion.ts";
   import { PanZoomView } from "#lib/atlas/PanZoomView.ts";
+  import { ZoomOutPull } from "#lib/atlas/ZoomOutPull.ts";
   import BrokerIcon from "#lib/components/BrokerIcon.svelte";
 
   type Listed = { id: string; name: string; iconFile: string | null };
-  let { slug, brokers, position, open, pendingId = null, paused = false, oninteract = () => {} }: {
+  let { slug, brokers, position, open, pendingId = null, paused = false, oninteract = () => {}, mapName, onleave }: {
     slug: string; brokers: Listed[]; position: number; open: (event: MouseEvent, id: string) => void;
-    pendingId?: string | null; paused?: boolean; oninteract?: () => void;
+    pendingId?: string | null; paused?: boolean; oninteract?: () => void; mapName: string; onleave: () => void;
   } = $props();
 
   const PHONE_WIDTH = 600;
@@ -23,8 +24,10 @@
   const THROW_DECAY_PER_SECOND = 5;
   const THROW_MIN_SPEED = 40;
   const LANDING_SPREAD_MS = 260;
+  const WHEEL_PINCH_END_MS = 140;
 
   let canvas: HTMLCanvasElement;
+  let viewport: HTMLDivElement;
   let world: HTMLDivElement;
   let iconLayer: HTMLDivElement;
   let finder = $state<IconSpots | null>(null);
@@ -32,6 +35,8 @@
   let height = $state(0);
   let view = $state(new PanZoomView(1, 1, 1));
   let landed = $state(false);
+  let pull = $state(new ZoomOutPull());
+  let leaving = $state(false);
   let stage = $state.raw<{ setPaused(paused: boolean): void; refresh(): void; onDraw: ((seconds: number) => void) | null } | null>(null);
   let idleBob: ((seconds: number) => number) | null = null;
   let frame = 0;
@@ -40,6 +45,7 @@
   const fullSize = $derived(width < PHONE_WIDTH ? 26 : 30);
   const layout = $derived<IconLayout | null>(finder && width && height ? finder.layout(brokers.length, width, height, fullSize + 4) : null);
   const maxZoom = $derived(Math.max((layout?.scale ?? 1) * 1.5, 3));
+  const pullScale = $derived(prefersReducedMotion() ? 1 : pull.scale);
   const iconSize = $derived(Math.round(Math.max(MIN_ICON, Math.min(fullSize, (fullSize * view.zoom) / (layout?.scale ?? 1)))));
 
   $effect(() => {
@@ -50,13 +56,20 @@
   });
   $effect(() => {
     void view;
+    void pull;
     stage?.refresh();
   });
   $effect(() => {
     stage?.setPaused(paused);
   });
 
+  /** Two fingers belong to the pinch even where one finger still scrolls the page. */
+  function holdPinch(event: TouchEvent) {
+    if (event.touches.length > 1) event.preventDefault();
+  }
+
   onMount(async () => {
+    viewport.addEventListener("touchmove", holdPinch, { passive: false });
     const [{ PreviewStage }, { IslandGenerator }, { IconSpots }, { islandInput }, { idlePose }, { IsoFraming }] = await Promise.all([
       import("#islands/render/PreviewStage.ts"),
       import("#islands/IslandGenerator.ts"),
@@ -89,6 +102,9 @@
   });
   onDestroy(() => {
     islandTravel.sceneGone(travelScene);
+    viewport?.removeEventListener("touchmove", holdPinch);
+    clearTimeout(wheelPinchEnd);
+    if (pullFrame) cancelAnimationFrame(pullFrame);
     stopMotion();
     cleanup();
   });
@@ -105,6 +121,8 @@
   let cameraTarget: PanZoomView | null = null;
   let springs: { zoom: CriticalSpring; x: CriticalSpring; y: CriticalSpring } | null = null;
   let throwing = false;
+  let pullFrame = 0;
+  let wheelPinchEnd: ReturnType<typeof setTimeout> | undefined;
 
   function glideTo(target: PanZoomView) {
     if (prefersReducedMotion()) {
@@ -144,6 +162,41 @@
     springs = null;
     cameraTarget = null;
     throwing = false;
+    clearTimeout(wheelPinchEnd);
+    if (pullFrame) cancelAnimationFrame(pullFrame);
+    pullFrame = 0;
+  }
+
+  /** Zooms with the hand, and anything past the whole island becomes a pull towards the map. */
+  function pinch(x: number, y: number, factor: number) {
+    if (leaving) return;
+    const next = pull.by(view.zoom, factor);
+    pull = next.pull;
+    view = view.zoomAt(x, y, next.factor);
+  }
+
+  /** Letting go past the mark leaves for the map. Anywhere short of it, the island settles back. */
+  function endPull() {
+    if (!pull.isPulling || leaving) return;
+    if (pull.willLeave) {
+      leaving = true;
+      onleave();
+      return;
+    }
+    if (prefersReducedMotion()) {
+      pull = new ZoomOutPull();
+      return;
+    }
+    const spring = new CriticalSpring(pull.stretch, CAMERA_RESPONSE);
+    let last = performance.now();
+    const step = (now: number) => {
+      spring.step(0, Math.min((now - last) / 1000, 0.05));
+      last = now;
+      const done = spring.isAt(0, 0.002);
+      pull = new ZoomOutPull(done ? 0 : spring.value);
+      pullFrame = done ? 0 : requestAnimationFrame(step);
+    };
+    pullFrame = requestAnimationFrame(step);
   }
 
   function throwFrom(vx: number, vy: number) {
@@ -209,7 +262,7 @@
       const distance = Math.hypot(a.x - b.x, a.y - b.y);
       if (pinchDistance) {
         const middle = local({ clientX: (a.x + b.x) / 2, clientY: (a.y + b.y) / 2 }, element);
-        view = view.zoomAt(middle.x, middle.y, distance / pinchDistance);
+        pinch(middle.x, middle.y, distance / pinchDistance);
       }
       pinchDistance = distance;
     } else if (dragged > DRAG_THRESHOLD) {
@@ -224,21 +277,27 @@
 
   function pointerEnd(event: PointerEvent) {
     const wasOnly = pointers.size === 1;
+    const wasPinch = pointers.size === 2;
     pointers.delete(event.pointerId);
     pinchDistance = 0;
+    if (wasPinch) {
+      if (event.type === "pointerup") endPull();
+      else pull = new ZoomOutPull();
+    }
     if (wasOnly && dragged > DRAG_THRESHOLD && event.type === "pointerup" && event.timeStamp - lastMove < 80) throwFrom(dragSpeed.x, dragSpeed.y);
   }
 
-  /** At a zoom limit the wheel goes back to scrolling the page, so it never traps the reader. */
+  /** At a zoom limit the wheel goes back to scrolling the page, so it never traps the reader. A trackpad pinch arrives as a ctrl wheel, and it carries on towards the map. */
   function wheel(event: WheelEvent) {
     const factor = Math.exp(-event.deltaY * (event.ctrlKey ? 0.01 : 0.002));
-    const atLimit = (factor < 1 && view.zoom <= 1) || (factor > 1 && view.zoom >= view.maxZoom);
+    const atLimit = (factor < 1 && view.zoom <= 1 && !event.ctrlKey) || (factor > 1 && view.zoom >= view.maxZoom);
     if (atLimit) return;
     event.preventDefault();
     takeOver();
     landed = true;
     const point = local(event, event.currentTarget as Element);
-    view = view.zoomAt(point.x, point.y, factor);
+    pinch(point.x, point.y, factor);
+    if (event.ctrlKey) wheelPinchEnd = setTimeout(endPull, WHEEL_PINCH_END_MS);
   }
 
   function zoomButton(factor: number) {
@@ -278,6 +337,7 @@
 <!-- svelte-ignore a11y_no_noninteractive_tabindex, a11y_no_noninteractive_element_interactions -->
 <div
   class="viewport"
+  bind:this={viewport}
   class:zoomed={view.isZoomedIn}
   role="group"
   tabindex="0"
@@ -297,7 +357,7 @@
     bind:this={world}
     style:width="{width * view.zoom}px"
     style:height="{height * view.zoom}px"
-    style:transform="translate({view.x}px, {view.y}px)"
+    style:transform="translate({view.x + (width * (1 - pullScale)) / 2}px, {view.y + (height * (1 - pullScale)) / 2}px) scale({pullScale})"
   >
     <div class="icons" class:landed bind:this={iconLayer}>
       {#each layout?.positions ?? [] as fraction, index (brokers[index]?.id)}
@@ -320,6 +380,7 @@
       {/each}
     </div>
   </div>
+  <p class="pull-hint" class:shown={pull.isPulling} aria-hidden="true">{pull.willLeave ? `Let go to see all ${mapName}` : `Keep pinching to see all ${mapName}`}</p>
   <div class="controls">
     <button aria-label="Zoom in" disabled={view.zoom >= view.maxZoom} onclick={() => zoomButton(ZOOM_STEP)}>+</button>
     <button aria-label="Zoom out" disabled={!view.isZoomedIn} onclick={() => zoomButton(1 / ZOOM_STEP)}>−</button>
@@ -344,6 +405,8 @@
   @keyframes ring-turn { to { rotate: 1turn; } }
   a :global(img) { pointer-events: none; }
   a:hover, a:focus-visible { z-index: 3; scale: 1.35; }
+  .pull-hint { position: absolute; top: 0.75rem; left: 50%; translate: -50% 0; margin: 0; padding: 0.3rem 0.8rem; border-radius: 0.3rem; background: var(--cloud); font-weight: 700; white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity var(--motion-fast) var(--motion-ease); }
+  .pull-hint.shown { opacity: 1; }
   .controls { position: absolute; right: 0.5rem; top: 0.5rem; display: flex; flex-direction: column; gap: 0.3rem; }
   button { transition: background-color var(--motion-fast) var(--motion-ease); min-width: 2.75rem; min-height: 2.75rem; padding: 0 0.4rem; border: 2px solid var(--ink); border-radius: 0.3rem; background: var(--cloud); color: var(--ink); font: inherit; font-weight: 700; cursor: pointer; }
   button:not(:disabled):hover { background: var(--sun); }

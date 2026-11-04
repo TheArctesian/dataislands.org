@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { IslandTravel, travelDirection, travelSlug } from "../src/lib/atlas/islandTravel.ts";
+import { IslandTravel, mapAbove, travelDirection, travelSlug } from "../src/lib/atlas/islandTravel.ts";
 
 test("page travel goes in from a map, out to a map, and is plain elsewhere", () => {
   assert.equal(travelDirection("/", "/islands/[slug]"), "in");
@@ -8,6 +8,11 @@ test("page travel goes in from a map, out to a map, and is plain elsewhere", () 
   assert.equal(travelDirection("/islands/[slug]", "/"), "out");
   assert.equal(travelDirection("/sources", "/"), null);
   assert.equal(travelDirection("/islands/[slug]", "/brokers/[id]"), null);
+});
+
+test("an island zooms out to the map it belongs to", () => {
+  assert.equal(mapAbove("/islands/[slug]"), "/");
+  assert.equal(mapAbove("/owners/[slug]"), "/owners");
 });
 
 const scene = (canLift = true) => {

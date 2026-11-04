@@ -9,6 +9,8 @@ type Route = string | null | undefined;
 const isMap = (route: Route) => route === "/" || route === "/owners";
 const isIsland = (route: Route) => route === "/islands/[slug]" || route === "/owners/[slug]";
 
+export const mapAbove = (route: Route): "/" | "/owners" => (route === "/owners/[slug]" ? "/owners" : "/");
+
 export function travelDirection(from: Route, to: Route): "in" | "out" | null {
   if (isMap(from) && isIsland(to)) return "in";
   if (isIsland(from) && isMap(to)) return "out";

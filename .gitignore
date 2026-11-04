@@ -17,3 +17,5 @@ data/ownership/page-evidence.csv
 data/ownership/review/parent-queue.csv
 data/ownership/review/parent-results.csv
 __pycache__/
+.vercel
+.env*

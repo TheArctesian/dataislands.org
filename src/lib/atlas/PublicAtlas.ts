@@ -11,6 +11,7 @@ export interface BrokerFile {
   privacyUrls: SourcedValue<string>[];
   optOutUrls: SourcedValue<string>[];
   registrations: SourcedValue<string>[];
+  dba?: SourcedValue<string>[];
   categoryHints: SourcedValue<string>[];
   californiaDeclarations: SourcedValue<{ sensitive: string[] }> | null;
   prcCollects: SourcedValue<Record<string, boolean>> | null;
@@ -51,6 +52,7 @@ export interface PublicFact {
 export interface PublicBroker {
   id: string;
   name: string;
+  tradesAs: PublicFact[];
   islandSlug: string;
   domains: PublicFact[];
   privacyUrls: PublicFact[];
@@ -201,6 +203,7 @@ export class PublicAtlas {
       islandSlug: place.slug,
       iconFile: this.iconFiles.get(broker.id) ?? null,
       categoryEvidence: place.evidence && { url: place.evidence.evidenceUrl, quote: place.evidence.quote },
+      tradesAs: (broker.dba ?? []).filter((fact) => fact.value.toLowerCase() !== broker.name.value.toLowerCase()),
       domains: broker.domains,
       privacyUrls: links(broker.privacyUrls),
       optOutUrls: links(broker.optOutUrls),
